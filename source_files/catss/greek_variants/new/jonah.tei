@@ -1,0 +1,2077 @@
+<teiHeader>
+<fileDesc>
+  <titleStmt>
+    <title>Text and Textual Variants for the Old Greek Book of 
+           Jonah (Minor Prophets): electronic edition 
+    </title>
+  </titleStmt>
+  <editionStmt>
+    Public Domain CATSS edition prepared at the University of 
+    Pennsylvania, Center for Computer Analysis of Texts
+  </editionStmt>
+  <extent>
+    Filesize uncompressed: about 51 K
+  </extent>
+  <publicationStmt>
+    <distributor>Center for Computer Analysis of Texts</distributor>
+    <address>College Hall Box 36, University of Pennsylvania, 
+      Philadelphia PA 19104-6303 USA; kraft@ccat.sas.upenn.edu
+    </address>
+    <idno>Bible:OldGreek:MinorProphets:Jonah (041)</idno>
+    <availability><p>Freely available for non-commercial use 
+      provided that this header is included in its entirety 
+      with any copy distributed and that errors/corrections
+      or other problems are reported to the distributor.</p>
+    </availability>
+    <date>1991</date>
+  </publicationStmt>
+  <notesStmt>
+  </notesStmt>
+  <sourceDesc><p>Based on <bibl>Septuaginta: Vetus Testamentum Graecum 
+    auctoritate Societatis Litterarum Gottingensis editum, vol. 13, 
+    Duodecim prophetae, ed. Joseph Ziegler (Goettingen: 
+    Vandenhoeck &amp; Ruprecht, 1943) 244-253</bibl>, supplemented with 
+    more recent discoveries. Initial encoding (scanned), 
+    verification, and reformatting by the Computer Assisted Tools
+    for Septuagint Studies (CATSS) project staff, University of
+    Pennsylvania.</p></sourceDesc>
+</fileDesc>
+<encodingDesc>
+  <editorialDecl><p>File format is described by Robert Kraft, 
+    <art>"Treatment of the Greek Textual Variants"</art> 
+    in <t>Computer Assisted Tools for Septuagint Studies 
+    (CATSS)</t>, vol. 1: <subt>Ruth</subt>, 
+    <sert>Septuagint and Cognate Studies</sert> vol. 20 
+    (Scholars Press, 1986).</p> 
+    <p>Categories of variants are marked thus -- 
+    ">" = lacking in the following witnesses, "+" = longer 
+    text, ":" = alternative reading, "~" = transposition.</p> 
+    <p>Greek words are enclosed by <gk>...</gk>, 
+    <it>...</it> indicates italics, and <Lt>...</Lt> indicates Latin words and phrases; 
+    for the Greek transliterations, TLG "Beta Coding" is used.</p> 
+  </editorialDecl>
+  <refsDecl>
+    <p>Text divisions are marked by "~" at left margin, followed 
+      by "a" to designate the book, "x" for chapter, and "y" for
+      verse; explicit numbers have been added for the user's 
+      convenience -- thus "~x2y5" = chapter 2, verse 5.</p>
+  </refsDecl>
+</encodingDesc>
+<revisionDesc>
+  <change>
+    <date>1992</date>
+    <respStmt><name>Robert Kraft</name><resp>edit format</resp>
+    </respStmt>
+    <date>8 Jun 1994</date>
+    <respStmt><name>Robert Kraft</name><resp>edit format</resp>
+    </respStmt>
+  </change>
+</revisionDesc>
+</teiHeader>
+
+~a"OGVar"b"041"c"Jonah"x"t" 
+~t
+@@@@@@{1<it>0*I*W*N*A*S<\>0}1     {????}
+~t"Inscriptio"
+ +<<gk>O<\> <it>lI<\> 
+ +<<gk>PROFHTHS<\> <it>lI<\>
+ +<<gk>PROFHTEIA<\> 36 Bo Syh
+ +<<Lt>incipit<\> La{S}
+<gk>IWNAS<\> <it>C<\>-68-130-239 407' AchSa <it>lI<\>] 
+ : <Lt>ionas<\> La{S}
+ : <gk>IWNA<\> 36 106 Bo Syh 
+ + <Lt>propheta<\> La{S} 
+ + <gk>PROFHTHS<\> 538 
+ + <gk>V<\>' W B-S A`-Q'-49-198-233'-534 538 
+ + <gk>E'<\> V 311 <it>L<\>{-36} <it>lI<\> 
+ + <Lt>prophetae<\> Bo 
+ + <gk>TOU<\> 106(+4)
+ + <gk>PROFHTOU<\> 106(+4) 
+ + <gk>KEFALAION<\> 106(+4)
+ + <gk>A'<\> 106(+4) 
+ + <gk>DEHSIS<\> 86(+ <gk>O E' EN TO EBRAIKW<\> (mg) et <gk>IWNAS APLASTOS  PERISTERA<\> (mg))-613         {????}
+ + <gk>KURIOU<\> 86(+ <gk>O E' EN TO EBRAIKW<\> (mg) et <gk>IWNAS  APLASTOS  PERISTERA<\> (mg))-613 
+ + <gk>J'<\> 86(+ <gk>O E' EN TO EBRAIKW<\> (mg) et <gk>IWNAS APLASTOS PERISTERA<\>
+  (mg)) 
+~x1y1 
+@<gk>*KAI\<\>]  > <it>lII<\>(86{*}) 26 AchSa Bas.II 133 
+<gk>E)GE/NETO<\> 
+<gk>LO/GOS<\>
+<gk>KURI/OU<\>] > V
+<gk>PRO\S<\> 
+<gk>*IWNAN<\>] 
+ : <gk>IWNA<\> W Bo = MT (sic W omnibus locis exc. 1:5 3:4 4:5;
+  item Bo, exc. 1:5)
+ + <Lt>prophetam<\> Aeth{p}
+<gk>TO\N<\>..] 
+<gk>TOU=<\>] > 130'
+ : <gk>UION<\> 198 = MT (2nd)
+<gk>*AMAQI<\>
+<gk>LE/GWN<\>
+~x1y2
+<gk>*)ANA/STHQI<\> 
+<gk>KAI\<\>
+<gk>POREU/QHTI<\>] 
+ : <gk>POREUOU<\> A
+ : <gk>POREUQUTHTI<\> B* 
+<gk>EI)S<\>
+ +<<gk>THN<\> A
+<gk>*NINEUH<\> 
+<gk>TH\N<\>] 
+ : <gk>TH<\> 534 
+<gk>PO/LIN<\>] > 46{*}(~)
+ : <gk>POLEI<\> 534
+<gk>TH\N<\>] > 46 Bo 
+ : <gk>TH<\> 534 
+<gk>MEGA/LHN<\>] > Bo
+ : <gk>MEGALH<\> 534 
+ + <gk>PO/LIN<\>] 46(~)
+<gk>KAI\<\>
+<gk>KH/RUCON<\>
+<gk>E)N<\> 
+<gk>AU)TH=|<\> 
+, 
+<gk>O(/TI<\> 
+<gk>A)NE/BH<\> 
+<gk>H(=|<\>
+<gk>KRAUGH\<\>] > <it>lII<\>(~) Ach: cf. MT 
+ + <gk>KAKIA<\> <it>lII<\>(~) Ach: cf. MT 
+<gk>TH=S<\>] > Ach: cf. MT 
+<gk>KAKI/AS<\>] > <it>lII<\>(~) Ach: cf. MT 
+ + <gk>KRAUGHS<\> <it>lII<\>(~) 
+ : <gk>KATOIKIAS<\> <it>lI<\> 
+<gk>AU)TH=S<\>]
+ : <gk>TAUTHS<\> 147 
+ : <gk>AUTWN<\> <it>C<\> SypAeth Th.Tht. = MT 
+<gk>PRO/S<\> 
+<gk>ME<\>
+. 
+~x1y3
+<gk>KAI\<\>
+<gk>A)NE/STH<\>] 
+ : <gk>ANEBH<\> <it>C<\> 26 
+ : <gk>EPOREUQH<\> Aeth Bas.N. 
+<gk>*IWNAS<\>
+<gk>TOU=<\>
+<gk>FUGEI=N<\> 
+<gk>EI)S<\>
+<gk>*QARSIS<\> 
+<gk>E)K<\>] > W Bas.N.(>13)
+ : <gk>APO<\> A-534 Chr.II309Thph. 
+<gk>PROSW/POU<\>] > W Bas.N.(>13)
+<gk>KURI/OU<\>] > W Bas.N.(>13)
+<gk>KAI\<\>] > W Bas.N.(>13) 
+<gk>KATE/BH<\>] > W Bas.N.(>13)
+ : <Lt>ascendit<\> Hi. 
+ : <Lt>intravit<\> Co
+<gk>EI)S<\>] > W Bas.N.(>13) 
+<gk>*IOPPHN<\>] > W Bas.N.(>13)
+ : <gk>IPPHN<\> S*$
+<gk>KAI\<\>] > W Bas.N.(>13) 
+<gk>EU(=REN<\>] > W Bas.N.(>13)
+<gk>PLOI=ON<\>] > W Bas.N.(>13)
+<gk>BADI/ZON<\>] > W Bas.N.(>13) 
+<gk>EI)S<\>] > W Bas.N.(>13) 
+<gk>*QARSIS<\>] > W Bas.N.(>13)
+<gk>KAI\<\>] > S{*}(>15) 
+<gk>E)/DWKE<\>] > S{*}(>15)
+ : <gk>E)/DWKEN<\>] Ra 
+<gk>TO\<\>] > S{*}(>15) W{c} 
+ : <gk>TON<\> 490-68 410 
+<gk>NAU=LON<\>] > S{*}(>15)
+ : <gk>DIAPLON<\> W{c} 
+<gk>AU)TOU=<\>] > S{*}(>15)
+<gk>KAI\<\>] > S{*}(>15) 
+<gk>E)NE/BH<\>] > S{*}(>15)
+ : <gk>ANEBH<\> W-407{*} 46 <it>C<\>'{-538}-49'`-68-239-534 233'544 
+  Chr.II288Cyr{p} Thph.: cf. Act. 21:6
+<gk>EI)S<\>] > S{*}(>15) 
+<gk>AU)TO\<\>] > S{*}(>15) 
+ : <gk>TO<\>.. 49
+ + <gk>PLOION<\> 49
+<gk>TOU=<\>] > S{*}(>15) 
+<gk>PLEU=SAI<\>] > S{*}(>15) 
+ : <gk>PLEEIN<\> 86{*} 
+<gk>MET'<\>] > S{*}(>15) A'-49(~)
+<gk>AU)TW=N<\>] > S{*}(>15) A'-49(~) 
+ + <gk>EI)S<\> A'-49(~)
+ + <gk>*QARSIS<\> A'-49(~) 
+<gk>EI)S<\>] > S{*}(>15) A'-49(~)
+<gk>*QARSIS<\>] > S{*}(>15) A'-49(~) 
+ + <gk>MET'<\> A'-49(~)
+ + <gk>AU)TW=N<\> A'-49(~) 
+<gk>E)K<\> 
+<gk>AU)TW=N<\> 
+ +<<gk>TOU<\> <it>C<\>{-490}
+<gk>KURI/OU<\> 
+. 
+~x1y4
+<gk>KAI\<\>] > V 
+ +<<gk>O<\> V
+ + <gk>DE<\> V 
+<gk>KU/RIOS<\> 
+<gk>E)CH/GEIREN<\>]
+ : <gk>DIHGEIRE(N)<\> <it>lII<\>
+ : <gk>ECHRE<\> 62 
+<gk>PNEU=MA<\> 
+ + <gk>MEGA<\> <it>L<\>'-239{c}-407 87{c}-68 SaBoAethArab Cyr.{p}Thph.Hi. = 
+  MT(2nd) 
+<gk>EI)S<\> W] 
+ : <gk>EPI<\> B-S{*} 
+<gk>TH\N<\>
+<gk>QA/LASSAN<\> 
+, 
+<gk>KAI\<\>
+<gk>E)GE/NETO<\> 
+<gk>KLU/DWN<\> 
+<gk>ME/GAS<\>
+<gk>E)N<\> 
+<gk>TH=|<\>..] 
+<gk>QALA/SSH|<\>]
+ : <Lt>ea<\> AchSa 
+, 
+<gk>KAI\<\>
+<gk>TO\<\> 
+<gk>PLOI=ON<\> 
+<gk>E)KINDU/NEUEN<\>]
+ : <gk>EKINDUNEUSE(N)<\> Q{*}-544
+ +<<gk>TOU<\> S{c}(vid.) A'`-49'-410 <it>lII<\>(86{txt}) Bo Bas.N. V-68-239{c}
+<gk>SUNTRIBH=NAI<\>] 
+ : <gk>DIALUQHNAI<\> S{c}(vid.) A'`-49'-410 <it>lII<\>(86{txt}) Bo Bas.N. 
+. 
+~x1y5
+<gk>KAI\<\>
+<gk>E)FOBH/QHSAN<\>
+<gk>OI(<\> 
+<gk>NAUTIKOI\<\>]
+ : <gk>NAUTAI<\> 36
+ + <gk>FOBW<\> 36-<it>lII<\> 130'-239 La{S} SaSyh(%)SypArm: cf. 10; adn.
+  <<hic obelus non positus erat in hexaplis>> Syh{mg} 
+ + <gk>MEGALW<\> 36-<it>lII<\> 130'-239 La{S} SaSyh(%)SypArm: cf. 10; adn.
+  <<hic obelus non positus erat in hexaplis>> Syh{mg} 
+<gk>KAI\<\>
+<gk>A)NEBO/WN<\> 
+ : <gk>ANEBOHSAN<\> B-S{*} 147 
+ : <gk>ANEBOHSEN<\> V
+ : <gk>EBOWN<\> A
+ : <gk>ANEBOOUN<\> 86
+<gk>E(/KASTOS<\> 
+<gk>PRO\S<\> 
+ +<<Lt>dominum<\> Arab 
+<gk>TO\N<\>..] 
+<gk>QEO\N<\>]
+ : <Lt>dominum<\> La{S}
+<gk>AU)TW=N<\> W]
+ : <gk>AUTOU<\> B-S-V <it>O<\> <it>L<\>'{-36}-613 <it>C<\>'-68 CoSypArm Bas.N. Thph. = MT;                                 {????}
+ : <gk>EAUTWN<\> 106 
+<gk>KAI\<\>
+<gk>E)KBOLH\N<\> 
+<gk>E)POIH/SANTO<\>] 
+ : <gk>EPOIOUNTO<\> <it>lII<\>(86c) 233'
+<gk>TW=N<\>
+<gk>SKEUW=N<\> 
+ + <gk>AUTWN<\> 410
+<gk>TW=N<\>
+ + <gk>ONTWN<\> 239
+<gk>E)N<\> 
+<gk>TW=|<\>
+<gk>PLOI/W|<\> 
+<gk>EI)S<\>] > 147(>3) 
+<gk>TH\N<\>] > 147(>3) 
+<gk>QA/LASSAN<\>] > 147(>3)
+<gk>TOU=<\>] > 106(>4) 
+<gk>KOUFISQH=NAI<\>] > 106(>4) 
+ + <Lt>navem<\> AchSa Aeth 
+<gk>A)P'<\>] > 106(>4) 22{c} 68 Hi.
+ : <gk>EP<\> 22{*}(?)-48 
+<gk>AU)TW=N:<\>] > 106(>4)      {????}
+ : <gk>AUTO<\> 22{c} 
+ : <gk>AUTW<\> 68
+ : <Lt>navis<\> Hi.
+ + <gk>KAI<\> 106: ex 4(+7)
+ + <gk>EGENETO<\> 106: ex 4(+7)
+ + <gk>KLUDWN<\> 106: ex 4(+7) 
+ + <gk>MEGAS<\> 106: ex 4(+7)
+ + <gk>EN<\> 106: ex 4(+7) 
+ + <gk>TH<\> 106: ex 4(+7) 
+ + <gk>QALASSH<\>> 106: ex 4(+7) 
+ +<<gk>KAI<\> V Arm = MT 
+ +<<gk>O<\> Thph.
+: 
+<gk>*IWNAS<\>
+<gk>DE\<\>] > V Arm = MT 
+<gk>KATE/BH<\> 
+<gk>EI)S<\>
+<gk>TH\N<\>
+<gk>KOI/LHN<\>]
+ : <gk>KOILIAN<\> 36-147-613 106 Thph. 
+<gk>TOU=<\>
+<gk>PLOI/OU<\> 
+<gk>KAI\<\>
+<gk>E)KA/QEUDE<\>] 
+ : <gk>E)KA/QEUDEN<\> Ra 
+ + <gk>EKEI<\> <it>L<\>' Th(2nd)
+<gk>KAI\<\>
+<gk>E)/RREGXE<\>]
+ : <gk>E)/RREGXEN<\> Ra
+. 
+~x1y6
+<gk>KAI\<\>
+<gk>PROSH=LQE<\>]
+ : <gk>PROSH=LQEN<\> Ra
+ : <gk>EISHLQEN<\> Clem. 
+ : <gk>HLQE<\> 68
+ : <Lt>descendit<\> Aeth 
+ +<<gk>KATEBH<\> 407(2nd)
+ + <gk>KAI<\> 407(2nd) 
+<gk>PRO\S<\> > 763 
+<gk>AU)TO\N<\> > 763 
+<gk>O(<\>
+<gk>PRWREU\S<\>
+<gk>KAI\<\>
+<gk>EI)=PEN<\> 
+ +<<gk>PROS<\> A'`-410-764 86{mg} Bas.N. 
+<gk>AU)TW=|<\> W 86{c} Clem.] > 86{*} Arm
+ : <gk>AUTON<\> A'`-410-764 86{mg} Bas.N.
+<gk>*TI/<\>] > 106(~)
+<gk>SU\<\>] > Syh
+ + <gk>TI/<\> 106(~) 
+ +<<gk>KAQEUDEIS<\> Syp
+ + <gk>KAI<\> Syp
+<gk>R(E/GXEIS<\>]
+ : <gk>REGXEI<\> S{*}
+; 
+<gk>A)NA/STA<\> W(vid.) Chr. II 310] 
+ : <gk>ANASTHQI<\> S{c} Q{c} <it>L<\>'-86(mg)-613 <it>C<\>'(-538)-68-239 
+  Clem.Cyr.{F}(2nd): cf. Mich. 2:10 
+ : <gk>ANASTAS<\> <it>lII<\>
+ +<<gk>KAI<\> W(vid.) B-S A'`-49` <it>L<\>' 87{c}-68 La{S} SypAethArabArm{p}
+  Chr.Cyr{p}Bas.N. Ra 
+<gk>E)PIKALOU=<\> Clem.
+ +<<gk>KURION<\> Arm Chr.
+<gk>TO\N<\>
+<gk>QEO/N<\> 
+<gk>SOU<\> 
+, 
+<gk>O(/PWS<\> W Clem.] 
+ : <gk>EI<\>.. A'-49'`-198-233'-407-534 <it>O<\> <it>L<\>` <it>C<\>'-239  SaBoSyp 
+  ArabArm Cyr.Bas.N.Hi.(<Lt>si quomodo<\>) 
+ + <gk>PWS<\> A'-49'`-198-233'-407-534 <it>O<\> <it>L<\>` <it>C<\>'-239  SaBoSyp
+  ArabArm Cyr.Bas.N.Hi.(<2si quomodo>2) 
+ +<<gk>O(<\>] > 233'(~)
+ + <gk>QEO\S<\>] > 233'(~) 
+ + <gk>H(MA=S<\>] > 233'(~)
+<gk>DIASW/SH|<\> 
+ : <gk>DIASWSEI<\> <it>L<\>`-613-764 233 Cyr. 
+ : <gk>SWSH<\> (vel <gk>SWSEI<\>) Q{c} <it>C<\>-538 Thph.
+ +<<gk>H(MA=S<\> (~)<it>L<\>'-49` 68 239 534 SyhSypAethArabArm Clem.Bas.N.Hi. 
+<gk>O(<\>] > <it>lII<\> La{S} 233'(~) 
+<gk>QEO\S<\>] > <it>lII<\> La{S} 233'(~)
+<gk>H(MA=S<\>] > (~)<it>L<\>'-49` 68 233' 239 534 SyhSypAethArabArm(~)
+  Clem.Bas.N.Hi.
+<gk>KAI\<\>
+ +<<gk>OU<\> S{ca} A'` Q{c} <it>L<\>'`-613 <it>C<\>'{-538}-68 Bas.N. Thph.: Ex 
+  3:9(2nd)
+<gk>MH/<\> W Clem.]
+ : <gk>OUK<\> 538
+<gk>A)POLW/MEQA<\> 
+ : <gk>APOQANWMEN<\> <it>lI<\>
+. 
+~x1y7
+<gk>KAI\<\>
+<gk>EI)=PAN<\> W Q-198-233' Syh! = MT] 
+ : <gk>EIPEN<\> rel. Ra
+<gk>E(/KASTOS<\> 
+<gk>PRO\S<\> 
+<gk>TO\N<\>
+<gk>PLHSI/ON<\>
+<gk>AU)TOU=<\>] > 534
+<gk>AU)TOU=<\> 
+<gk>*DEU=TE<\> 
+<gk>BA/LWMEN<\>
+ +< <gk>TOUS<\> Thph.
+<gk>KLH/ROUS<\>]  > 26 Thph.{p}(>13) 
+<gk>KAI\<\>]  > 26 Thph.{p}(>13) 
+<gk>E)PIGNW=MEN<\>]  > 26 Thph.{p}(>13)
+ : <gk>EPIGNWSOMEN<\> S{*} 
+ : <gk>EPIGNWSWMEN<\> 239 (cf. S{*}) 
+<gk>TI/NOS<\>]  > 26 Thph.{p}(>13) 
+<gk>E(/NEKEN<\>]  > 26 Thph.{p}(>13) 239 
+ : <gk>ENEKA<\> Thph.{p} 
+ + <gk>HMIN<\> 46
+ +<<gk>AU(/TH<\>] 68(~)
+<gk>H(=|<\>]  > 26 Thph.{p}(>13) 
+<gk>KAKI/A<\>]  > 26(>13) Thph.{p}(>13)
+<gk>AU(/TH<\>]  > 26(>13) Thph.{p}(>13) 68(~)
+<gk>E)STI\N<\> W Q'-26-534 <it>L<\>'-86{mg} 68-130'-239{c} La{S}AchSaSypArabArm 
+  Hi. ]  > 26(>13) Thph.{p}(>13) (~)410 764 Cyr.{F} <it>O<\> <it>C<\>(~)
+<gk>E)N<\> W]  > 26(>13) Thph.{p}(>13) 46 Or.{lat} VII 440(vid.) 
+ : <gk>EF<\> Q'-26-534 764 <it>L<\>'-86{mg} 68-130'-239{c} La{S}AchSaSypArabArm 
+  Hi. Cyr.{F} <it>O<\> <it>C<\> 
+<gk>H(MI=N<\> W 544 764]  > 26(>13) Thph.{p}(>13) 46 Or.{lat} VII 440(vid.)
+ : <gk>UMIN<\> Cyr.{F} 
+ : <gk>HMAS<\> <it>O<\> <it>C<\> Q'-26-534 <it>L<\>'-86{mg} 68-130'-239{c}
+  La{S}AchSaSypArabArm Hi.
+ +:<gk>E)STI\N<\> 410(~) 
+ :+<gk>ESTI<\> (~) 764 Cyr.{F} <it>O<\> <it>C<\> 
+. 
+<gk>KAI\<\>]  > 26 Thph.{p}(>13) 
+<gk>E)/BALON<\>]  > 26 Thph.{p}(>13) 
+ : <gk>EBALAN<\> 534 
+<gk>KLH/ROUS<\>
+, 
+<gk>KAI\<\>
+<gk>E)/PESEN<\>
+<gk>O(<\>] > 62
+<gk>KLH=ROS<\> 
+<gk>E)PI\<\> 
+<gk>*IWNAN<\>
+. 
+~x1y8
+<gk>KAI\<\>
+<gk>EI)=PAN<\> W]
+ : <gk>EIPON<\> B <it>L<\>-46-410-613 <it>C<\>-68 Bas.N. Thph. Ra
+<gk>PRO\S<\> 
+<gk>AU)TO/N<\> 
+<gk>*)APA/GGEILON<\>]
+ : <gk>ANAGGEILON<\> Cyr.{F} 
+ + <gk>DH<\> <it>O<\> <it>C<\> Cyr.{F} Thph. = MT
+<gk>H(MI=N<\>] > B-S-V 711-49 <it>C<\>-239 Syp Tht. (>8)
+ + <gk>DH<\> Syh 
+ +<<gk>DIA<\> <it>L<\>'-613 68
+<gk>TI/NOS<\>] > B-S-V 711-49 <it>C<\>-239 Syp Tht. (>8)
+ : <gk>TINA<\> <it>L<\>'-613 68 
+<gk>E(/NEKEN<\>] > B-S-V 711-49 <it>C<\>-239 Syp Tht. (>8) <it>L<\>'-613 68
+ : <gk>ENEKA<\> <it>C<\>-534
+<gk>H(=|<\>] > B-S-V 711-49 <it>C<\>-239 Syp Tht. (>8)
+ : <gk>TO<\> <it>L<\>'-613 68 
+<gk>KAKI/A<\>] > B-S-V 711-49 <it>C<\>-239 Syp Tht. (>8)
+ : <gk>KAKON<\> <it>L<\>'-613 68
+<gk>AU(/TH<\>] > B-S-V 711-49 <it>C<\>-239 Syp Tht. (>8)
+ : <gk>TOUTO<\> <it>L<\>'-613 68
+<gk>E)STI\N<\>] > B-S-V 711-49 <it>C<\>-239 Syp Tht. (>8) <it>L<\>'-613 68 W 87
+  Thph.= MT <it>C<\>{-87} Syh
+<gk>E)N<\>..] > B-S-V 711-49 <it>C<\>-239 Syp Tht. (>8) <it>L<\>'-613 68 W <it>C<\>{-87}
+  Syh Cyr.{F} = MT
+<gk>H(MI=N<\>] > W 
+ : <Lt>in te et<\> Bo
+. 
+<gk>TI/S<\>
+ : <gk>TI<\> V-68  106: ante <gk>SOU<\>  
+<gk>SOU<\> 
+<gk>H(=|<\>
+<gk>E)RGASI/A<\> 
+<gk>E)STI/<\>] 
+ : <gk>E)STI/N<\> Ra 
+; 
+<gk>KAI\<\>
+<gk>PO/QEN<\>
+<gk>E)/RXH|<\> 
+ + <gk>KAI<\> S{c} <it>O<\>(%) <it>L<\>'`-407-613 <it>C<\>'(-538)-68-239 106
+  AchSaSypAethArabArm Cyr.Tht.Thph.Hi. 764
+ + <gk>POU<\> S{c} <it>O<\>(%) <it>L<\>'`-407-613 <it>C<\>'(-538)-68-239 106
+  AchSaSypAethArabArm Cyr.Tht.Thph.Hi. 764
+ +:<gk>POREUH<\> (vel <gk>POREUEI<\>) S{c} <it>O<\>(%) <it>L<\>'`-407-613 <it>C<\>'(-538)- 
+  68-239 106 AchSaSypAethArabArm Cyr.Tht.Thph.Hi. 
+ :+<gk>UPAGEIS<\> 764
+, 
+<gk>KAI\<\>
+<gk>E)K<\> 
+<gk>POI/AS<\>
+<gk>XW/RAS<\>
+ +<<gk>EI<\> (~)407 Cyr{p}(~)
+ + <gk>SU<\> W` 407 Cyr{p} 
+ + <gk>EI<\> W`] > (~)407 Cyr{p}(~)
+ + <Lt>es<\> Hi. 
+<gk>KAI\<\>
+<gk>E)K<\> 
+<gk>POI/OU<\>
+<gk>LAOU=<\> 
+ + <gk>SU/<\> (~)W' Q*-26-544 <it>L<\>{-36} 490-239 Syh Cyr{p}(~) 
+<gk>EI)=<\> W' Q*-26-544 <it>L<\>{-36} 490-239 Syh Cyr{p} 
+<gk>SU/<\>] > 410 (~)W' Q*-26-544 <it>L<\>{-36} 490-239 Syh Cyr{p}(~) 
+; 
+~x1y9
+<gk>KAI\<\>
+<gk>EI)=PEN<\> 
+<gk>PRO\S<\> 
+<gk>AU)TOU/S<\>
+ + <Lt>ionas<\> Syp Aeth{p} = Pesch. 
+<gk>*DOU=LOS<\>
+<gk>KURI/OU<\> 
+ + <gk>QEOU<\> 544 
+<gk>E)GW/<\> Clem.Or.XII192Ir.{lat}] > (~)S*{etc}-V-68 <it>lII<\>-613 106(~)
+<gk>EI)MI<\> Clem.Or.XII192Ir.{lat}
+ + <gk>E)GW/<\> (~)S*{etc}-V-68 <it>lII<\>-613 106(~) 
+<gk>KAI\<\>
+<gk>TO\N<\> W] > (~)Q{*}-49`-106-198-233` <it>L<\>'` 68-130'
+  Clem.Th.Tht.Bas.N.(~) 534 
+<gk>KU/RION<\> W Q{*}-49`-106-198-233` <it>L<\>'` 68-130' Clem.Th.Tht.Bas.N.] > 
+  <it>C<\> Or. Cyr.{F} Thph.{p} Hi.
+ + <gk>TON<\> (~)Q{*}-49`-106-198-233` <it>L<\>'` 68-130' Clem.Th.Tht.Bas.N.(~) 
+ + <gk>KAI<\> 239
+<gk>QEO\N<\> 
+<gk>TOU=<\>
+<gk>OU)RANOU=<\> 
+ + <gk>KAI<\> 36-49` Aeth{p} 
+ + <gk>THS<\> 36-49` Aeth{p} 
+ + <gk>G/HS<\> 36-49` Aeth{p}
+<gk>E)GW\<\>] 534 Bo 
+<gk>SE/BOMAI<\> Or.Ir.{lat}(<2colo>2)] 
+ : <gk>FOBOUMAI<\> S{c}-V <it>C<\>'-239{*} Clem.Cyr.{F}: cf. Is. 66:14
+, 
+<gk>O(\S<\>
+<gk>E)POI/HSEN<\>
+<gk>TH\N<\>] 
+ : <gk>TON<\> 233' 
+<gk>QA/LASSAN<\>]
+ : <gk>OURANON<\> 233' 
+<gk>KAI\<\> 233' 
+<gk>TH\N<\> 233' 
+<gk>CHRA/N<\>] 
+ : <gk>GHN<\> 233' 
+. 
+~x1y10
+<gk>KAI\<\>
+<gk>E)FOBH/QHSAN<\>
+<gk>OI(<\> 
+<gk>A)/NDRES<\>
+<gk>FO/BON<\>] 
+ : <gk>FOBW<\> S{c}(vid.) : cf. 16(2nd)
+<gk>ME/GAN<\>] 
+ : <gk>MEGALW<\> S{c}(vid.) : cf. 16(2nd) 
+ : <gk>MEGA<\> 147 
+ : <gk>SFODRA<\> 62
+<gk>KAI\<\>
+<gk>EI)=PAN<\>]
+ : <gk>EIPON<\> <it>L<\>'`-410-613 68 106 Tht.Thph. 
+<gk>PRO\S<\> 
+<gk>AU)TO/N<\>]
+ : <Lt>ionan<\> Sa{p}
+<gk>*TI/<\>] > <it>lI<\>(>20) 
+<gk>TOU=TO<\>] > <it>lI<\>(>20) 
+ : <gk>SOI<\> 239
+ +<<gk>O<\> 130' Syp 
+<gk>E)POI/HSAS<\>] > <it>lI<\>(>20) 
+ : <gk>PEPOIHKAS<\> Tht. 
+ + <gk>HMIN<\> <it>lII<\> 239 Sa{p}Syp
+; 
+<gk>DIO/TI<\>] > <it>lI<\>(>20) 
+ : <gk>EPEIDH<\> Sa{p} 
+ : <gk>EPEI<\> AchSa{p}
+ : <Lt>et<\> Aeth
+<gk>E)/GNWSAN<\>] > <it>lI<\>(>20)
+ : <gk>EPEGNWSAN<\> W' 198 534 764 Cyr.
+<gk>OI(<\>] > <it>lI<\>(>20)
+<gk>A)/NDRES<\>] > <it>lI<\>(>20) 
+<gk>O(/TI<\>] > <it>lI<\>(>20)
+<gk>E)K<\>] > <it>lI<\>(>20)
+<gk>AU)TW=N<\>] > <it>lI<\>(>20)
+<gk>KURI/OU<\>] > <it>lI<\>(>20)
+<gk>H)=N<\>] > <it>lI<\>(>20) 
+<gk>FEU/GWN<\>] > <it>lI<\>(>20)
+, 
+<gk>O(/TI<\>] > <it>lI<\>(>20)
+<gk>A)PH/GGEILEN<\>] > <it>lI<\>(>20) 
+<gk>AU)TOI=S<\>] > <it>lI<\>(>20) 
+. 
+~x1y11
+<gk>KAI\<\>] > <it>lI<\>(>20) 
+<gk>EI)=PAN<\>] > <it>lI<\>(>20)
+ : <gk>EIPON<\> <it>L<\>`-410-613 68-130' Thph. 
+ : <gk>EIPEN<\> 544
+<gk>PRO\S<\>] > <it>lI<\>(>20)
+<gk>AU)TO/N<\>] > <it>lI<\>(>20)
+<gk>*TI/<\>
+<gk>SOI<\>] > (~)<it>O<\> <it>C<\> Syp = MT(~) 68 Thph.
+<gk>POIH/SWMEN<\>] 
+ : <gk>POIHSOMEN<\> W{*} B Q <it>L<\>' <it>C<\> alii 
+ + <gk>SOI<\> (~)<it>O<\> <it>C<\> Syp = MT(~) 
+,] > Ra 
+<gk>KAI\<\>
+<gk>KOPA/SEI<\>] 
+ : <gk>KOPIASEI<\> V 
+ : <gk>KOPASH<\> 91 975 Bas.N. 
+<gk>H(=|<\>
+<gk>QA/LASSA<\>
+<gk>A)F'<\>
+<gk>H(MW=N<\>] 
+ : <gk>UMWN<\> V{*} 62 
+; 
+<gk>O(/TI<\> 
+<gk>H(=|<\>
+<gk>QA/LASSA<\>
+<gk>E)POREU/ETO<\> (2nd)]
+ : <gk>EPWREUETO<\> W{*} 975 
+ : <gk>EPWRUETO<\> W{c}-407{txt} A-Q{*}-49`-233' Bo (<Lt>clamabat<\>) Arab Thph.
+  << <gk>TINA TWN ANTIGRAFWN<\> >>)
+ : <gk>EPORUETO<\> S{c}: cf. 13 et Zach. 11:8
+<gk>KAI\<\>
+<gk>E)CH/GEIREN<\>]
+ : <gk>ECEGEIRETO<\> 239{c}
+<gk>MA=LLON<\> 
+<gk>KLU/DWNA<\>
+ + <Lt>magnum<\> Co
+ + <gk>EP<\> 130{*} 311 36-<it>lII<\> 130{c} 544 Syp Arm: ex 13 
+ +:<gk>AUTON<\> 130{*} 
+ :+<gk>AUTOIS<\> 311 
+ :+<gk>AUTOUS<\> 36-<it>lII<\> 130{c} 544 Syp Arm: ex 13
+. 
+~x1y12
+<gk>KAI\<\>
+<gk>EI)=PEN<\> 
+<gk>*IWNAS<\>] > V = MT
+<gk>PRO\S<\> 
+<gk>AU)TOU/S<\>
+<gk>*)/ARATE/<\> 
+<gk>ME<\>] > Arm Th. Hil.
+<gk>KAI\<\>
+<gk>E)MBA/LETE/<\>]
+ : <gk>EMBALATE<\> Q{*}-106-534 490 Bas.N. (cf. S) 
+ : <gk>ENBALETE<\> S 
+ : <gk>BALETE<\> 239{*} Cyr{p} (cf. 956) 
+ : <gk>BALETAI<\> 956
+<gk>ME<\> W Hil.] > V A'`-Q{*}-49'`-407-956 36-51-<it>lI<\>`
+  87{*}-490-<it>C<\>-68-239{c} Chr.II 311 Cyr.Tht.Thph.Bas.N.
+<gk>EI)S<\>
+<gk>TH\N<\>
+<gk>QA/LASSAN<\> 
+, 
+<gk>KAI\<\>] 
+ : <gk>WS<\> 544 
+<gk>KOPA/SEI<\>
+<gk>H(=|<\>] > AchSa 
+<gk>QA/LASSA<\>] > AchSa 
+<gk>A)F'<\>
+<gk>U(MW=N<\>
+: 
+<gk>DIO/TI<\>
+<gk>E)/GNWKA<\>] 
+ : <gk>EGNWN<\> Thph.
+<gk>E)GW\<\>] > V
+ : <gk>KAGW<\> Thph. 
+<gk>O(/TI<\> 
+ : <gk>DIO/TI<\> S{*}
+<gk>DI'<\> 
+<gk>E)ME\<\> 
+<gk>O(<\>
+<gk>KLU/DWN<\> 
+ + <gk>OU(=TOS<\> (~) 26 407' 534' Cyr{p} Th. Thph.(~) 
+<gk>O(<\> 26 407' 534' Cyr{p} Th. Thph.] > W{*} <it>lII<\>(86{txt}) Tht.{p} Hil.
+<gk>ME/GAS<\> 26 407' 534' Cyr{p} Th. Thph.] > <it>lII<\>(86{txt}) Tht.{p} Hil. 
+<gk>OU(=TOS<\>] > (~) 26 407' 534' Cyr{p} Th. Thph.(~) Hi
+ + <gk>E)STI<\> (~)V-68 <it>L<\>'` (86{txt})-613 Th. Tht.(~)
+<gk>E)F'<\>
+<gk>U(MA=S<\>] 
+ : <gk>HMWN<\> 956 Sa{p} 
+ : <gk>UMWN<\> Tht.{p} 
+<gk>E)STI<\>] > (~)V-68 <it>L<\>'` (86{txt})-613 Th. Tht.(~) Thph.
+ : <gk>E)STIN<\> Ra
+ : <Lt>propter me facta est<\> Hil.
+. 
+~x1y13
+<gk>KAI\<\>
+<gk>PAREBIA/ZONTO<\>]
+ : <gk>PAREBIASANTO<\> 534 
+<gk>OI(<\> 
+<gk>A)/NDRES<\>
+<gk>TOU=<\>
+<gk>E)PISTRE/YAI<\>] 
+ : <gk>UPOSTREYAI<\> Cyr{p}
+<gk>PRO\S<\>]
+ : <gk>EIS<\> <it>C<\> 26 49 407' 710 Cyr. Thph.(2nd) 
+<gk>TH\N<\>
+<gk>GH=N<\>] 
+ : <Lt>ripam<\> Sa 
+ : <Lt>aridam<\> Arm = MT
+<gk>KAI\<\>
+<gk>OU)K<\>
+<gk>H)DU/NANTO<\>] 
+ : <gk>EDUNANTO<\> V A 
+ + <Lt>reverti<\> Ach Sa 
+, 
+<gk>O(/TI<\>]
+ : <Lt>et magnus ventus<\> Bo
+<gk>H(=|<\>] 
+ : <Lt>et magnus ventus<\> Bo
+<gk>QA/LASSA<\>] 
+ : <Lt>et magnus ventus<\> Bo
+<gk>E)POREU/ETO<\> W{*}] 
+ : <gk>EPWRUETO<\> W{c}-407{txt}-410 A-Q{*}-49`-710-956 490 Arab 
+ : <gk>EPORUETO<\> S 
+ : <gk>ECEPOREUETO<\> 198 764: cf. 11
+ : <Lt>fluctuabat<\> Ach Sa
+ : <Lt>et magnus ventus<\> Bo
+ + <gk>MA=LLON<\> V(~) 
+<gk>KAI\<\>] > 534 Ach Sa
+ : <Lt>et magnus ventus<\> Bo
+<gk>E)CHGEI/RETO<\>] > 534 Ach Sa
+<gk>MA=LLON<\>] > V(~) 
+<gk>E)P'<\>
+ : <gk>EIS<\> 410
+<gk>AU)TOU/S<\>
+. 
+~x1y14
+<gk>KAI\<\>
+<gk>A)NEBO/HSAN<\>]
+ : <gk>EBOHSAN<\> 49 Sa
+ + <Lt>unusquisque<\> Aeth 
+ + <Lt>viri<\> Syp 
+<gk>PRO\S<\> 
+ +<<gk>TON<\> S{*} 
+<gk>KU/RION<\> 
+<gk>KAI\<\>] 
+ : <Lt>dicentes ne irascaris nobis<\> Ach Sa 
+<gk>EI)=PAN<\> Clem.]
+ : <gk>EIPON<\> <it>L<\>'`-410-613 68-l30' Cyr. Thph. 
+ : <Lt>dicentes ne irascaris nobis<\> Ach Sa 
+<gk>*MHDAMW=S<\>]
+ : <Lt>dicentes ne irascaris nobis<\> Ach Sa 
+, 
+<gk>KU/RIE<\>] > S{*}(>18) 
+, 
+<gk>MH\<\>] > S{*}(>18)
+<gk>A)POLW/MEQA<\>] > S{*}(>18)
+ : <gk>APOLOIMEQA<\> S{(ca)} V Q'-198
+ : <gk>APOLLOIMEQA<\> l30' 
+ : <gk>APOLUMEQA<\> S{(c)}-538 
+ : <gk>APOLLUMEQA<\> 407'
+<gk>E(/NEKEN<\>] > S{*}(>18) 
+ : <gk>ENEKA<\> 198 544 764
+<gk>TH=S<\>] > S{*}(>18) 
+<gk>YUXH=S<\>] > S{*}(>18) 
+<gk>TOU=<\>] > S{*}(>18) 
+<gk>A)NQRW/POU<\>] > S{*}(>18) 
+<gk>TOU/TOU<\>] > S{*}(>18)
+, 
+<gk>KAI\<\>] > S{*}(>18) <it>C<\>(>7) 
+<gk>MH\<\>..] > S{*}(>18) <it>C<\>(>7)
+<gk>DW=|S<\>] > S{*}(>18) <it>C<\>(>7)
+ : <gk>MHDAMWS<\> V{*}-534: ex praec.? 
+ : <gk>MH DWHS<\> Th.
+<gk>E)F'<\>] > S{*}(>18) <it>C<\>(>7) 
+<gk>H(MA=S<\>] > S{*}(>18) <it>C<\>(>7) 
+<gk>AI(=MA<\>] > S{*}(>18) <it>C<\>(>7) 
+<gk>DI/KAION<\>] > S{*}(>18) <it>C<\>(>7) 
+, 
+<gk>O(/TI<\> W] > S{*}(>18)
+ : <gk>DIOTI<\> B-S{c} Q{mg} <it>L<\>'`-407'-613 <it>C<\>-68-534' 956 Th. Tht. Thph. 
+<gk>SU/<\>] > S{*}(>18) Ach Sa{p}
+ + <gk>EI<\> 538 Bo
+, 
+<gk>KU/RIE<\>] > 68
+ : <Lt>dominus<\> Bo 
+ : <gk>KURIOS<\> 544 
+ + <gk>O<\> 544
+ + <gk>QEOS<\> 544
+, 
+<gk>O(\N<\>
+<gk>TRO/PON<\> 
+<gk>E)BOU/LOU<\>]
+ : <gk>HBOULOU<\> <it>lII<\>-764 Tht. 
+ : <gk>BEBOULOU<\> S{*}
+ : <gk>EBOULEUSOU<\> 534 
+<gk>PEPOI/HKAS<\>
+. 
+~x1y15
+<gk>KAI\<\>
+<gk>E)/LABON<\>
+<gk>TO\N<\>
+<gk>*IWNAN<\>
+<gk>KAI\<\>
+<gk>E)CE/BALON<\> W] 
+ : <gk>EBALON<\> S{*}(etc)-239-534 Cyr{p} Thph.
+ : <gk>ENEBALON<\> S(ca) A'`-49`-198-410-956 <it>L<\>'` (86{txt}) <it>C<\>-68-538
+  Bas.N.
+<gk>AU)TO\N<\> 
+<gk>EI)S<\>
+<gk>TH\N<\>
+<gk>QA/LASSAN<\> 
+, 
+<gk>KAI\<\>
+<gk>E)/STH<\>
+<gk>H(=|<\>
+<gk>QA/LASSA<\>
+<gk>E)K<\>]
+ : <gk>APO<\> 239
+<gk>TOU=<\>
+<gk>SA/LOU<\>
+ : <gk>SALOUS<\> A-Q{*} 62{*}: Thack. para. 10.28
+<gk>AU)TH=S<\> 
+. 
+~x1y16
+<gk>KAI\<\>
+<gk>E)FOBH/QHSAN<\>
+<gk>OI(<\> 
+<gk>A)/NDRES<\>(2nd)]
+ : <gk>ANQRWPOI<\> 86{mg} 233' 
+<gk>FO/BW|<\>] 
+ : <gk>FOBON<\> 410: cf. 10
+<gk>MEGA/LW|<\>] 
+ : <gk>MEGAN<\> 410: cf. 10
+<gk>TO\N<\>
+<gk>KU/RION<\>]
+ : <gk>QEON<\> 410 956 
+<gk>KAI\<\>
+<gk>E)/QUSAN<\>
+<gk>QUSI/AN<\> W 956] > 410 Th.{lem} 
+ : <gk>QUSIAS<\> B-S <it>O<\> <it>L<\>(-36)-62-613 <it>C<\>-538 La{C} Syp Arab Arm Cyr. 
+  Th.{comm} Bas.N. Thph.{comm} Hi.(vid.)
+<gk>TW=|<\>] > 62
+ : <gk>TOU<\> 46{*}
+<gk>KURI/W|<\>] >  S{*}(hab. {1})
+ : <gk>QEW<\> V <it>lII<\> (86{*}; <gk>TOU QEOU<\> 46{*})
+ : <gk>QEOU<\> 46{*} 
+<gk>KAI\<\>
+<gk>EU)/CANTO<\>]
+ : <gk>EUCANTO<\> B-V <it>L<\>{-36}-613 (cf. 2:2,10 4:2 et Thack. p.200)
+ : <gk>PROSHUCANTO<\> 36-49
+<gk>EU)XA/S<\> 
+. 
+~x2y1
+<gk>@*KAI\<\>
+<gk>PROSE/TACEN<\> 
+<gk>KU/RIOS<\> 
+<gk>KH/TEI<\>
+<gk>MEGA/LW|<\>
+ +<<gk>KAI<\> S{*} Ach Sa Syh Syp Hi.
+<gk>KATAPIEI=N<\>] 
+ : <gk>KATEPIEN<\> S{*} Ach Sa Syh Syp Hi. 
+<gk>TO\N<\>
+<gk>*IWNAN<\>
+: 
+<gk>KAI\<\>
+<gk>H)=N<\>
+<gk>*IWNAS<\>
+<gk>E)N<\> 
+<gk>TH=|<\>
+<gk>KOILI/A|<\>
+<gk>TOU=<\>
+<gk>KH/TOUS<\> 
+<gk>TREI=S<\>] > La{C} Sa{p} 
+<gk>H(ME/RAS<\>] > La{C} Sa{p} 
+<gk>KAI\<\>] > La{C} Sa{p} 
+<gk>TREI=S<\>] > 956 
+<gk>NU/KTAS<\> 
+. 
+~x2y2
+<gk>KAI\<\>
+<gk>PROSHU/CATO<\>]
+ : <gk>PROSEUCATO<\> V <it>C<\>{-87} : cf. 1:16 
+<gk>*IWNAS<\>
+<gk>PRO\S<\>] > (~)La{C} Syp Aeth Hi.(~)(>5) 
+<gk>KU/RION<\>] > (~)La{C} Syp Aeth Hi.(~)(>5) Cyr.{F} 
+<gk>TO\N<\>] > (~)La{C} Syp Aeth Hi.(~)(>5) S{ca?} Q'-26-198-956{*}
+  <it>C<\>{-87}-538
+<gk>QEO\N<\>] > (~)La{C} Syp Aeth Hi.(~)(>5) S{*}(>16) 
+<gk>AU)TOU=<\>] > (~)La{C} Syp Aeth Hi.(~)(>5) S{*}(>16) 
+<gk>E)K<\>] > S{*}(>16)
+<gk>TH=S<\>] > S{*}(>16) 407 Cyr{p}
+<gk>KOILI/AS<\>] > S{*}(>16) 
+<gk>TOU=<\>] > S{*}(>16) 
+<gk>KH/TOUS<\>] > S{*}(>16)
+ + <gk>PRO\S<\> (~)La{C} Syp Aeth Hi.(~)(+5) 
+ + <gk>KU/RION<\> (~)La{C} Syp Aeth Hi.(~)(+5) 
+ + <gk>TO\N<\> (~)La{C} Syp Aeth Hi.(~)(+5)
+ + <gk>QEO\N<\> (~)La{C} Syp Aeth Hi.(~)(+5) 
+ + <gk>AU)TOU=<\> (~)La{C} Syp Aeth Hi.(~)(+5) 
+~x2y3
+<gk>KAI\<\>] > S{*}(>16) 
+<gk>EI)=PEN<\>] > S{*}(>16)
+ +<<gk>WDH<\> A Q{mg} 86{mg} 
+ +<gk>V'<\> Q{mg} 86{mg} : 2:3-10 = Oda 6 (cf. Rahlfs, Psalmi p.353)
+ +<<gk>PROSEUXH<\> Syh 
+ +<<gk>TOU<\> Syh
+ +<<gk>IWNAN<\> Syh 
+@@<gk>*)EBO/HSA<\>] > S{*}(>16)
+<gk>E)N<\>] > S{*}(>16) (~)La{C} Ir.{lat} Ambr. VI 323 Cant.{p}(~) Th
+<gk>QLI/YEI<\>] > S{*}(>16) (~)La{C} Ir.{lat} Ambr. VI 323 Cant.{p}(~) Th
+<gk>MOU<\>] > S{*}(>16) (~)La{C} Ir.{lat} Ambr. VI 323 Cant.{p}(~) Th W S{ca}
+<gk>PRO\S<\>] > S{*}(>16)
+<gk>KU/RION<\>] > S{*}(>16) Hil. 
+<gk>TO\N<\>] > S{*}(>16) % Q{c} : > MT 
+<gk>QEO/N<\>] % Q{c} : > MT
+<gk>MOU<\>] % Q{c} : > MT
+ + <gk>E)N<\> (~)La{C} Ir.{lat} Ambr. VI 323 Cant.{p}(~) 
+ + <gk>QLI/YEI<\>> (~)La{C} Ir.{lat} Ambr. VI 323 Cant.{p}(~)
+ + <gk>MOU<\> (~)La{C} Ir.{lat} Ambr. VI 323 Cant.{p}(~) 
+, 
+<gk>KAI\<\>
+@ 
+@@@<gk>EI)SH/KOUSE/N<\>] 
+ : <gk>HKOUSEN<\> W
+ : <gk>EPHKOUSEN<\> 62 
+<gk>MOU<\> 
+: 
+<gk>@@E)K<\> 
+<gk>KOILI/AS<\>
+<gk>A(/|DOU<\> 
+<gk>KRAUGH=S<\>..] > Bo
+<gk>MOU<\>] > Bo 
+ : <Lt>clamavi<\> Ach Sa = MT(2nd) 
+ +<<gk>KAI<\> W Ach Sa{p} Aeth Cant.{p}
+<gk>H)/KOUSAS<\> 
+ : <gk>EISHKOUSAS<\> V 956(vid.) 
+ + <Lt>domine<\> Arm{p}
+<gk>FWNH=S<\>
+<gk>MOU<\> 
+. 
+~x2y4
+<gk>@@A)PE/RRIYA/S<\>
+<gk>ME<\>
+<gk>EI)S<\>
+<gk>BA/QH<\> 
+<gk>KARDI/AS<\>
+<gk>QALA/SSHS<\> 
+, 
+<gk>KAI\<\>
+<gk>POTAMOI/<\>
+<gk>ME<\> W B-S A-Q{*} La{C} Th. Hi. Cant.{p}] > rel.(~)(Or.II332) = MT
+@ 
+@@@<gk>E)KU/KLWSAN<\> W B-S A-Q{*} La{C} Th. Hi. Cant.{p}] 
+ + <gk>ME<\> rel.(~)(Or.II332) = MT
+: 
+<gk>@@PA/NTES<\> 
+<gk>OI(<\> 
+<gk>METEWRISMOI/<\>
+<gk>SOU<\> 
+<gk>KAI\<\>
+<gk>TA\<\> 
+<gk>KU/MATA/<\>
+<gk>SOU<\>] > V Q{txt} 
+<gk>E)P'<\>
+<gk>E)ME\<\> 
+<gk>DIH=LQON<\>
+. 
+~x2y5
+@@<gk>KAI\<\> W..] > Ach Sa Hi 
+<gk>E)GW\<\> W]
+ : <Lt>ego<\> Ach Sa 
+ : <gk>KAGW<\> V A'`-49'-410-534-956{*} 22{c}-36-147-<2II>2 (86{*}) 490-68 
+  Cyr. Tht. Thph. Bas.N.
+ + <gk>DE<\> Ach Sa
+<gk>EI)=PA<\>] 
+ : <gk>EIPON<\> <it>L<\>{-86*}-49`-407 490-68-538 26' Cyr. Th. Tht. Thph. 
+ : <gk>EIPWN<\> 86{*}
+<gk>*)APW=SMAI<\>
+<gk>E)C<\>]
+ : <it>a<\> Ach Sa 
+<gk>O)FQALMW=N<\>] 
+ : <Lt>facie<\> Ach Sa 
+<gk>SOU<\>]
+ : <Lt>tua<\> Ach Sa 
+: 
+<gk>@@A)=RA<\> 
+<gk>PROSQH/SW<\> 
+<gk>TOU=<\>] > Cyr.
+<gk>E)PIBLE/YAI<\> 
+ : <gk>EPISTREYAI<\> 62
+ + <gk>ME<\> 36-763-147-<it>lII<\>-49'` <it>C<\>'-68-239 26' 233'` 544 Cyr. Tht.  Bas.N.
+<gk>PRO\S<\> 
+<gk>TO\N<\>  W' B-S-V <it>L<\>(-36 763)-62 91-538 198 544 956] > rel. 
+<gk>NAO\N<\>  W' B-S-V <it>L<\>(-36 763)-62 91-538 198 544 956] 
+ : <gk>LAON<\> B{*}
+<gk>TO\N<\>]  > 49{c} 233' = Sixt.: cf. 8
+<gk>A(/GIO/N<\>
+<gk>SOU<\>
+; 
+~x2y6
+<gk>@@PERIEXU/QH<\>
+ + <gk>MOI<\> (~)W' B-S-538 198 La{C} Ach Sa{p} Cant.{p}(~)
+ + <gk>KAI<\> 956
+<gk>U(/DWR<\>] > 86 490
+<gk>MOI<\>] > (~)W' B-S-538 198 La{C} Ach Sa{p} Cant.{p}(~) Sa{p}
+<gk>E(/WS<\> 
+<gk>YUXH=S<\> W' B-S-538 A-Q{*}-198-233-956 <it>lI<\> La{C} Arm = MT] 
+ + <gk>MOU<\> rel. 
+, 
+<gk>@@A)/BUSSOS<\> 
+<gk>E)KU/KLWSE/N<\>
+ : <gk>EKALUYEN<\> 86{mg} 544 Bo Cant.{p}
+<gk>ME<\>
+<gk>E)SXA/TH<\>
+, 
+ +<<gk>OTI<\> W{c} Bo
+ +<<Lt>et<\> Ach Sa: cf. MT
+@@<gk>E)/DU<\>]
+ : <gk>ELOS<\> <Lt>circumdedit<\> Ach Sa: cf. MT
+<gk>H(=|<\>] 
+<gk>KEFALH/<\>]
+ : <Lt>caput<\> Ach Sa: cf. MT 
+<gk>MOU<\>] > 36 
+ : <Lt>meum<\> Ach Sa: cf. MT
+<gk>EI)S<\>
+<gk>SXISMA\S<\>
+ + <Lt>deserti<\> Sa{p}
+<gk>O)RE/WN<\> 
+. 
+~x2y7
+ +<<gk>KAI<\> La{C} Syp Aeth Tht.{p} Cant.{p}
+<gk>@@KATE/BHN<\>
+<gk>EI)S<\>
+<gk>GH=N<\>
+, 
+<gk>H(=S<\>
+<gk>OI(<\> 
+<gk>MOXLOI\<\> 
+<gk>AU)TH=S<\> 
+<gk>KA/TOXOI<\>
+<gk>AI)W/NIOI<\> 
+, 
+<gk>@@KAI\<\>] > Bas.N. (>9) 
+<gk>A)NABH/TW<\>] > Bas.N. (>9)
+ : <Lt>educes<\> Sa
+ +<<gk>EIS<\> W{c} Sa
+ +<<gk>SE<\> W{c} Sa 
+ +<<gk>EK<\> S{c}-V 86{mg} W{c} Sa rel.(2nd) 
+<gk>FQORA\<\> W{*} B-S{*} 956 La{C} Bo Cant.{p}$] > Bas.N. (>9)
+ : <gk>FQORAS<\> S{c}-V 86{mg} W{c} Sa rel.(2nd) 
+ +<<gk>THN<\> W{c} Sa
+ +<<gk>H<\> rel.{-407}(2nd) 
+<gk>ZWH=S<\> W{*} B-S{*} 956 La{C} Bo Cant.{p}$ S{c}-V 86{mg}] > Bas.N. (>9) 
+ : <gk>ZWHN<\> W{c} Sa 
+ : <gk>ZWH<\> rel.(2nd)
+<gk>MOU<\> W{*} B-S{*} 956 La{C} Bo Cant.{p}$ S{c}-V 86{mg} W{c} Sa rel.(2nd)] > Bas.N. (>9) 
+, 
+ +<<gk>PROS<\> rel.
+ +<<gk>SE<\> rel.
+<gk>KU/RIE<\> W B-S{*} A-Q'-233-534'-956 Bo Syh Syp Hi.(?)] > Bas.N. (>9)
+<gk>O(<\>] > Bas.N. (>9) 
+<gk>QEO/S<\>] > Bas.N. (>9)
+<gk>MOU<\>] > Bas.N. (>9)
+. 
+~x2y8
+<gk>@@E)N<\> 
+<gk>TW=|<\>
+<gk>E)KLEI/PEIN<\>]
+ : <gk>EKLIPEIN<\> W B-S 956 alii
+ + <gk>TH\N<\> (~)A'-Q{*}-198-233'-407'-534-544 <it>C<\>{-91} La{C} Co Syh
+  Aeth{p} Cyr. Thph.{p} Cant.{p}(~) 
+ + <gk>YUXH/N<\> (~)A'-Q{*}-198-233'-407'-534-544 <it>C<\>{-91} La{C} Co Syh  Aeth{p} Cyr. Thph.{p} Cant.{p}(~)     {????}
+ + <gk>MOU<\> (~)A'-Q{*}-198-233'-407'-534-544 <it>C<\>{-91} La{C} Co Syh 
+  Aeth{p} Cyr. Thph.{p} Cant.{p}(~) 
+<gk>A)P'<\>] > Aeth{p} Arab Arm Cant.{p} 
+ : <gk>EC<\> 22{c}-<it>lI<\>'-49'` 91 Bas.N. Thph.{p} 
+<gk>E)MOU=<\>] > Aeth{p} Arab Arm Cant.{p} 
+<gk>TH\N<\> W 956] > (~)A'-Q{*}-198-233'-407'-534-544 <it>C<\>{-91} La{C} Co Syh  Aeth{p} Cyr. Thph.{p} Cant.{p}(~)  {????}
+<gk>YUXH/N<\> W 956] > (~)A'-Q{*}-198-233'-407'-534-544 <it>C<\>{-91} La{C} Co  Syh Aeth{p} Cyr. Thph.{p} Cant.{p}(~) 
+ : <gk>ISXUN<\> 147 233' 
+<gk>MOU<\> W 956] > (~)A'-Q{*}-198-233'-407'-534-544 <it>C<\>{-91} La{C} Co Syh 
+  Aeth{p} Cyr. Thph.{p} Cant.{p}(~) 
+ + <Lt>clamari<\> Arm
+<gk>TOU=<\>..] 
+<gk>KURI/OU<\>]
+ : <Lt>misericordiae domini<\> Bo
+ : <Lt>domini mei<\> La{C} Cant.{p}
+<gk>E)MNH/SQHN<\>
+, 
+<gk>@@KAI\<\>
+<gk>E)/LQOI<\>]
+ : <gk>ELQH<\> 62 26 
+<gk>PRO\S<\> 
+<gk>SE\<\> 
+<gk>H(=|<\>
+<gk>PROSEUXH/<\> W]
+ : <gk>EUXH<\> B-S{*}$ 
+<gk>MOU<\> 
+<gk>EI)S<\>] 
+ : <gk>PROS<\> 22{c}-147-<it>lII<\> (86{*})-49' <it>C<\>'{-538}-68-239 106 198 233'
+  956 Cyr. Tht.{p} Thph. Bas.N.: cf. 5
+<gk>NAO/N<\> 
+ +<<gk>TON<\> 147-<it>lII<\> (86{*})-49{*}-764 91-68 106 Thph.: cf. 5 
+<gk>A(/GIO/N<\>
+<gk>SOU<\> 
+. 
+~x2y9
+<gk>@@FULASSO/MENOI<\> 
+<gk>MA/TAIA<\> 
+<gk>KAI\<\>
+<gk>YEUDH=<\>
+E)/LEOS W 956]
+ : <gk>ELEON<\> S{ca} Q{c} <it>L<\>'` (86{*})-49'-407' <it>C<\>-68-239 26' Cyr{p}
+  Th. Tht. Thph. Bas.N.: cf. Os. 6:8
+<gk>AU)TW=N<\> 
+<gk>E)GKATE/LIPON<\> 
+. 
+~x2y10
+<gk>@@E)GW\<\> 
+<gk>DE\<\> 
+<gk>META\<\> 
+<gk>FWNH=S<\>
+<gk>AI)NE/SEWS<\>] > V 
+ : <gk>DEHSEWS<\> W' 86{mg}-764 198{c} 544 Sa Bo Aeth{p} Cyr.{comm}
+<gk>KAI\<\> W' 86{mg}-764 198{c} 544 Sa Bo Aeth{p} Cyr.{comm}  % <2O:>2] > V 
+  MT
+<gk>E)COMOLOGH/SEWS<\> % <it>O<\>: > MT 
+<gk>QU/SW<\> 
+<gk>SOI<\> 
+ + <gk>QUSIAN<\> <Lt>salutis<\> Sa{p} 
+ + <Lt>oblationem<\> Arm 
+: 
+<gk>@@O(/SA<\> 
+<gk>HU)CA/MHN<\> 
+ : <gk>EUCAMHN<\> <it>L<\>{-36 51}-711 <it>C<\>{-490}: cf. 1:16
+, 
+<gk>A)PODW/SW<\> A-233'-534 Arm$ = MT
+ + <gk>SOI<\> rel. (W) Ra
+ + <Lt>domine<\> Bo
+<gk>EI)S<\> S{ca}(vid.) V 22{c}-36-51{c}-49'` 490-68-239 26 233{c} 544 710{*}
+  Sa Aeth Arab Cyr. Tht. Thph. Bas.N. A'-Q-233{*}-534-710{c} 46-86
+  <it>L<\>'{-36} <it>C<\>-{91 490} 198 Th. Thph. (<< <gk>TINA TWN ANTIGRAFWN<\> >>)] 
+  > 198 Bo Ra 
+ : <gk>H<\> 91 711 
+<gk>SWTHRI/AN<\> S{ca}(vid.) V 22{c}-36-51{c}-49'` 490-68-239 26 233{c} 544
+  710{*} Sa Aeth Arab Cyr. Tht. Thph. Bas.N.] 
+ : <gk>SWTHRION<\> A'-Q-233{*}-534-710{c} 46-86 <it>L<\>'{-36} <it>C<\>-{490} 198
+  Th. Thph. (<< <gk>TINA TWN ANTIGRAFWN<\> >>) 
+ : <gk>SWTHRIOU<\> B-S{*}(etc) <it>C<\> 130' 956 Syp Arm Hi.(<Lt>salutare<\>) Ra 
+ : <gk>SWTHRIA<\> 711
+ : <Lt>salvatori<\> La{C} Cant.{p} 
+ : <gk>SWTHR<\> Syh
+ : <Lt>salutis<\> Bo 
+<gk>MOU<\> S{ca}(vid.) V 22{c}-36-51{c}-49'` 130' 490-68-239 26 233{c} 544 
+  710{*} 711 Sa Aeth Arab Cyr. Tht. Thph. Bas.N. A'-Q-233{*}-534-710{c} 46- 
+  86] > 86{*} <it>L<\>'{-36} <it>C<\>-{490} 198 Syp Th. Thph. (<< <gk>TINA TWN
+  ANTIGRAFWN<\> >>) Syh Ra 
+ : <Lt>meae<\> Bo
+ : <Lt>meo<\> La{C} Cant.{p} 
+ : <gk>MOI<\> 68 W'` 
+ +<<gk>W<\> S{*} 
+ +<<gk>TW<\> S{c}
+<gk>TW=|<\>..] Bo
+<gk>KURI/W|<\>] Bo 
+ : <Lt>domine<\> Sa Arab 
+. 
+~x2y11
+<gk>KAI\<\>
+<gk>PROSETA/GH<\>
+ + (^Syh) <gk>APO<\> S{c}(vid.) <it>C<\> Syh Syp Arm Thph.: cf. MT
+ + (^Syh) <gk>KURIOU<\> S{c}(vid.) <it>C<\> Syh Syp Arm Thph.: cf. MT 
+ : <gk>PROSETACE<\> 239{c} Co Hi.
+ : <gk>PROSETACE(N) KURIOS<\> <it>L<\>'` (86{txt})-407{mg} La(Cc) Aeth{p} Arab: 
+  cf. 1 et MT(2nd)
+<gk>TW=|<\>
+<gk>KH/TEI<\>
+, 
+<gk>KAI\<\>
+<gk>E)CE/BALEN<\>
+<gk>TO\N<\>
+<gk>*IWNAN<\>
+<gk>E)PI/<\>]
+ : <gk>EIS<\> <it>lI<\> 
+<gk>TH\N<\>
+<gk>CHRA/N<\>] 
+ : <Lt>terram<\> Aeth Lucif. Or.{lat} VI 141: cf. 1:13 
+. 
+~x3y1
+<gk>@*KAI\<\>
+<gk>E)GE/NETO<\> 
+<gk>LO/GOS<\>
+<gk>KURI/OU<\> 
+<gk>PRO\S<\>] > (~)W 26 Aeth (~) 
+*<gk>IWNAN<\>] > (~)W 26 Aeth (~)
+<gk>E)K<\>..]
+<gk>DEUTE/ROU<\>]
+ : <gk>TO<\>.. Cyr.{F} 
+ : <gk>DEUTERON<\> Cyr.{F} 
+<gk>PRO\S<\> (~)W 26 Aeth (~)
+<gk>*IWNAN<\> (~)W 26 Aeth (~)        {????}
+<gk>LE/GWN<\>
+~x3y2
+ +<<gk>IWNAS<\> Ach
+<gk>*)ANA/STHQI<\> 
+ +<<gk>KAI\<\> rel. (W Lucif.) 
+<gk>POREU/QHTI<\> B-S{*etc}-V 130' 26 410 Co Syh Arm{p} = MT]
+ : <gk>POREUOU<\> 87' Thph.: cf. 1:2 
+<gk>EI)S<\>
+ +<<gk>THN<\> Bas.N. 
+<gk>*NINEUH<\>]
+ : <gk>NINEUHN<\> S 956
+<gk>TH\N<\>
+<gk>PO/LIN<\>
+<gk>TH\N<\>
+<gk>MEGA/LHN<\>
+<gk>KAI\<\>
+<gk>KH/RUCON<\>
+<gk>E)N<\> 
+<gk>AU)TH=|<\> 
+<gk>KATA\<\> 
+<gk>TO\<\> 
+<gk>KH/RUGMA<\>] 
+ : <gk>RHMA\<\> 130'
+<gk>TO\<\> % <it>O<\>] > Or.{lat} VII 141 = MT
+<gk>E)/MPROSQEN<\> % <it>O<\>] > Or.{lat} VII 141 = MT
+, 
+<gk>O(\<\> 
+<gk>E)GW\<\>] > 26 Syp Arm 
+<gk>E)LA/LHSA<\>]
+ : <gk>LELALHKA<\> <it>C<\> Cyr.{F} Thph. 
+ : <gk>LALW<\> Syh{txt}: cf. MT
+<gk>PRO\S<\> 
+<gk>SE/<\> 
+. 
+~x3y3
+<gk>KAI\<\>
+<gk>A)NE/STH<\>
+<gk>*IWNAS<\>
+<gk>KAI\<\>
+<gk>E)POREU/QH<\>
+<gk>EI)S<\>
+<gk>*NINEUH<\>]
+ : <gk>NINEUHN<\> 956
+ + <Lt>civitatem<\> La{C}: cf. 4 
+, 
+<gk>KAQW/S<\> W] 
+ : <gk>KAQA<\> B-S-V <it>O<\> <it>lI<\>` (86{*})-613 <it>C<\>'-68 
+  956 Thph. Lucif. (<Lt>secundum quae<\>)
+ : <gk>KAQAPER<\> 130' 
+ + <gk>KAI<\> Thph 
+ +<<Lt>ei<\> Hi. 
+<gk>E)LA/LHSE<\>]
+ : <gk>E)LA/LHSEN<\> Ra
+ + <Lt>ei<\> Bo Syp
+ + <Lt>ad<\> La{C} Aeth Arm
+ + <Lt>eum<\> La{C} Aeth Arm 
+<gk>KU/RIOS<\> 
+ + <gk>PROS<\> 36-49` 130' Sa{p} Lucif. (<2ei>2) 
+ + <gk>AUTON<\> 36-49` 130' Sa{p} Lucif. (<2ei>2)
+: 
+<gk>H(=|<\>
+<gk>DE\<\> 
+<gk>*NINEUH<\> 
+<gk>H)=N<\>] > V(~) 711{*} 
+<gk>PO/LIS<\>
+ + <gk>H)=N<\> V(~)
+<gk>MEGA/LH<\> 
+<gk>TW=|<\>
+<gk>QEW=|<\> 
+ : <gk>KURIW<\> W{c} Ach Sa{p} 
+<gk>W(SEI\<\>
+ : <gk>WS<\> <it>lI<\>
+<gk>POREI/AS<\>] > Syh(~)
+ : <gk>POREIAN<\> 36{*}
+<gk>O(DOU=<\>] > Aeth{p} Lucif. = MT: cf. 4
+ + <gk>POREI/AS<\> Syh(~)
+<gk>H(MERW=N<\>] > (~) <it>O<\> <it>C<\>{-490}-68 Syp Thph.{lem} (~)= MT 
+<gk>TRIW=N<\>
+ + <gk>H(MERW=N<\> (~) <it>O<\> <it>C<\>{-490}-68 Syp Thph.{lem} (~)= MT 
+. 
+~x3y4
+<gk>KAI\<\>
+<gk>H)/RCATO<\>
+ +<<gk>O<\> 86{c}-711
+<gk>*IWNAS<\>
+<gk>TOU=<\>..] > 239{txt} (>10)
+<gk>EI)SELQEI=N<\> W` B-S{*}$] > 239{txt} (>10)
+ : <gk>KAI<\>.. 239{mg}
+ : <gk>EPOREUQH<\> 239{mg} 
+ : <gk>POREUESQA<\> 534
+ : <gk>EISPOREUESQAI<\> rel. 
+ +<gk>IWNAS<\> 239{mg} 
+<gk>EI)S<\>] > 239{txt} (>10) 239{mg} 956
+<gk>TH\N<\>] > 239{txt} (>10) 239{mg} 956
+<gk>PO/LIN<\>] > 239{txt} (>10) 239{mg} 956
+<gk>W(SEI\<\>] > 239{txt} (>10)
+<gk>POREI/AN<\> W 956 Lucif.] > 239{txt} (>10) 
+ : <gk>POR(E)IAS<\> <it>C<\>-68 A'`-Q{*}-198-233'-534-544-764 <it>C<\> Bo Syp Arab 
+   Arm Cyr. Bas.N. Thph. Hi.{p}: ex 3 
+ + <gk>ODOU<\> 239{mg} A'`-Q{*}-198-233'-534-544-764 Q{c} 36-49` <it>C<\> Bo Syp
+  Arab Arm Cyr. Bas.N. Thph. Hi.{p}: ex 3 
+<gk>H(ME/RAS<\>] > 239{txt} (>10)
+<gk>MIA=S<\>] > 239{txt} (>10) 
+<gk>KAI\<\>] > 239{txt} (>10)
+<gk>E)KH/RUCEN<\>] 
+ : <gk>KHRUSIN<\> 239{txt} 
+<gk>KAI\<\>] > W 
+<gk>EI)=PEN<\>] > W
+ : <gk>LEGEIN<\> 239{txt}
+<gk>*)/ETI<\>
+<gk>TREI=S<\>
+<gk>H(ME/RAI<\>
+<gk>KAI\<\>
+<gk>*NINEUH<\>]
+ + <Lt>civitas<\> La{C}: cf. 3 
+<gk>KATASTRAFH/SETAI<\>
+. 
+~x3y5
+<gk>KAI\<\>
+<gk>E)NEPI/STEUSAN<\> W{*} B-S{*} Q'-198-233-710{c}-764-956 86{c} Bas.N.]
+ : <gk>EPISTREYAN<\> 534 
+ : <gk>EPISTEUSAN<\> rel.
+<gk>OI(<\> 
+<gk>A)/NDRES<\>
+ + <gk>OI<\> 764 
+<gk>*NINEUH<\> 
+<gk>TW=|<\>
+<gk>QEW=|<\> 
+<gk>KAI\<\>
+<gk>E)KH/RUCAN<\>
+<gk>NHSTEI/AN<\> 
+<gk>KAI\<\>
+<gk>E)NEDU/SANTO<\>
+<gk>SA/KKOUS<\>
+<gk>A)PO\<\> 
+<gk>MEGA/LOU<\> W] > (~)A'`-Q{*}-49'-198-233'-407'-534-544 36-51-46' Cyr. Tht. 
+  Bas.N. Or.{lat} VII 141 S{ca} <it>L<\>'{-36 51}-613 Bo Aeth(~) 
+ + <gk>MIKROU=<\> (~)A'`-Q{*}-49'-198-233'-407'-534-544 36-51-46' Cyr. Tht.  Bas.N. Or.{lat} VII 141 S{ca} <it>L<\>'{-36 51}-613 Bo Aeth(~) 
+<gk>AU)TW=N<\> W S{ca} <it>L<\>'{-36 51}-613 Bo Aeth] > 86 956 La{C} Lucif. 
+ + <gk>KAI<\> S{ca} <it>L<\>'{-36 51}-613 Aeth
+<gk>E(/WS<\> W S{ca} <it>L<\>'{-36 51}-613 Bo Aeth
+<gk>MIKROU=<\> W] > (~)A'`-Q{*}-49'-198-233'-407'-534-544 36-51-46' Cyr. Tht.  Bas.N. Or.{lat} VII 141 S{ca} <it>L<\>'{-36 51}-613 Bo Aeth(~) 
+ +:<gk>MEGA/LOU<\> (~)A'`-Q{*}-49'-198-233'-407'-534-544 36-51-46' Cyr. Tht.  Bas.N. Or.{lat} VII 141 S{ca} <it>L<\>'{-36 51} Bo Aeth(~) 
+ :+<gk>MAGALWN<\> 613(~) 
+ + <gk>KAI<\> 36 26 410 Tht. =MT 
+<gk>AU)TW=N<\> 
+. 
+~x3y6
+<gk>KAI\<\>
+<gk>H)/GGISEN<\> 
+<gk>O(<\>
+<gk>LO/GOS<\>] 
+ : <gk>LAOS<\> S{c}-534
+ : <gk>LAOSS<\> 198
+<gk>PRO\S<\> 
+<gk>TO\N<\>] > 534 
+<gk>BASILE/A<\>
+<gk>TH=S<\>] > 68
+<gk>*NINEUH<\>]
+ : <gk>NINEUHS<\> S{*} 
+, 
+<gk>KAI\<\>
+<gk>E)CANE/STH<\>
+<gk>A)PO/<\>]
+ : <gk>EK<\> <it>lII<\>(86{txt}) 239
+<gk>TOU=<\>
+<gk>QRO/NOU<\> 
+<gk>AU)TOU=<\> 
+<gk>KAI\<\>] > V: homoiot.(>7) 
+<gk>PERIEI/LATO<\>] > V: homoiot.(>7)
+ : <gk>PERIEILETO<\> Q{c} <it>lI<\>`(86{c})-49'`-410 87{c}-68-239 Cyr. Thph.
+ : <gk>PERIEILEN<\> Bas.N. 
+<gk>TH\N<\>] > V: homoiot.(>7) 
+<gk>STOLH\N<\>] > V: homoiot.(>7)
+<gk>AU)TOU=<\>] > V: homoiot.(>7) 764
+<gk>A)F'<\>] > V: homoiot.(>7) 
+<gk>E(AUTOU=<\>] > V: homoiot.(>7) 
+<gk>KAI\<\>
+<gk>PERIEBA/LETO<\>
+<gk>SA/KKON<\> 
+<gk>KAI\<\>
+<gk>E)KA/QISEN<\>
+<gk>E)PI\<\> 
+ +<<gk>THS<\> 239
+<gk>SPODOU=<\>]
+ : <gk>SPODON<\> W <it>lII<\> (86{*}) 
+. 
+~x3y7
+<gk>KAI\<\>
+<gk>E)KHRU/XQH<\>] > W(~)
+ + <gk>E)RRE/QH<\> W(~)
+<gk>KAI\<\>] > 86{txt} La{C} Ach Sa Aeth Lucif. Hi.
+<gk>E)RRE/QH<\>] > W(~) 86{txt} La{C} Ach Sa Aeth Lucif. Hi. 
+ + <gk>E)KHRU/XQH<\> W(~)
+<gk>E)N<\>] > Ach Aeth Cyr{p} Thph. Hi.
+<gk>TH=|<\>
+<gk>*NINEUH<\> 
+<gk>PARA\<\>] > 956(>4)
+<gk>TOU=<\>] > 956(>4) 
+<gk>BASILE/WS<\>] > 956(>4)
+<gk>KAI\<\>] > 956(>4) 
+<gk>PARA\<\>..] > Ach Sa Thph. = MT
+<gk>TW=N<\>] 
+ : <gk>PANTWN<\> S{*}
+ : <Lt>ab omnibus<\> Hi. 
+<gk>MEGISTA/NWN<\>]
+ : <Lt>majoribus<\> Hi.
+<gk>AU)TOU=<\>]
+ : <gk>AUTWN<\> S{*} 
+ : <Lt>civitatis eius<\> La{C} 
+ +<<Lt>verbum<\> Ach Sa: cf. MT
+<gk>LE/GWN<\>] > Arm 
+ : <gk>LEGONTWN<\> <it>L<\>'` (86{mg})-239{c}-407'-613 87{c}-68 233' Cyr{p} 
+  Thph. Hi. 
+<gk>*OI(<\>
+<gk>A)/NQRWPOI<\>
+<gk>KAI\<\>
+<gk>TA\<\> 
+<gk>KTH/NH<\>
+<gk>KAI\<\>] > Bo
+<gk>OI(<\>] > Bo 
+ : <gk>AI<\> W 
+<gk>BO/ES<\>] > Bo 
+<gk>KAI\<\>] > 4l0 Sa{p} 
+<gk>TA\<\>] > 4l0 Sa{p}
+<gk>PRO/BATA<\>] > 4l0 Sa{p} 
+ + <Lt>et<\> Sa{p} 
+ + <Lt>boves<\> Sa{p}
+<gk>MH\<\> 
+<gk>GEUSA/SQWSAN<\>
+ : <gk>GEUESQWSAN<\> A-49
+ : <gk>GEUSESQWSAN<\> S{*} 
+<gk>MHDE/N<\>] > W{c} 68 534 544 = Sixt. 
+<gk>MHDE\<\> 
+<gk>NEME/SQWSAN<\>]
+ : <gk>NEMETWSAN<\> 68 Thph. 
+ + <gk>MHDEN<\> W(vid.) S{*} 
+ + <gk>KAI<\> rel. (Lucif.)
+<gk>MHDE\<\> W B-S A'`-49 La{C} Arm Bas.N.] > 410: homoiot. rel. (Lucif.)
+<gk>U(/DWR<\> W B-S A'`-49 La{C} Arm Bas.N. rel. (Lucif.)] > 410: homoiot. 
+ + <gk>MH<\> rel. (Lucif.)
+<gk>PIE/TWSAN<\>] > 410: homoiot.
+ : <gk>PINETWSAN<\> S <it>L<\>'-49
+. 
+~x3y8
+<gk>KAI\<\>
+<gk>PERIEBA/LONTO<\> 
+<gk>SA/KKOUS<\>
+<gk>OI(<\> 
+<gk>A)/NQRWPOI<\>
+<gk>KAI\<\>] > La{C} Aeth{p} Bas.N. Lucif.: vide infra 
+<gk>TA\<\>] > La{C} Aeth{p} Bas.N. Lucif.: vide infra
+<gk>KTH/NH<\>] > La{C} Aeth{p} Bas.N. Lucif.: vide infra 
+, 
+<gk>KAI\<\>
+ +<<\>ENHSTEUSAN<\> (<gk>KAI<\>) Ach Sa
+<gk>A)NEBO/HSAN<\>]
+ + <Lt>homines et iumenta<\> La{C} 
+ + <Lt>homines et pecudes<\> Lucif.: vide supra
+ + <gk>E)KTENW=S<\> (~)763 490-130'(~) 
+<gk>PRO\S<\> 
+ +<<gk>KURION<\> 233 Bo
+<gk>TO\N<\>
+<gk>QEO\N<\>]
+ : <Lt>dominum<\> Ach Sa Hi. 
+<gk>E)KTENW=S<\>] > (~)763 490-130'(~) 
+: 
+<gk>KAI\<\>
+<gk>A)PE/STREYAN<\> W Ir.{lat} Lucif.] 
+ : <gk>ANESTREYAN<\> S{c} Q <it>C<\>{-91*}-68 Syh(vid.) 
+ : <gk>ANESTREYEN<\> <it>L<\>{-36} 91{*}       {???}
+ : <gk>APESTREYEN<\> A'-49`-407'-534-956 22{c}-36-<it>lI<\>-46 Co Arab
+  Cyr.{p}(= comm) Tht. Bas.N. Thph. Hi. (<Lt>reversus est<\>)
+ : <gk>EPESTREYEN<\> 130' Cyr{F} (2nd) 
+<gk>E(/KASTOS<\> 
+<gk>A)PO\<\>]
+ : <gk>EK<\> 407 
+<gk>TH=S<\>
+<gk>O(DOU=<\>
+<gk>AU)TOU=<\>]
+ : <gk>AUTWN<\> 87-613 Cyr.
+<gk>TH=S<\>
+<gk>PONHRA=S<\>
+<gk>KAI/<\>] > ult. 62 
+<gk>A)PO/<\>] > La{C} Ach Sa{p} Ir.{lat} 
+<gk>TH=S<\>
+<gk>A)DIKI/AS<\>]
+ : <gk>KAKIAS<\> Ach Thph.{lem}
+<gk>TH=S<\>
+<gk>E)N<\> 
+ +<<gk>TAIS<\> W' Q
+<gk>XERSI\N<\>]
+<gk>AU)TW=N<\>]
+ : <gk>AUTOU<\> 534 Syh
+ + <Lt>et<\> La{C} Ach Sa{p} 
+<gk>LE/GONTES<\>]
+ : <Lt>dixerunt<\> La{C} Ach 
+ : <Lt>dixit<\> Sa{p}
+~x3y9
+<gk>*TI/S<\> 
+<gk>OI)=DEN<\> 
+<gk>EI)<\> 
+<gk>METANOH/SEI<\> Ir.{lat} Lucif.]
+ : <gk>EPISTREYEI<\> <it>C<\>-68 Tht. Hi. (<it>convertatur<\>) = MT
+ +<<gk>KAI<\> <it>L<\>' Chr. I 300 Th. Thph. = MT 
+ +<<gk>PARAKLHQHSETAI<\> <it>L<\>' Chr. I 300 Th. Thph. = MT
+<gk>O(<\>..] 
+<gk>QEO\S<\>]
+ : <gk>KURIOS<\> 91
+ + <gk>KAI<\> (~)<it>C<\>-68 407{mg} Arab Cyr.{F} Tht. Hi.(~)
+ + <gk>PARAKLHQHSETAI<\> (~)<it>C<\>-68 407{mg} Arab Cyr.{F} Tht. Hi.(~)
+<gk>KAI\<\>
+<gk>A)POSTRE/YEI<\>
+ + <gk>KAI<\> (~)<it>lII<\> (86{mg})(~)
+ + <gk>PARAKLHQHSETAI<\> (~)<it>lII<\> (86{mg})(~)
+<gk>E)C<\>]
+ : <gk>APO<\> <it>L<\>' 233`' Chr. Th. Tht. 
+<gk>O)RGH=S<\> 
+<gk>QUMOU=<\>
+<gk>AU)TOU=<\> 
+<gk>KAI\<\>
+<gk>OU)<\> 
+<gk>MH\<\> 
+<gk>A)POLW/MEQA<\> 
+; 
+~x3y10
+<gk>KAI\<\>
+<gk>EI)=DEN<\> 
+<gk>O(<\>..] 
+<gk>QEO\S<\>]
+ : <Lt>dominus<\> Syp
+<gk>TA\<\> 
+<gk>E)/RGA<\>
+<gk>AU)TW=N<\> 
+, 
+<gk>O(/TI<\> W <it>lII<\> 130'-239 La{C} Arm Lucif. 36 956 Chr. II 53 X 426 239 %  Syh{mg} (adn. <<hic obelus non erat in hexaplis>>)] 
+<gk>A)PE/STREYAN<\> W <it>lII<\> 130'-239 La{C} Arm Lucif.  % Syh{mg} (adn. <<hic obelus non erat in hexaplis>>)] 
+ : <gk>APESTREYEN<\>36 956 Chr. II 53 X 426 
+ +:<gk>EKASTOS<\> 36 Chr. II 53 X 426 W <it>lII<\> 130'-239 La{C} Arm Lucif.
+  % Syh{mg} (adn. <<hic obelus non erat in hexaplis>>)
+ :+<gk>EKASTOI<\> 239
+ + <gk>AU)TW=N<\> % Syh{mg} (adn. <<hic obelus non erat in hexaplis>>) 
+<gk>A)PO\<\> 
+<gk>TW=N<\>] 
+ : <gk>THS<\> 130' Bo Chr. X 426 Lucif. = MT 
+<gk>O(DW=N<\>] 
+ : <gk>ODOU<\> 130' Bo Chr. X 426 Lucif. = MT
+<gk>AU)TW=N<\> 130' Bo X 426 Lucif. = MT]
+ : <gk>AUTOU<\> Chr. 
+<gk>TW=N<\>] 
+ : <gk>THS<\> 130' Bo Chr. X 426 Lucif. = MT 
+<gk>PONHRW=N<\>] 
+ : <gk>PONHRAS<\> 130' Bo Chr. X 426 Lucif. = MT 
+, 
+<gk>KAI\<\>
+<gk>METENO/HSEN<\> 
+<gk>O(<\>
+<gk>QEO\S<\> 
+<gk>E)PI\<\> 
+<gk>TH=|<\> Tert. III 367] 
+ : <gk>TA<\> W'`(407{txt}) A'`-49{c} La{C} Co Arm
+<gk>KAKI/A|<\> Tert. III 367]
+ : <gk>KAKA<\> W'`(407{txt}) A'`-49{c} La{C} Co Arm
+, 
+<gk>H(=|<\> Tert. III 367] 
+ : <gk>A<\> W'` (407{txt}) A'`-49{c} La{C} Co Arm
+<gk>E)LA/LHSEN<\>
+<gk>TOU=<\>
+<gk>POIH=SAI<\>
+<gk>AU)TOI=S<\>
+, 
+<gk>KAI\<\>
+<gk>OU)K<\>
+<gk>E)POI/HSEN<\>
+. 
+~x4y1
+<gk>@*KAI\<\>
+<gk>E)LUPH/QH<\> 
+<gk>*IWNAS<\>
+<gk>LU/PHN<\>
+<gk>MEGA/LHN<\>
+<gk>KAI\<\> W{*} W{c} Sa(vid.) : cf. Iust.Dial. 107.3(2nd)] > 764 Ach(vid.) Bo 
+  Aeth{p} 
+ : <Lt>et<\> La{C} 
+<gk>SUNEXU/QH<\>] > 764 Ach(vid.) Bo Aeth{p} 
+ : <gk>SUNEQUMHSEN<\> W{*} 
+ : <gk>HQUMHSEN<\> W{c} Sa(vid.) : cf. Iust.Dial. 107:3(2nd) 
+ : <Lt>maestus factus est<\> La{C} 
+. 
+~x4y2
+<gk>KAI\<\>
+<gk>PROSHU/CATO<\>]
+ : <gk>PROSEU/CATO<\> W B{*}-V <it>L<\>{-36} Ra: cf. 1:16 
+ + <gk>KAI<\> W{*}: ex sq. 
+ + <gk>EIPEN<\> W{*}: ex sq. 
+<gk>PRO\S<\> 
+ +<<gk>TON<\> <it>lII<\>(86{c}) 
+<gk>KU/RION<\>]
+ : <Lt>deum<\> Lucif.
+ + <Lt>deum<\> Arm 
+<gk>KAI\<\>..] 
+<gk>EI)=PEN<\>]
+ : <gk>LEGWN<\> 410 Sa Lucif.
+<gk>*)=W<\>] 
+ + <gk>DH<\> S{ca} Q{c} <it>L<\>'-613 <it>C<\>-68 Thph. Hi.{comm}
+<gk>KU/RIE<\>
+, 
+<gk>OU)X<\>
+<gk>OU(=TOI<\> 
+ + <gk>EISIN<\> La(CW) Chr.II 289 Lucif. Hi. 
+<gk>OI(<\> 
+<gk>LO/GOI<\>
+<gk>MOU<\> 
+ + <gk>OUS ELALHSA<\> A Arab 
+ + <gk>OUS ELEGON<\> Chr.
+ + <gk>HSAN<\> <it>L<\>'{-36} Th. Tht.
+<gk>E)/TI<\>
+<gk>O)/NTOS<\>] > (~)407 
+<gk>MOU<\>] V-534 36 233'
+ + <gk>O)/NTOS<\> (~)407 
+<gk>E)N<\> 
+<gk>TH=|<\>
+<gk>GH=|<\>
+<gk>MOU<\> 
+; 
+<gk>DIA\<\>
+<gk>TOU=TO<\>
+<gk>PROE/FQASA<\>
+<gk>TOU=<\>
+<gk>FUGEI=N<\> 
+<gk>EI)S<\>
+<gk>*QARSIS<\> 
+, 
+<gk>DIO/TI<\>] 
+ : <gk>OTI<\> <it>C<\>
+<gk>E)/GNWN<\> 
+ + <gk>EGW<\> S{c}-V 
+<gk>O(/TI<\> 
+<gk>SU/<\>] > 956(~) 
+ + <gk>EI<\> W Q{*}-198-544-764 <it>lI<\> 534 86{c} 130{c}-311 Arm Cyr. IV 608
+ + <gk>O<\> 534 62{c} 613
+ + <gk>QEOS<\> <it>O<\> <it>C<\> <it>lI<\> 613 Cyr.{F} = MT 
+ : <gk>O<\>.. 68 
+ + <gk>QEOS<\> 68
+ + <gk>KURIE<\> 86{*}
+<gk>E)LEH/MWN<\> 
+ + <gk>SU/<\> 956(~) 
+ + <gk>EI<\> <it>L<\>`-62-410 La{C} Th. Tht.(vid.) Thph.{comm}
+<gk>KAI\<\>
+<gk>OI)KTI/RMWN<\> 
+ + <gk>EI<\> 239{c}
+, 
+ +<<Lt>et<\> La{CW}
+<gk>MAKRO/QUMOS<\>] > Bo 
+<gk>KAI\<\>
+<gk>POLUE/LEOS<\>
+<gk>KAI\<\>
+<gk>METANOW=N<\> 
+<gk>E)PI\<\> 
+<gk>TAI=S<\>] > <it>lII<\>-613 534 544{*} Chr. Thph.: cf. Ioe1 2:13 
+<gk>KAKI/AISL<\>
+ + <gk>TWN<\> 239{c} 
+ + <gk>ANQRWPWN<\> <it>lII<\>-239{c} Arab Chr. II 289 
+ + <gk>HMWN<\> 956 
+. 
+~x4y3
+<gk>KAI\<\>
+<gk>NU=N<\>
+, 
+<gk>DESPOTA<\> % <it>O<\>] > Ach Sa Syp Aeth Cyr. IV 848 (hab. 1V 608) = MT 
+<gk>KU/RIE<\>] > 956 
+ : <gk>MOU<\> Bo 
+, 
+<gk>LA/BE<\>]
+ : <gk>PARALABE<\> 534 
+ + <gk>DH<\> <it>lI<\>-613 <it>C<\> Cyr.{F} = MT 
+<gk>TH\N<\>
+<gk>YUXH/N<\>
+<gk>MOU<\> 
+<gk>A)P'<\>
+<gk>E)MOU=<\>
+, 
+<gk>O(/TI<\> 
+<gk>KALO\N<\>
+ + <gk>MOI<\> <it>L<\>'`{-36}(86{c})-239{c} La{CW} (<it>est mihi<\>) Co Syh Syp Aeth 
+  Arab Arm Chr. III 577 Th. Tht. Hi.: cf. 8 
+<gk>TO\<\> 
+<gk>A)POQANEI=N<\> 
+<gk>ME<\> Tht.] > W' 763{*} La{W} Syh Syp Aeth Arm Chr. III 577 Hi.
+ : <gk>MALLON<\> <it>lII<\> (86{*})-239{c} La{C} Co(vid.) 
+ + <gk>MALLON<\> S{ca} <it>L<\>' Th.
+<gk>H)\<\>]
+ : <gk>EI<\> B-S{*}
+<gk>ZH=N<\>
+<gk>ME<\> W' B-S{*} Q{c} <it>L<\>`{-36 51}-62 130'-239 Arm Chr. Th. Tht.] > rel.: 
+  cf. 8 
+. 
+~x4y4
+<gk>KAI\<\>
+<gk>EI)=PEN<\> 
+<gk>KU/RIOS<\> 
+<gk>PRO\S<\> % Q{c}] > <it>C<\>-68-613 Thph. = MT 
+<gk>*IWNAN<\> % Q{c}] > <it>C<\>-68-613 Thph. = MT
+<gk>*EI)<\>] > V 86{*} <it>C<\>-68 Syp Hi.{p}: cf. 9
+<gk>SFO/DRA<\>]
+ : <gk>ISXURWS<\> V 86{mg} 
+ + <gk>SU<\> S{*}
+<gk>LELU/PHSAI<\>
+<gk>SU/<\> 
+; 
+ + <Lt>et<\> Syp Arab(+9): ex 9
+ + <Lt>dixit<\> Syp Arab(+9): ex 9 
+ + <Lt>ionas<\> Syp
+ + <Lt>valde<\> Syp Arab(+9): ex 9 
+ + <Lt>contristatus<\> Syp Arab(+9): ex 9
+ + <Lt>sum<\> Syp Arab(+9): ex 9 
+ + <Lt>ego<\> Syp Arab(+9): ex 9 
+ + <Lt>usque<\> Syp Arab(+9): ex 9 
+ + <Lt>ad<\> Syp Arab(+9): ex 9
+ + <Lt>morte<\> Syp Arab(+9): ex 9 
+~x4y5
+<gk>KAI\<\>
+<gk>E)CH=LQEN<\> 
+<gk>*IWNAS<\>
+<gk>E)K<\>]
+ : <gk>APO<\> <it>lI<\> 
+<gk>TH=S<\>
+<gk>PO/LEWS>1] > <it>C<\>-239 La{W} Bas.N. (>5)
+<gk>KAI\<\>] > <it>C<\>-239 La{W} Bas.N. (>5) 
+<gk>E)KA/QISEN<\>] > <it>C<\>-239 La{W} Bas.N. (>5) 
+ : <gk>EKAQHTO<\> 456
+<gk>A)PE/NANTI<\>] > <it>C<\>-239 La{W} Bas.N. (>5) 
+<gk>TH=S<\>..] > <it>C<\>-239 La{W} Bas.N.(>5) Syp
+<gk>PO/LEWS<\>] > Syp
+ : <gk>AUTHS<\> 456
+: 
+<gk>KAI\<\>
+<gk>E)POI/HSEN<\>
+ + <gk>E)KEI=<\> (~)A <it>lII<\> 239 956(~) 
+ + <gk>SKHNH\N<\> A(~) 
+<gk>E(AUTW=|<\> <it>lII<\> 239 956 <it>lI<\> Bo] 
+ : <gk>AUTW<\> 68 233 Cyr. 
+<gk>E)KEI=<\>] > (~)V A <it>lII<\> 239 956 <it>lI<\> Bo(~) 490 456 La{CW} Aeth Arm 
+  Bas.N.
+ + <gk>APENANTI<\> Bas.N.
+ + <gk>THS<\> Bas.N. 
+ + <gk>POLEWS<\> Bas.N.
+<gk>SKHNH\N<\> <it>lII<\> 239 956 <it>lI<\> Bo] > A(~) 
+ +<gk>E)KEI=<\> <it>lI<\> Bo
+<gk>KAI\<\>
+<gk>E)KA/QHTO<\>]
+ : <gk>EKAQISEN<\> Bas.N.
+ + <gk>E)KEI=<\> V(~)
+<gk>U(POKA/TW<\> 
+<gk>AU)TH=S<\>]
+ : <gk>AUTOU<\> 410
+ +<<gk>EKEI<\> 86-711
+<gk>E)N<\>..] > <it>C<\>-68 La{W} Thph. = Sixt. 
+<gk>SKIA=|<\>] > <it>C<\>-68 La{W} Thph. = Sixt.
+ : <gk>EKEI<\> 36-49`
+, 
+<gk>E(/WS<\> 
+<gk>OU(=<\>] > Q 
+ : <gk>OTOU<\> V 
+<gk>A)PI/DH|<\>] 
+ : <gk>EPIDH<\> Tht. Bas.N. (cf. 86{mg}) 
+ : <gk>EPEIDH<\> 86{mg}
+ : <gk>EFIDH<\> 490
+ : <gk>AN..<\> <it>L<\>{-36}
+ + <gk>IDH<\> <it>L<\>{-36} 
+ : <gk>EIDH<\> 534 
+<gk>TI/<\> 
+<gk>E)/STAI<\> 
+ +<<gk>EN<\> S 233' Sa Aeth{p}$ = MT 
+<gk>TH=|<\>
+<gk>PO/LEI<\>
+. 
+~x4y6
+<gk>KAI\<\>
+<gk>PROSE/TACEN<\> 
+<gk>KU/RIOS<\>] > Arm
+<gk>O(<\>] > Ach Sa Aeth 764 
+<gk>QEO\S<\>] > Ach Sa Aeth
+<gk>KOLOKU/NQH|<\> 
+, 
+<gk>KAI\<\>
+<gk>A)NE/BH<\> 
+<gk.U(PE\R<\>
+<gk.KEFALH=S<\>] > Ach Sa = MT 
+<gk>TOU=<\>.. W'` B-S 26  Cyr.$] > 490(>8) rel.(Cyr.{F}) 
+<gk>*IWNA<\> W'` B-S 26  Cyr.$] > 490 (>8) 
+ : <gk>AUTOU<\> 86{mg} La{W} 
+<gk>TOU=<\>>] > 490 (>8) > 239 Ach Sa Aeth (>7)
+<gk>EI)=NAI<\>] > 490 (>8) > 239 Ach Sa Aeth (>7)
+ +<<gk>EIS<\> S{c} <it>lII<\>-407'-764 Bo Cyr.{p} 
+<gk>SKIA\N<\>] > 490 (>8) > 239 Ach Sa Aeth (>7) 
+<gk>U(PERA/NW<\>] > 490 (>8) > 239 Ach Sa Aeth (>7)
+ : <gk>UPER<\> 410 
+<gk>TH=S<\>] > 490 (>8) > 239 Ach Sa Aeth (>7) W'`$
+<gk>KEFALH=S<\>] > 490 (>8) > 239 Ach Sa Aeth (>7) 
+<gk>AU)TOU=<\>] > 239 Ach Sa Aeth (>7) 
+ : <Lt>ionae<\> La{W}
+<gk>TOU=<\>] > <it>lI<\> 26 
+ : <gk>KAI<\> 130 La{C} Hi.
+<gk>SKIA/ZEIN<\> 
+<gk>AU)TW=|<\>]
+ : <gk>AUTON<\> <it>lII<\>
+<gk>A)PO/<\>]
+ : <gk>UPO<\> 456
+<gk>TW=N<\>
+<gk>KAKW=N<\>
+<gk>AU)TOU=<\>] > La{W}
+ : <gk>AUTWN<\> S{*}-534 
+ + <Lt>omnium<\> Bo
+: 
+<gk>KAI\<\>
+<gk>E)XA/RH<\> 
+<gk>*IWNAS<\>
+<gk>E)PI\<\> 
+<gk>TH=|<\>
+<gk>KOLOKU/NQH|<\> 
+<gk>XARA\N<\>
+ : <gk>XARA<\> 239{*}
+<gk>MEGA/LHN<\>
+ : <gk>MEGALH<\> 239{*}
+ + <gk>SFODRA<\> 36-86{*}-49`
+. 
+~x4y7
+<gk>KAI\<\>
+<gk>PROSE/TACEN<\> 
+ +<<gk>KURIOS<\> A'`-Q'-49`-198-233' -407'-456-534' 36-<it>lI<\> Bo Bas.N.
+<gk>O(<\>.. W 956] 
+<gk>QEO\S<\> W 956]
+ : <gk>KURIOS<\> 764 La{C} Aeth Arab Cyr{p}: cf. 8:9 
+<gk>SKW/LHKI<\>
+<gk>E(WQINH=|<\> 
+ : <gk>EWQINW<\> 130'
+<gk>TH=|<\>
+<gk>E)PAU/RION<\>
+, 
+<gk>KAI\<\>
+<gk>E)PA/TACE<\>]
+ : <gk>E)PA/TACEN<\> Ra
+ + <gk>EPI<\> 534
+<gk>TH\N<\>
+<gk>KOLO/KUNQAN<\> 
+ : <gk>KOLOKUNQA<\> 22{c}-36{*}-613 26 68
+, 
+<gk>KAI\<\>
+<gk>A)PECHRA/NQH<\> W] 
+ : <gk>ECHRANQH<\> <it>L<\>'{-36}-613-764 <it>C<\>'{-538}-68-534 106 956 Cyr.{F}  Thph. 
+. 
+~x4y8
+<gk>KAI\<\>
+<gk>E)GE/NETO<\> 
+<gk>A(/MA<\> 
+<gk>TW=|<\>] 
+ : <gk>TOU<\> 87-613 26' 
+<gk>A)NATEI=LAI<\> 
+<gk>TO\N<\>
+<gk>H(/LION<\> 
+<gk>KAI/<\>] > 46 106 Ach Sa Syp Arm{p} Hi.
+<gk>PROSE/TACEN<\>]
+ : <gk>EPETACEN<\> 130'
+ +<<gk>KURIOS<\> W'` A-Q{*}-764 Syp Arab Cyr. Bas.N. 
+<gk>O(<\>..] 
+<gk>QEO\S<\>]
+ : <Lt>dominus<\> Aeth Hi.: cf. 7
+<gk>PNEU/MATI<\> 
+ : <gk>PNEUMA<\> 407 
+<gk>KAU/SWNOS<\> 
+ : <gk>KAUSEWS<\> 534 956{*} Thph. 
+ : <gk>KAUSWNI<\> 68 
+<gk>SUGKAI/ONTI<\> 
+, 
+<gk>KAI\<\>
+<gk>E)PA/TACEN<\>
+<gk>O(<\>] > 410  Th.
+<gk>H(/LIOS<\>] > 410  Th. 
+<gk>E)PI\<\> 
+<gk>TH\N<\>
+<gk>KEFALH\N<\>
+ +<<gk>TOU<\> V$ 
+<gk>*IWNA<\> 
+: 
+<gk>KAI\<\>
+<gk>W)LIGOYU/XHSEN<\>
+ : <gk>WLIGOYUXEI<\> V <it>L<\>'-49` <it>C<\>'{-538}-68-239 Cyr.{F} Th. Thph.
+ : <gk>OLIGOYUXEI<\> 956 (cf. V etc.)
+<gk>KAI\<\>
+<gk>A)PELE/GETO<\> 
+<gk>TH\N<\>
+<gk>YUXH\N<\>
+<gk>AU)TOU=<\> 
+<gk>KAI\<\>
+<gk>EI)=PEN<\> 
+<gk>*KALO/N<\> Q{txt}-410 86{*}$ = MT
+ + <gk>ME<\> 86{mg}
+ + <gk>MOI<\> rel. (W) Ra : cf. 3
+ +<<gk>TO<\> rel.
+<gk>A)POQANEI=N<\> W B-S{*} 233'$
+<gk>ME<\>] > W'` S <it>O<\> <it>L<\>'{-36} <it>C<\>-68-239 106 466 956 La{W} Syp Aeth 
+  Arm Cyr. Th. Hi.: cf. 3 
+ : <gk>MALLON<\> 36-49` Co(vid.) 
+ + <gk>MALLON<\> 26
+<gk>H)\<\> 
+<gk>ZH=N<\> W
+ + <gk>ME<\> S(ca) Q(c?) <it>L<\>'{-36}-407'-613 <it>C<\>'{-538}-68 26 956 Arm 
+  Cyr{p} Thph.= MT: cf. 3 
+ + <gk>MALLON<\> 239 
+ + <gk>MH<\> 239 (+8) = Pesch.: ex Regn. III 19:4
+ + <gk>KREITTWN<\> 239 (+8) = Pesch.: ex Regn. III 19:4
+ + <gk>EGW<\> 239 (+8) = Pesch.: ex Regn. III 19:4 
+ + <gk>EIMI<\> 239 (+8) = Pesch.: ex Regn. III 19:4
+ + <gk>UPER<\> 239 (+8) = Pesch.: ex Regn. III 19:4
+ + <gk>TOUS<\> 239 (+8) = Pesch.: ex Regn. III 19:4
+ + <gk>PATERAS<\> 239 (+8) = Pesch.: ex Regn. III 19:4 
+ + <gk>MOU<\> 239 (+8) = Pesch.: ex Regn. III 19:4 
+. 
+~x4y9
+<gk>KAI\<\>
+<gk>EI)=PEN<\> 
+ +<<gk>KURIOS<\> rel.
+<gk>O(<\>..] W` B-S{*} Lucif.$ = MT] 
+<gk>QEO\S<\>] W` B-S{*} Lucif.$ = MT]
+ : <gk>KURIOS<\> 233' 456 534 544 764 La{W} Aeth Cyr. Thph.
+<gk>PRO\S<\> 
+<gk>*IWNAN<\>
+<gk>*)EI<\>] > 86{*} <it>C<\>-68 Hi.{p}: cf. 4
+<gk>SFO/DRA<\> 
+<gk>LELU/PHSAI<\>
+<gk>SU\<\> 
+<gk>E)PI\<\> 
+<gk>TH=|<\>
+<gk>KOLOKU/NQH|<\> 
+; 
+<gk>KAI\<\>
+<gk>EI)=PEN<\> 
+<gk>*SFO/DRA<\>
+<gk>LELU/PHMAI<\>
+<gk>E)GW/<\>] > 26 Lucif.
+<gk>E(/WS<\> 
+<gk>QANA/TOU<\>
+. 
+~x4y10
+<gk>KAI\<\>
+<gk>EI)=PEN<\> 
+ +<<Lt>ei<\> Syp 
+<gk>KU/RIOS<\> 
+ + <Lt>ei<\> Ach Sa
+<gk>*SU/<\>
+ + <gk>MEN<\> <it>L<\>'-86{*}-613 87{c}-68 106 Chr. I 726 III 490 
+<gk>E)FEI/SW<\>
+<gk>U(PE\R<\>] 
+ : <gk>PERI<\> Iust. 
+<gk>TH=S<\>] 
+ : <gk>TOU<\> Iust.
+<gk>KOLOKU/NQHS<\>]
+ : <gk>SIKUWNOS<\> Iust. 
+, 
+<gk>U(PE\R<\>..] 
+<gk>H(=S<\>] 
+ : <gk>OU(=<\> Iust. 
+<gk>OU)K<\>
+<gk>E)KAKOPA/QHSAS<\>] 
+ : <gk>EKOPIASAS<\> 130'-534 Syp Iust.: cf. MT 
+<gk>E)P'<\> S{ca}(sec. Tisch.) S{*} A'` <it>L<\>-49 Cyr.{F} Bas.N.] > <it>C<\>-68
+  Aeth Arm Chr. Thph. Lucif. Hi.
+ : <gk>EIS<\> S{c} <it>O<\> (&dNBH&d Syh) <it>lII<\>-613 <it>C<\>-239-534 La{W} 
+  (<Lt>in eam<\>) Cyr.{p}
+ : <gk>EN<\> Iust. 
+<gk>AU)TH\N<\> S{c}{ca}(sec. Tisch.) <it>O<\> (&dNBH&d Syh) <it>lII<\>-613 <it>C<\>-
+  239-534 La{W} (<Lt>in eam<\>) Cyr.{p}] > <it>C<\>-68  Aeth Arm Chr. Thph. Lucif.  Hi. 
+ : <gk>AUTHS<\> S{*} A'` Cyr.{F} Bas.N.
+ : <gk>AUTH<\> <it>L<\>-49
+ : <gk>AUTW<\> Iust. 
+<gk>KAI\<\>.. W] > 239{*}(>4)
+<gk>OU)K<\> W] > 239{*}(>4)
+ : <gk>OUDE<\> S{c}-V Q{c} <it>L<\>'`-613 <it>C<\>'-68-239{(c)} 106 La{W} Ach Sa  Chr. Thph. Lucif. Hi. (cf. Iust)
+ : <gk>OUTE<\> Iust. 
+<gk>E)CE/QREYAS<\>] > 239{*}(>4) 
+ : <gk>EQREYAS<\> 534
+<gk>AU)TH/N<\>] > 239{*}(>4) 
+ : <gk>AUTON<\> Iust.
+, 
+<gk>H(\<\>]
+ : <gk>OS<\> Iust. 
+ + <gk>E)GENH/QH<\>(~)Ra W B-S-V <it>O<\> <it>L<\>'{-36}-613 <it>C<\>-68-239-538 Co 
+  Thph. Hi.(~)
+<gk>U(PO\<\> Iust.]
+ : <gk>UIOS<\> Syh Syp (<Lt>filia noctis<\>) = MT 
+<gk>NU/KTA<\> Iust.] 
+ : <gk>NUKTOS<\> Syh Syp (<Lt>filia noctis<\>) = MT 
+ + <gk>AUTOU<\> Iust.
+ + <gk>HLQE<\> Iust. 
+<gk>E)GENH/QH<\> Lucif.] > (~)Ra W B-S-V <it>O<\> <it>L<\>'{-36}-613 <it>C<\>-68-239- 538 Co Thph. Hi.(~) Iust. 
+<gk>KAI\<\>] > W 48: homoiot.
+<gk>U(PO\<\>] > W 48: homoiot. 
+ : <gk>UIOS<\> Syh Syp (<Lt>filia noctis<\>) = MT 
+<gk>NU/KTA<\>] > W 48: homoiot.
+ : <gk>NUKTOS<\> Syh Syp (<Lt>filia noctis<\>) = MT 
+ + <gk>AUTOU<\> Iust.
+<gk>A)PW/LETO<\> 
+. 
+~x4y11
+<gk>E)GW\<\>..]
+<gk>DE\<\>] > 130' Arm 
+ : <gk>KAGW<\> Iust. 
+<gk>OU)<\> 
+ + <gk>QELHS<\> 534
+<gk>FEI/SOMAI<\> 
+ + <Lt>nunc<\> La{W} 
+ + <Lt>parcam<\> La{W} 
+<gk>U(PE\R<\>
+ +<<gk>THS<\> 147 Thph.(~) 
+<gk>*NINEUH<\> 
+<gk>TH=S<\>] > Thph(~) 
+<gk>PO/LEWS<\> 
+<gk>TH=S<\>] > A 
+<gk>MEGA/LHS<\>] > A 
+, 
+<gk>E)N<\> 
+<gk>H(=|<\>
+<gk>KATOIKOU=SI<\> Iust.]
+ : <gk>KATOIKOU=SIN<\> Ra
+ + <gk>EN AUTH<\> <it>O<\> <it>C<\>-68-613 Chr. III 490 (non I 726)  = MT
+<gk>PLEI/OUS<\>
+<gk>H)\<\>] > B-S{*}-534 
+<gk.DW/DEKA<\> 
+<gk>MURIA/DES<\> 
+ : <gk>MURIADAS<\> 87{*}-68 106
+<gk>A)NQRW/PWN<\>] 
+ : <gk>ANDRWN<\> 410 456 Iust. Chr. Hi.
+, 
+<gk>OI(/TINES<\>]
+ : <gk>OI<\> Iust. 
+ : <Lt>quae<\> La{W} 
+<gk>OU)K<\>
+<gk>E)/GNWSAN<\> 
+ + <gk>DIAKRINEIN<\> Syh{mg} 
+ + <gk>ANA<\> Iust.: cf. MT
+ + <gk>MESON<\> Iust.: cf. MT
+<gk>DECIA\N<\>] > W(~) 
+ : <gk>DECIAS<\> Iust.: cf. MT 
+<gk>AU)TW=N<\>] > La{W} Arm Chr. Cyr{p} Lucif. Hi. 
+<gk>H)\<\>]
+ : <gk>OUDE<\> A-407 86{mg} Ach Bo Arab
+ : <gk>KAI<\> Sa Arm Iust. Hi. 
+ + <gk>ANA<\> Iust.: cf. MT
+ + <gk>MESON<\> Iust.: cf. MT
+<gk>A)RISTERA\N<\> 
+ : <gk>ARISTERAS<\> Iust.: cf. MT
+ + <gk>DECIA\N<\> W(~) 
+<gk>AU)TW=N<\>] > V 410 La(W) Chr. Thph.{comm} Lucif.
+, 
+ +<<Lt>ipsi<\> Ach 
+<gk>KAI\<\>
+<gk>KTH/NH<\>
+<gk>POLLA/<\>
+; 
+~Subscriptio
+ +<<gk>TELOS<\> <it>C<\>{-311}-239 538 51 
+ +<<gk>PROFHTEIAS<\> 51
+ +<<gk>PAR<\> 764 (+6) 
+ +<<gk>EBRAIOIS<\> 764 (+6)
+ +<<gk>E'<\> 764 (+6)
+ +<<gk>EIS<\> 764 (+6) 
+ +<<gk>OLON<\> 764 (+6)
+ +<<gk>TON<\> 764 (+6) 
+ +<<gk>TETELESTAI<\> Syh (+4)
+ +<<gk>H<\> Syh (+4) 
+ +<<gk>PROFHTEIA<\> Syh (+4) 
+ +<<gk>TOU<\> Syh (+4) 
+<gk>IWNAS<\>] A B-S Q-26-49-198-233'-534 W 68-311 Ach Sa 
+  <it>L<\>{-51} 86 V <it>lI<\>
+ : <gk>IWNA<\> <it>C<\>{-311}-239 538 51
+ : <gk>IWNAN<\> 764 Syh
+ + <gk>TOMOS<\> 764
+ +: <gk>PROFHTHS<\> A
+ :+ <gk>PROFHTOU<\> 538                     {???}
+ +: <gk>V'<\> A B-S Q-26-49-198-233'-534 86
+ :+ <gk>E'<\> V
+ + <gk>A'<\> 764 
+ +: <gk>STIXWN<\> <it>L<\>{-51} 764 
+ :+ <gk>STIXOI<\> 86 
+ +: <gk>RLE<\> <it>L<\>{-51}
+ :+ <gk>RM'<\> 86 764
+ +: <gk>IWNAS<\> 86
+ :+ <gk>IWNAN<\> Syh 
+ + <gk>DEHSIS<\> 86 V <it>lI<\> Syh 
+ + <gk>KURIOU<\> 86 V <it>lI<\> Syh 
+ + <gk>H<\> Syh (+6) 
+ + <gk>PERISTERA<\> Syh (+6) 
+ + <gk>ERMHNEUETAI<\> Syh (+6) 
+ + <gk>PAR<\> Syh (+6) 
+ + <gk>EBRAIOIS<\> Syh (+6)
+ + <gk>E'<\> Syh (+6)
+//end// 
+

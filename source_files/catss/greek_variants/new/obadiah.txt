@@ -1,0 +1,983 @@
+
+{***Subscription at end of book still needs to be finished}
+Some text words not enclosed in Greek coding
+obad.working.txt 954 bd
+
+<teiHeader>
+<fileDesc>
+  <titleStmt>
+    <title>Text and Textual Variants for the Old Greek Book of 
+           Obadiah (Minor Prophets): electronic edition 
+    </title>
+  </titleStmt>
+  <editionStmt>
+    Public Domain CATSS edition prepared at the University of 
+    Pennsylvania, Center for Computer Analysis of Texts
+  </editionStmt>
+  <extent>
+    Filesize uncompressed: about 14 K
+  </extent>
+  <publicationStmt>
+    <distributor>Center for Computer Analysis of Texts</distributor>
+    <address>College Hall Box 36, University of Pennsylvania, 
+      Philadelphia PA 19104-6303 USA; kraft@ccat.sas.upenn.edu
+    </address>
+    <idno>Bible:Greek:MinorProphets:Obadiah (040)</idno>
+    <availability><p>Freely available for non-commercial use 
+      provided that this header is included in its entirety 
+      with any copy distributed and that errors/corrections
+      or other problems are reported to the distributor.</p>
+    </availability>
+    <date>15 Aug 1991, Apr 1995</date>
+  </publicationStmt>
+  <notesStmt>
+  </notesStmt>
+  <sourceDesc><p>Based on <bibl>Septuaginta: Vetus Testamentum 
+Graecum 
+    auctoritate Societatis Litterarum Gottingensis editum, vol. 13, 
+    Duodecim prophetae, ed. Joseph Ziegler (Goettingen: 
+    Vandenhoeck & Ruprecht, 1943) 239-243</bibl>, supplemented 
+with 
+    more recent discoveries. Initial encoding (scanned), 
+    verification, and reformatting by the Computer Assisted Tools
+    for Septuagint Studies (CATSS) project staff, University of
+    Pennsylvania; final editing by Noel Hubler and ....</p></sourceDesc>
+</fileDesc>
+<encodingDesc>
+  <editorialDecl><p>File format is described by Robert Kraft, 
+    <art>"Treatment of the Greek Textual Variants"</art> 
+    in <t>Computer Assisted Tools for Septuagint Studies 
+    (CATSS)</t>, vol. 1: <subt>Ruth</subt>, 
+    <sert>Septuagint and Cognate Studies</sert> vol. 20 
+    (Scholars Press, 1986).</p> 
+    <p>Categories of variants are marked thus -- 
+    ">" = lacking in the following witnesses, "+" = longer 
+    text, ":" = alternative reading, "~" = transposition.</p> 
+    <p>Greek words are enclosed by <gk>...<\>,  
+    <it>...<\> indicates italics,  and <Lt>...<\> indicates Latin words or phrases; 
+    for the Greek transliterations, TLG "Beta Coding" is used.</p> 
+  </editorialDecl>
+  <refsDecl>
+    <p>Text divisions are marked by "~" at left margin, followed 
+      by "a" to designate the book, "x" for chapter, and "y" for
+      verse; explicit numbers have been added for the user's 
+      convenience -- thus "~x2y5" = chapter 2, verse 5.</p>
+  </refsDecl>
+</encodingDesc>
+<revisionDesc>
+  <change>
+    <date>12 Jul 1994</date>
+    <respStmt><name>Robert Kraft</name><resp>edit format</resp>
+    </respStmt>
+    <date>Apr 1995</date>
+    <respStmt><name>Benjamin Dunning</name><resp>edit format</resp>
+    </respStmt>
+  </change>
+</revisionDesc>
+</teiHeader>
+
+~a"LXX"b"040"c"Obad"y"t"
+<gk>{<it>0*A*B*D*I*O*U<\>0}<\>   {???}
+~a"LXX"b"040"c"Obad"y"t"
+~t"title"
+ +< <gk>O<\> <it>lI<\>
+ +< <gk>PROFHTHS<\> <it>lI<\> 
+ +< <gk>PROFHTEIA<\> (&dND(WBDY).H&d@ Syh) 36 Bo (+ <Lt>prophetae<\>) Syh
+ +< <Lt>incipit<\> La(S)
+<gk>ABD{E}IOU<\> W S-68 A`-Q'-49-198-233' 130 <it>C<\>-311-239 407 
+   22 538 <it>lI(-62)<\> (&dND(WBDY).H&d@ Syh) 36 Bo Syh]
+ : <gk>ABDIOUS<\> V
+ : <gk>ABDEIAS<\> Ach
+ : <gk>ABDIAS<\> 48-763 613 (<Lt>abdias<\> La(S)) 
+ : <gk>AUDIAS<\> 62 
+ : <gk>OBDEIOU<\> B
+ : <gk>OBDIOU<\> B(c)
+ + <gk>PROFHTHS<\> 538 (<Lt>propheta<\> La(S))
+ + <Lt>prophetae<\> Bo
+ + <gk>DOULEUWN<\> 613
+ + <gk>KURIW<\> 613
+ + <gk>D'<\> V 22 48-763 <it>lI<\>  
+ + <gk>E'<\> B W S-68 A`-Q'-49-198-233' 130 538 
+ + <gk>ABDIOU<\> <it>C<\>-311-239 407 
+~y1                                       {????}
+<gk>*(/ORASIS<\>] > 410
+ + <gk>HN<\> 86(mg) Aeth(p) 
+ + <gk>EIDEN<\> 86(mg) Aeth(p) 
+<gk>*ABDIOU<\> Eus.dem. et ecl.]
+ : <gk>OBDEIOU<\> B*
+ : <Lt>obadia<\> (gen.) Syh Arab: cf. MT
+ + <gk>PROFHTOU<\> 86(mg) 233 Bo
+ + <gk>E'<\> 534 764 233 Bo
+ + <gk>D'<\> 51
+ + <gk>KEFALAION A<\> 106 
+.
+<gk>*TA/DE</>
+<gk>LE/GEI</>
+<gk>KU/RIOS</>
+<gk>O(<\>] > Aeth Arm Eus.dem. (hab. ecl.) 
+<gk>QEO/S<\>] > Aeth Arm Eus.dem. (hab. ecl.) 
+<gk>TH=|</>
+<gk>*IDOUMAI/A|<\>]
+ : <gk>IOUDAIA<\> Ach 
+<gk>*)AKOH\N</>
+<gk>H)/KOUSA<\>]
+ : <gk>HKOUSAS<\> 62
+ : <gk>HKOUSATE<\> 538 Arab
+ : <Lt>audivit<\> La(S) 
+<gk>PARA\</>
+ +< <gk>TOU<\> W` <it>L<\>'-86(c)-49` 26 Th. 
+<gk>KURI/OU<\>]
+,
+<gk>KAI\</>
+<gk>PERIOXH\N</>
+<gk>EI)S</>
+<gk>TA\</>
+<gk>E)/QNH</>
+<gk>E)CAPE/STEILEN<\>]
+ % <gk>APESTEILEN<\> 233'
+ : <gk>ECAPESTEILA<\> 130-613 
+<gk>*)ANA/STHTE</>
+<gk>KAI\</>
+<gk>E)CANASTW=MEN<\>]
+ % <gk>ECANASTHSOMEN<\> S* 
+ : <gk>ECANASTHSWMAIN<\> 239! 
+<gk>E)P'</>
+<gk>AU)TH/N<\>]
+ : <gk>AUTON<\> <it>lII<\> (86*) Tht.
+<gk>EI)S</>
+<gk>PO/LEMON</>
+.
+~y2 
+<gk>I)DOU\</>
+<gk>O)LIGOSTO\N</>
+<gk>DE/DWKA<\>]
+ : <gk>DEDWKAS<\> W 490
+ : <gk>TEQEIKA<\> Cyr.(F) 
+<gk>SE<\>] > 62 490 
+ : <gk>SU<\> W(c vid)
+ + <gk>GE<\> W(c vid)
+<gk>E)N</>
+<gk>TOI=S</>
+<gk>E)/QNESIN</>
+,
+<gk>H)TIMWME/NOS</>
+<gk>SU\<\>] > V La(S) Th. Hi. (~) 130' 
+ : <gk>EIS<\> 130'  
+<gk>EI)=<\>] > 130' 
+ : <gk>UYOS<\> 130'  
+ + <gk>SU\<\> V La(S) Th. Hi. (~)
+<gk>SFO/DRA<\>] > 534 Aeth(p)
+.
+~y3 
+ +< <gk>KAI<\> 410  Aeth 
+ +< <gk>H<\> S(ca) <it>L<\>'`-407-613 87(c)-130'-534 Cyr(p) Th. Tht.^^ 410 
+   Aeth
+<gk>U(PERHFANI/A<\>]
+<gk>TH=S</>
+<gk>KARDI/AS</>
+<gk>SOU</>
+<gk>E)PH=RE/N</>
+<gk>SE</>
+<gk>KATASKHNOU=NTA<\>]
+ : <gk>KATASKHNOUNTES<\> S*(vid.) 130'
+ : <gk>KATASKHNOUNTAS<\> S(c) 239-638 544
+ + <gk>SE<\> 534 
+<gk>E)N</>
+<gk>TAI=S</>
+<gk>O)PAI=S</>
+<gk>TW=N</>
+<gk>PETRW=N</>
+,
+<gk>U(YW=N<\>]
+ % <gk>UYOUNTA<\> Cyr.(F) Hi. 
+ +< <gk>THN<\> <it>L<\>'` Th. Tht.^^ 
+<gk>KATOIKI/AN<\>]
+<gk>AU)TOU=<\> Tyc.]
+ : <gk>SOU<\> La(Sc) Cyr.(F) Hi. 
+ +< <Lt>et<\> Syh Aeth Arm Hi. 
+<gk>LE/GWN<\>]
+ % <gk>LEGONTA<\> Cyr.(F) Hi. 
+<gk>E)N</>
+ +< <gk>TH<\> V-239 A'`-49-410 <it>lI<\>` Cyr. Th. Tht. Bas.N. 
+<gk>KARDI/A|<\> W]
+<gk>AU)TOU=<\>! Tyc.]      {???}
+ : <gk>SOU<\> La(Sc) Cyr.(F) Hi. 
+<gk>*TI/S</>
+<gk>ME<\> Tyc.] > <it>O<\> <it>C<\>-68-613 410 La(S) = MT
+<gk>KATA/CEI<\> Tyc.]
+ + <gk>ME<\> <it>O<\> <it>C<\>-68-613 410 La(S) = MT
+<gk>E)PI\</>
+<gk>TH\N</>
+<gk>GH=N</>
+;
+~y4 
+<gk>E)A\N</>
+<gk>METEWRISQH=|S<\>]
+ : <gk>METEWRISQH<\> Q* 
+<gk>W(S</>
+<gk>A)ETO\S</>
+<gk>KAI\</>
+<gk>E)A/N<\> W] > S-V A'`-Q*-49-407'-544 <it>lI<\>) Aeth Cyr.(= X 
+   657) Bas.N. Tyc.
+<gk>A)NA/<\>] > Q(c) 
+<gk>ME/SON</>
+<gk>TW=N</>
+<gk>A)/STRWN<\>]
+ % <gk>ASTERWN<\> S*
+ + <gk>SOU<\> 26 
+<gk>QH=|S<\>]
+ % <gk>QHSEIS<\> 26
+ : <gk>QHSHS<\> 764 
+<gk>NOSSIA/N</>
+<gk>SOU<\>] > 534 
+,
+<gk>E)KEI=QEN</>
+<gk>KATA/CW<\>] > Tyc.(p) Hi.
+<gk>SE<\>]
+ + <gk>KATA/CW<\> Tyc.(p) Hi.
+<gk>SE</>
+,
+<gk>LE/GEI</>
+<gk>KU/RIOS</>
+.
+~y5 
+<gk>EI)</>
+<gk>KLE/PTAI</>
+<gk>EI)SH=LQON<\>]
+ : <gk>HLQON<\> W 87* 
+<gk>PRO\S</>
+<gk>SE\</>
+<gk>H)/<\>]
+ : <gk>EI<\> A-410 239 Aeth Th.
+ : <Lt>et<\> Ach 
+<gk>LH|STAI\</>
+<gk>NUKTO/S</>
+,
+<gk>POU=</>
+<gk>A)/N<\>] > 130' 106 544 
+<gk>A)PERRI/FHS</>
+;
+<gk>OU)K</>
+<gk>A)\N</>
+<gk>E)/KLEYAN</>
+<gk>TA\</>
+<gk>I(KANA\</>
+<gk>E(AUTOI=S<\>] > W
+ : <gk>AUTOIS<\> S(c)-V <it>L<\>' <it>C<\>-68 Th. Tht.
+;
+<gk>KAI\</>
+<gk>EI)</>
+<gk>TRUGHTAI\</>
+<gk>EI)SH=LQON<\>]
+ : <gk>HLQON<\> 87' 
+<gk>PRO\S</>
+<gk>SE/</>
+,
+<gk>OU)K</>
+<gk>A)\N</>
+<gk>U(PELI/PONTO<\>]
+ % <gk>UPELEIPON<\> Q*
+ : <gk>UPOLIPONTO<\> S*
+ : <gk>EPELEIPONTO<\> <it>C<\>(-91)-68-239 26 
+<gk>E)PIFULLI/DA<\> W]
+ : <gk>EPIFULLIDAS<\> B-S(c)-V <it>O<\> <it>C<\>-239 Cyr(p)
+ : <gk>UPOFULLIDAS<\> S*!
+;
+~y6 
+<gk>PW=S</>
+<gk>E)CHREUNH/QH</>
+<gk>*HSAU</>
+<gk>KAI\</>
+<gk>KATELH/MFQH<\>]
+ : <gk>KATEL{E}IFQH<\> S <it>lI<\> <it>C<\>'(-538) Syh alii 
+<gk>AU)TOU=<\>] > <it>O<\> <it>C<\>-68-613 Hi. = MT
+<gk>TA\<\> 
+<gk>KEKRUMME/NA<\>]
+ + <gk>AU)TOU=<\> <it>O<\> <it>C<\>-68-613 Hi. = MT
+.
+~y7 
+<gk>E(/WS</>
+<gk>TW=N</>
+<gk>O(RI/WN<\>]
+ + <gk>SOU<\>  W'` A'`-Q*-49'`-198-233'-534-544 <it>L<\>` Bo
+   Aeth Arab Cyr. Th. Bas.N. 
+ + <gk>SOUR<\> 106
+<gk>SOU</>
+<gk>E)CAPE/STEILA/N</>
+<gk>SE</>
+<gk>PA/NTES</>
+<gk>OI(</>
+<gk>A)/NDRES</>
+<gk>TH=S<\>] > <it>L<\> 
+<gk>DIAQH/KHS</>
+<gk>SOU</>
+,
+<gk>A)NTE/STHSA/N</>
+<gk>SOI</>
+ +< <gk>KAI<\> <it>lI<\> 
+<gk>H)DUNA/SQHSAN<\>]
+ : <gk>EDUNASQHSAN<\> 130'
+ : <gk>HDUNHQHSAN<\>  <it>L<\>'` (86(txt))-613 26 Cyr.(F) Th. Tht.: 
+   cf. Os. 5:13
+ : <gk>EDUNHQHSAN<\> <it>L<\>
+<gk>PRO\S</>
+<gk>SE\</>
+<gk>A)/NDRES</>
+<gk>EI)RHNIKOI/</>
+<gk>SOU<\>] > W La(S)(vid.) 
+,
+ +< <gk>OI<\> V <it>L<\>'`-710(mg) Th. Tht.: cf. MT^^ 
+ +< <gk>SUNESQIONTES<\> V <it>L<\>'`-407-710(mg) Cyr(p) Th. Tht.: 
+   cf. MT^^
+ +< <gk>SOI<\> V <it>L<\>'`-407-710(mg) Cyr(p) Th. Tht.: cf. MT^^
+ +< <gk>EPOLEMHSAN<\> W Ach Sa Aeth (cf. <gk><<ANTESTHSAN DE 
+   KAI PEPOLEMHKASI PROS SE<\> . . .>>>1 Cyr.(comm)) : cf. MT 
+ +< <gk>SE<\> (<gk>ME<\> W*) W Ach Sa Aeth (cf. <gk><<ANTESTHSAN 
+   DE KAI PEPOLEMHKASI PROS SE<\> . . .>>>1 Cyr.(comm)) : cf. 
+   MT 
+<gk>E)/QHKAN<\>]
+<gk>E)/NEDRA<\>]
+ % <gk>ENEDRAN<\> <it>lI<\>  Bas.N. 
+<gk>U(POKA/TW</>
+<gk>SOU</>
+,
+<gk>OU)K</>
+<gk>E)/STI<\>]
+ + <gk>SOI<\> A Arab
+ + <gk>KAI<\> W* 
+<gk>SU/NESIS</>
+<gk>E)N<\>] > 239 Tht. 
+ : <Lt>in<\> Bo
+<gk>AU)TW|=<\>]
+ : <gk>AUTOIS<\> W'` B-S
+ : <gk>AUTOIS<\> A'`-Q*-764 86(c) Ach Sa Arab La(S)(vid.) Cyr.(lem)
+ : <Lt>te<\> Bo
+ + <gk>LEGEI<\> <it>lII<\>: cf. 8
+ + <gk>KURIOS<\> <it>lII<\>: cf. 8
+.
+~y8 
+<gk>E)N</>
+<gk>E)KEI/NH|<\>] > <it>O<\> <it>C<\>-68-613 Hi. = MT 
+<gk>TH|=<\>] 
+<gk>H(ME/RA|<\>]
+ + <gk>E)KEI/NH|<\> <it>O<\> <it>C<\>-68-613 Hi. = MT
+<gk>H(ME/RA|</>
+,
+<gk>LE/GEI<\>] > <it>lII<\>: cf. 7
+ : <gk>FHSIN<\> Q(mg)
+<gk>KU/RIOS<\>] > <it>lII<\>: cf. 7
+,
+ +< <gk>EGW<\>  Bas.N. 
+<gk>A)POLW=<\>]
+ : <gk>APOLESW<\> V Q(mg)^^
+<gk>SOFOU\S</>
+<gk>E)K</>
+<gk>TH=S<\>]
+ : <gk>GHS<\> V Arm 
+<gk>*IDOUMAI/AS<\>]
+ : <gk>IOUDAIAS<\> Sa 
+<gk>KAI\</>
+<gk>SU/NESIN<\>]
+ % <gk>SUNESEIS<\> <it>lI<\>
+ : &dNSKWLTN)&d@ (= <Lt>intellegentes<\>) Syh 
+<gk>E)C<\>]
+ : <Lt>de<\> La(S)
+<gk>O)/ROUS<\>]
+ : <Lt>domo<\> La(S)
+<gk>*HSAU</>
+:
+~y9 
+<gk>KAI\</>
+<gk>PTOHQH/SONTAI</>
+<gk>OI(</>
+<gk>MAXHTAI/</>
+<gk>SOU</>
+<gk>OI(<\>] > 86*-764 198 Co Th. Tht.(p) Hi. Syh = MT 
+<gk>E)K<\>] > Syh = MT
+<gk>*QAIMAN</>
+,
+<gk>O(/PWS</>
+<gk>E)CARQH=|</>
+<gk>A)/NQRWPOS</>
+<gk>E)C</>
+<gk>O)/ROUS</>
+<gk>*HSAU</>
+~y10 
+<gk>DIA\</>
+<gk>TH\N</>
+<gk>SFAGH\N</>
+<gk>KAI\</>
+ +< <gk>DIA<\> Q* 130 
+<gk>TH/N<\>]
+<gk>A)SE/BEIAN</>
+<gk>TH\N<\> W]
+<gk>EI)S<\> W]
+<gk>TO\N<\> W]
+<gk>A)DELFO/N<\> W]
+ : <gk>ADELFOU<\> B-S*-V <it>O<\> <it>C<\>'-68 La(S) Arm = MT^^ 
+<gk>SOU<\>] > 407 Arm(p) 
+<gk>*IAKWB</>
+,
+<gk>KAI/<\> W] > B-S*-V <it>O<\> 22(c)-86(c) <it>C<\>'-68 La(S) Ach Sa 
+   Arm Hi. = MT 
+<gk>KALU/YEI<\>]
+ % <gk>KATAKALUYEI<\> 239 
+<gk>SE</>
+<gk>AI)SXU/NH</>
+<gk>KAI\</>
+<gk>E)CARQH/SH|<\>]
+ % <gk>ECARQH<\> 534 544
+<gk>EI)S</>
+<gk>TO\N</>
+<gk>AI)W=NA</>
+.
+~y11 
+<gk>*)AF'</>
+<gk>H(=S<\>] > W* 
+<gk>H(ME/RAS</>
+<gk>A)NTE/STHS<\>]
+ : <gk>ANTESTH<\> W* Q*-544
+ : <gk>ANTESTHSAN<\> 239 Bas.N.
+ : <gk>ANESTHS<\> Q(c) 764 
+<gk>E)C</>
+<gk>E)NANTI/AS</>
+<gk>E)N</>
+<gk>H(ME/RA|<\>]
+ : <gk>HMERAIS<\> B-S Ach Sa 
+<gk>AI)XMALWTEUO/NTWN<\>]
+ : <gk>AIXMALW<\>\<gk>SIAS TEUONTWN<\> (sic) W*
+ : <gk>AIXMALWTIZONTWN<\> 68 
+<gk>A)LLOGENW=N</>
+<gk>DU/NAMIN<\>]
+ : <gk>DUNAMIN<\> S* La(S)
+ : <gk>DUNAMEWN<\> 410 
+<gk>AU)TOU=<\>]
+ : <gk>AUTWN<\> S* La(S)
+ : <gk>AUTWN<\> 410 
+<gk>KAI\</>
+<gk>A)LLO/TRIOI</>
+<gk>EI)SH=LQON</>
+<gk>EI)S</>
+ +< <gk>TAS<\> A` <it>lI<\>-613 Cyr.(F) 
+<gk>PU/LAS<\>]
+<gk>AU)TOU=</>
+<gk>KAI\</>
+<gk>E)PI\</>
+<gk>*IEROUSALHM</>
+<gk>E)/BALON</>
+<gk>KLH/ROUS</>
+,
+<gk>KAI\</>
+<gk>SU/<\>]
+ : <gk>UMEIS<\> V <it>O<\> <it>C<\>'(-538)-68-239 Arm
+ : <Lt>vos<\> Hi.
+ : <gk>SU<\> 36-86* Tht.: Thack. $ 23.11
+<gk>H)=S<\>] > <it>lI<\>-410 Aeth = MT
+ : <gk>ESTE<\> V <it>O<\> <it>C<\>'(-538)-68-239 Arm
+ : <Lt>eratis<\> Hi.
+ : <gk>HSQA<\> 36-86* (<gk>EISQA<\>) Tht.: Thack. $ 23.11
+<gk>W/S<\>] > 36
+<gk>EI(=S</>
+<gk>E)C</>
+<gk>AU)TW=N</>
+.
+~y12 
+<gk>KAI\</>
+<gk>MH\</>
+<gk>E)PI/DH|S<\>]
+ : <gk>EPIDOIS<\> V A'` (<gk>E)PIDU/S<\> 106)-49 <it>lII<\> Cyr.(F) Bas.N.
+ : <gk>EPILHSH<\> 130' 
+<gk>H(ME/RAN</>
+<gk>A)DELFOU=</>
+<gk>SOU</>
+<gk>E)N<\>]
+ : <gk>WS<\> 239
+ : plur. La(S) Ach^^ 
+<gk>H(ME/RA|<\>]
+ : <gk>HMERAN<\> 239
+ : plur. La(S) Ach^^ 
+<gk>A)LLOTRI/WN</>
+<gk>KAI\</>
+<gk>MH\</>
+<gk>E)PIXARH=|S<\>]
+ % <gk>EPIXAIRE<\> <it>L<\>'-86(mg) Th. Tht.(p)^^
+ : <gk>XAIRE<\> Tht.(p) 
+<gk>E)PI\</>
+<gk>TOU\S</>
+<gk>UI(OU\S</>
+<gk>*IOUDA</>
+<gk>E)N</>
+<gk>H(ME/RA|</>
+<gk>A)PWLEI/AS</>
+<gk>AU)TW=N</>
+<gk>KAI\</>
+<gk>MH\</>
+<gk>MEGALORRHMONH/SH|S<\>]
+ % <gk>MEGALORHMONHS<\> W B 
+<gk>E)N</>
+<gk>H(ME/RA|</>
+<gk>QLI/YEWS<\>]
+ + <gk>AUTWN<\> <it>L<\>'-710(c) La(S) Ach Sa Aeth Th. Tht. Ambr.paen. 
+   II 73
+:
+~y13 
+<gk>MHDE/<\>]
+ : <gk>KAI<\> 613 
+ + <gk>MH<\> 613 
+<gk>EI)SE/LQH|S<\>]
+ % <gk>EISELQH<\> 62 
+<gk>EI)S</>
+<gk>PU/LAS</>
+<gk>LAW=N<\>]
+ : <gk>LAOU<\> Q*-26-49'-198-233'-534-544 Ach A S(c) Sa Aeth 
+   = MT^^ : cf. Mich. 6:16
+ : <gk>NAOU<\> 106
+ + <gk>SOU<\> A
+ + <gk>MOU<\> S(c) Sa Aeth = MT^^ : cf. Mich. 6:16 
+<gk>E)N</>
+<gk>H(ME/RA|<\>]
+ : <gk>HMERAIS<\> 49 Ach  
+ +< <gk>TWN<\> 87*-68 
+<gk>PO/NWN<\> W]
+ : <gk>PONOU<\> A'`-Q'-198-233'-534' Ach Bo Cyr. X 660
+ : <gk>PONHRWN<\> S*
+<gk>AU)TW=N</>
+<gk>MHDE/<\>]
+ : <gk>MHTE<\> Q*
+ : <gk>KAI<\> V <it>O<\> <it>L<\>'-613 <it>C<\>'-68 Ach Sa Cyr.(F) Th. Tht. 
+   Hi. 
+ + <gk>MH<\> V <it>O<\> <it>L<\>'-613 <it>C<\>'-68 Ach Sa Cyr.(F) Th. Tht. Hi. 
+<gk>E)PI/DH|S<\>]
+ % <gk>EPIDOIS<\> V 407 Cyr.(F) 
+<gk>KAI\</>
+<gk>SU/<\>] > V 
+ +< <gk>EPI<\> <it>L<\>' Th.= MT 
+<gk>TH/N<\>] 
+<gk>SUNAGWGH\N</>
+<gk>AU)TW=N<\>] > 233-710* Cyr. X 660 
+ : <gk>AUTOU<\> S(c) 410 Hi.(p) = MT
+<gk>E)N</>
+<gk>H(ME/RA|<\>] > V 130'
+<gk>O)LE/QROU<\>] > V 130'
+<gk>AU)TW=N<\>] > V 130'
+ : <gk>AUTOU<\> S(c) Hi.(p) = MT 
+<gk>MHDE/<\>] > V 130'
+<gk>SUNEPIQH=|<\>] > V 130'
+<gk>E)PI/<\>] > V 130'
+<gk>TH/N<\>] > V 130'
+<gk>DU/NAMIN<\>] > V 130'
+<gk>AU)TW=N<\>] > V 130'
+ : <gk>AUTOU<\> S(c) Ach = MT 
+<gk>E)N<\>] > V 130'
+<gk>H(ME/RA|</>
+<gk>A)PWLEI/AS<\>]
+ : <Lt>belli<\> La(S) 
+<gk>AU)TW=N<\>]
+ : <gk>AUTOU<\> S(c)-V 87*-91 Ach Syh = MT^^
+ + <gk>MHDE<\> S*: ex praec.
+ + <gk>SUNEPIQH<\> S*: ex praec.
+ + <gk>EPI<\> S*: ex praec.
+ + <gk>THN<\> S*: ex praec.
+ + <gk>DUNAMIN<\> S*: ex praec.
+ + <gk>AUTWN<\> S*: ex praec. 
+ + <gk>EN<\> S*: ex praec.
+ + <gk>HMERA<\> S*: ex praec.
+ + <gk>APOLIAS<\> S*: ex praec.
+ + <gk>AUTWN<\> S*: ex praec. 
+ + <gk>E<\> S*: ex praec.
+:
+~y14 
+<gk>MHDE\</>
+<gk>E)PISTH=|S<\>]
+ : <gk>STHS<\> A'`-49-410 Bas.N.
+ : <gk>SUNEPISTHS<\> Q
+ : <gk>EPISTHSHS<\> W 544 (<gk>EPISTHSEIS<\>) 
+<gk>E)PI\</>
+<gk>TA\S</>
+<gk>DIEKBOLA\S<\>]
+ % <gk>EKBOLAS<\> 62 
+<gk>AU)TW=N<\> S(ca)] > MT 
+ : <gk>AUTOU<\> B-S*(etc)-V <it>O<\> <it>C<\>' (87*)
+<gk>TOU=<\>] > B-S-V Q(c) <it>L<\>' <it>C<\>'-68-239 Th. Tht. 
+<gk>E)COLEQREU=SAI</>
+<gk>TOU\S</>
+<gk>A)NASW|ZOME/NOUS</>
+<gk>AU)TW=N<\>]
+ : <gk>AUTOU<\> B-S*(etc)-V <it>O<\> = MT
+ : <gk>EC<\> <it>C<\> (87*) S(ca) <it>L<\>'-613 87(c)-68-130'-239 Ach Sa 
+   Arab Arm Cyr.(F) Th. Hi.
+ + <gk>AUTOU<\> <it>C<\> (87*)
+ + <gk>AUTWN<\> S(ca) <it>L<\>'-613 87(c)-68-130'-239 Ach Sa Arab 
+   Arm Cyr.(F) Th. Hi. 
+<gk>MHDE\</>
+<gk>SUGKLEI/SH|S<\>]
+ % <gk>SUNEKKLEISHS<\> 130'
+ : <gk>KLEISHS<\> <it>lI<\> 
+<gk>TOU\S<\>]
+ : <gk>TOUS<\> Q-407
+<gk>FEU/GONTAS<\>]
+ : <gk>FUGONTAS<\> Q-407
+ : <Lt>reliquos<\> Ach Sa: cf. MT 
+<gk>E)C<\> W(vid.)]
+<gk>AU)TW=N<\> W(vid.)] > 239 
+ : <gk>AUTOU<\> B-S*(etc) = MT^^
+ : <gk>AUTWN<\> S(ca) V <it>L<\>'-36-410-613 <it>C<\> La(S) Syh Ach 
+   Sa Arm Th. Tht. Hi
+<gk>E)N</>
+<gk>H(ME/RA|</>
+<gk>QLI/YEWS<\>]
+ : <Lt>perditionis<\> La(S)
+ + <gk>AUTWN<\> 239 Ach Sa Aeth Arm
+ + <gk>MHDE<\> <it>lII<\> (deest 86): ex Tht.
+ + <gk>LOXHSHS<\> <it>lII<\> (deest 86): ex Tht.
+ + <gk>AUTOUS<\> <it>lII<\> (deest 86): ex Tht.
+ + <gk>EN<\> <it>lII<\> (deest 86): ex Tht.
+ + <gk>TAIS<\> <it>lII<\> (deest 86): ex Tht.
+ + <gk>ODOIS<\> <it>lII<\> (deest 86): ex Tht. 
+ + <gk>ENEDREUWN<\> <it>lII<\> (deest 86): ex Tht.
+.
+~y15 
+<gk>DIO/TI</>
+<gk>E)GGU\S</>
+ +< <gk>H<\> rel.: cf. Am. 5:18 
+<gk>H(ME/RA<\> W B Q-534 <it>L<\>(-36) <it>C<\>'(-490)-68 Th.]
+ +< <gk>TOU<\> A`-49-407 <it>lII<\> Cyr. Tht. 
+<gk>KURI/OU<\> W]
+<gk>E)PI\</>
+<gk>PA/NTA</>
+<gk>TA\</>
+<gk>E)/QNH</>
+:
+<gk>O(\N</>
+<gk>TRO/PON</>
+<gk>E)POI/HSAS</>
+,
+<gk>OU(/TWS<\>] > Arm Hi. = MT 
+<gk>E)/STAI<\>]
+ % <gk>ESTW<\> A 
+ +< <gk>EN<\> 198 
+<gk>SOI<\>]
+:
+<gk>TO\</>
+<gk>A)NTAPO/DOMA/</>
+<gk>SOU</>
+<gk>A)NTAPODOQH/SETAI<\>]
+ + <gk>SOI<\> <it>L<\>'-407' 239 Cyr(p) Th. Tht. 
+<gk>EI)S<\>]
+ : <gk>EPI<\> Cyr.(F) Bas.N.(txt) 87' 764
+ + <gk>THN<\> 87' 764
+<gk>KEFALH/N</>
+<gk>SOU</>
+:
+~y16 
+<gk>DIO/TI<\>]
+ : <gk>DIA<\> A 
+ + <gk>TOUTO<\> A 
+<gk>O(\N</>
+<gk>TRO/PON</>
+<gk>E)/PIES</>
+<gk>E)PI\</>
+<gk>TO\</>
+<gk>O)/ROS</>
+<gk>TO/<\>] > <it>L<\>(-22) Th.
+<gk>A(/GION<\>] > <it>L<\>(-22) Th.
+<gk>MOU<\>] > 22
+ : <gk>SOU<\> 534
+ + <gk>TO\<\>] > <it>L<\>(-22) Th.
+ + <gk>A(/GION<\>] > <it>L<\>(-22) Th.
+,
+<gk>PI/ONTAI<\>] > B-S*!
+<gk>PA/NTA<\>] > B-S*! 
+<gk>TA/<\>] > B-S*!
+<gk>E)/QNH<\>] > B-S*!
+<gk>OI)=NON<\>] > 410 B-S*!
+:
+<gk>PI/ONTAI<\>]
+ + <gk>OI)=NON<\> 410
+ + <Lt>semper<\> Ach = MT 
+<gk>KAI\</>
+<gk>KATABH/SONTAI<\> W]
+ : <gk>ANABHSONTAI<\> V-239 <it>L<\>'-407 La(S) Cyr(p) Th. Tht.(vid.)  
+   Bas.N.(mg)
+ : <gk>KATAPIONTAI<\> <it>C<\>-68 Aeth(p) Hi. (<Lt>absorbebunt<\> = Vulg.): 
+   cf. MT 
+<gk>KAI\</>
+<gk>E)/SONTAI</>
+ +< <gk>KAI<\> W
+<gk>KAQW/S<\>]
+<gk>OU)X</>
+<gk>U(PA/RXONTES</>
+.
+~y17 
+<gk>*)EN</>
+<gk>DE/<\>] > 87*-68 Hi. 
+<gk>TW=|</>
+<gk>O)/REI</>
+<gk>*SIWN</>
+<gk>E)/STAI</>
+<gk>H(<\>] > B-S* <it>L<\>`(-36 51) 130' Tht. = MT
+<gk>SWTHRI/A<\>]
+ : <gk>KATOIKIA<\> V
+ : om. <gk>H(<\> B-S* <it>L<\>`(-36 51) 130' Tht. = MT
+ + <gk>SOU<\> W` 
+,
+<gk>KAI/<\>] > 233-710(txt) 
+<gk>E)/STAI<\>] > 233-710(txt) 
+<gk>A(/GION<\>] > 233-710(txt) 
+:
+<gk>KAI\</>
+<gk>KATAKLHRONOMH/SOUSIN<\>]
+ % <gk>KLHRONOMHSOUSIN<\> 49 
+<gk>O(<\>] > 130' 
+<gk>OI)=KOS</>
+<gk>*IAKWB</>
+<gk>TOU\S</>
+<gk>KATAKLHRONOMH/SANTAS<\>]
+ % <gk>KLHRONMHSANTAS<\> 91 Th. Tht.(p) 
+<gk>AU)TOU/S<\>]
+ % <gk>EAUTOUS<\> 147
+.
+~y18 
+<gk>KAI\</>
+<gk>E)/STAI</>
+<gk>O(</>
+<gk>OI)=KOS</>
+ +< <gk>TOU<\> 538 
+<gk>*IAKWB<\>]
+ +< <gk>WS<\> W(c) Ach Sa 
+<gk>PU=R<\>]
+,
+<gk>O(<\> W Tyc.]
+ : <gk>KAI<\> V <it>O<\> <it>L<\>'-407-613-710(c) <it>C<\>'-68-239 Ach Sa 
+   Aeth Arm Cyr. Th. Tht. Hi. = MT 
+<gk>DE/<\> W Tyc.]
+ : <gk>O<\> V <it>O<\> <it>L<\>'-407-613-710(c) <it>C<\>'-68-239 Ach Sa 
+   Aeth Arm Cyr. Th. Tht. Hi. = MT 
+<gk>OI)=KOS</>
+<gk>*IWSHF</>
+ +< <Lt>sicut<\> Ach Sa
+<gk>FLO/C<\>] > V 
+,
+<gk>O(</>
+<gk>DE\</>
+<gk>OI)=KOS</>
+<gk>*HSAU</>
+<gk>EI)S<\>] > S La(S)(vid.) Syh Aeth Arab Arm Tyc. Hi.
+ : <gk>WS<\> V Ach Sa
+<gk>KALA/MHN<\>]
+ : <gk>KALAMH<\> V Ach Sa
+,
+<gk>KAI\</>
+<gk>E)KKAUQH/SONTAI<\> Tyc.]
+ : <gk>EKKAUQHSETAI<\> W A'`-Q-49'`-198-233'-534 Sa Cyr. III 
+   1456 Bas.N. 
+<gk>EI)S<\>]
+ : <gk>EP<\> 410 
+<gk>AU)TOU/S<\>]
+ : <gk>AUTON<\> 130 49` Arm 
+<gk>KAI/<\>] > S* 
+<gk>KATAFA/GONTAI<\> W Tyc.]
+ : <gk>KATAFAGETAI<\> Q 86(c) La(S) Sa
+ : <gk>FAGONTAI<\> 106 410
+ : <gk>KATAFUGETAI<\> 534 
+ + <gk>EIS<\> 534 
+<gk>AU)TOU/S<\>]
+ : <gk>AUTON<\> 130 49` Arm 
+,
+<gk>KAI\</>
+<gk>OU)K</>
+<gk>E)/STAI</>
+<gk>PURFO/ROS<\> Tyc. (<2ingifer>2)]
+ : <gk>PUROFOROS<\> W' B-S* <it>L<\>'`(-51) (86(txt))-710(c) 
+   <it>C<\>'-68-239-534 26 La(S)(vid.) Cyr(p) Tht.P Bas.N. Hi.
+ : <<sunt qui non <gk>PUROFO/RON<\> id est <Lt>frumentarium,<\> 
+   sed <gk>PURFO/RON<\> hoc est <Lt>qui gestare possit igniculum<\>
+   a Septuaginta translatum putent>> Hi.
+ : <Lt>reliquus<\> Sa = MT^^ 
+ +< <gk>EN<\> W V A'-Q'-198-233'-534'-764 La(S) Co Syh Aeth 
+   Arab Cyr.(cit) Tyc.: cf. Zach. 13:1 
+<gk>TW=|<\>]
+<gk>OI)=KW|<\>]
+<gk>*HSAU<\>] > W(txt) 130' 
+<gk>,<\>] > W(txt) 130'                     {????}
+<gk>DIO/TI<\>] > W(txt) 130'
+ : <gk>OTI<\> S(c)-V Q(c) <it>L<\>'`-613 <it>C<\>-68 Cyr.(F) Th. Tht. 
+<gk>KU/RIOS<\>] > W(txt) 130'
+<gk>E)LA/LHSE<\>] > W(txt) 130'
+ : <gk>LALHSEI<\> 534
+ + <gk>TAUTA<\> 36-49
+<gk>.<\>] > W(txt) 130'      {????}
+~y19 
+<gk>KAI/<\>] > W(txt) 130'
+<gk>KATAKLHRONOMH/SOUSIN<\>] > W(txt) 130'
+<gk>OI(<\>] > 534 W(txt) 130'
+<gk>E)N<\>] > W(txt) 130'
+<gk>*NAGEB<\>] > W(txt) 130'
+ : <gk>AGEB<\> S*-V <it>C<\>-239 106 Ach Cyr(F): post <gk>E)N<\>
+ : <gk>NAGEW<\> <it>lI<\>
+ : <gk>AGEW<\> 62
+ : <gk>AGEQ<\> 534
+ : <gk>NAGEQ<\> 544
+ : <gk>NAGED<\> 410
+ : <gk>AGEK<\> 198
+ : <Lt>geth<\> La(S) Arab(vid.) 
+<gk>TO/<\>] > <it>L<\> W(txt) 130'
+<gk>O)/ROS<\>] > W(txt) 130'
+<gk>TO/<\>] > W((mg)) 49 538 710 = MT: cf. 21 W(txt) 130'
+ : <gk>TOU<\> Tht.  
+<gk>*HSAU</>
+<gk>KAI\</>
+<gk>OI(<\>] > 87* 
+<gk>E)N</>
+<gk>TH=|</>
+ +< <gk>PEDINH<\> W!^^ 
+<gk>*SEFHLA<\>]
+ : <gk>SAFHLA<\> Q(mg) 147 26 (<gk>SAFILA<\>)
+ : <gk>SEFHLAI<\> V
+ : <gk>SEFINAAN<\> Ach
+<gk>TOU\S</>
+<gk>A)LLOFU/LOUS</>
+<gk>KAI/<\>] > W* 
+<gk>KATAKLHRONOMH/SOUSIN</>
+<gk>TO/<\>]
+ : <Lt>campum<\> La(S) = MT^^, + <gk>TO<\> (<gk>TW<\> 311) W V <it>L<\>-711  
+   <it>C<\>'(-538)-68-534 Cyr.(F)(= comm) 
+<gk>O)/ROS<\>]
+ : <Lt>campum<\> La(S) = MT^^, + <gk>TO<\> (<gk>TW<\> 311) W V <it>L<\>-711  
+   <it>C<\>'(-538)-68-534 Cyr.(F)(= comm) 
+<gk>*EFRAIM</>
+<gk>KAI\</>
+<gk>TO\</>
+<gk>PEDI/ON</>
+<gk>*SAMAREI/AS</>
+<gk>KAI\</>
+ +< <gk>THN<\> W Cyr.F(= comm)
+ +< <gk>O<\> <it>L<\> 
+<gk>*BENIAMIN<\>]
+<gk>KAI/<\>] > <it>L<\> = MT 
+<gk>TH/N<\>] > 46
+<gk>*GALAADI=TIN</>
+.
+~y20 
+<gk>KAI\</>
+<gk>TH=S<\>] 
+ : <gk>THN<\> 410
+ : <gk>THS<\> 26 239 
+<gk>METOIKESI/AS<\>] 
+ : <gk>METOIKESIAN<\> 410
+ : <gk>METOIKIAS<\> 26 239 
+<gk>H(<\>] > <it>L<\>'
+<gk>A)RXH/<\>] > <it>L<\>'
+<gk>AU(/TH<\>]
+ + <gk>H(<\> <it>L<\>'
+ + <gk>A)RXH/<\> <it>L<\>'
+:
+<gk>TOI=S</>
+<gk>UI(OI=S</>
+<gk>*ISRAHL</>
+ +< <gk>H<\> W 763 
+<gk>GH=<\>]
+ : <gk>TH<\> 239 613
+<gk>TW=N</>
+<gk>*XANANAI/WN</>
+ +< <gk>KAI<\> Q*-198-233'-534-544-764 <it>lII<\> Bo
+<gk>E(/WS<\>]
+ + <gk>KAI<\> W* (del. <gk>E(/WS<\>1(0c)) 
+ + <gk>EWS<\> W* (del. <gk>E(/WS<\>1(0c)) 
+<gk>*SAREPTWN<\>]
+ % <gk>SAREFQWN<\>  Q(c) <it>C<\>-68 Th.(comm)
+ : <gk>AREFQWN<\> 87'-91
+ : <gk>AREPTWN<\> 147-<it>lII<\> 538
+ : &dNCRPT&d@ Syh = MT 
+<gk>KAI\</>
+<gk>H<\>]
+ +< (^ Q(c)) <gk>H<\> rel.^^
+<gk>METOIKESI/A<\> 91 544!]
+ : <gk>METOIKIA<\> W (<gk>METOIKEIA<\>*) Bas.N. 
+<gk>*IEROUSALHM<\>]
+ : <gk>EFRAIM<\> 106
+ : <Lt>israel<\> Aeth 
+ +< <gk>KAI<\> <it>lII<\> (86c) 
+<gk>E(/WS<\>]
+<gk>*SEFRAQA<\> scripsi: cf. Grabe et W. Rudolph, ZAW 49 (1931) 
+   226]
+ : <gk>SAFARAD<\> <it>O<\> = MT
+ : <gk>SAFARAQ<\> 87(c)
+ : <gk>AFARAQ<\> 68
+ : <gk>FARAQ<\> <it>C<\> (87*)
+ : <Lt>euphrathem<\> Hi.(lem)
+ : <Lt>euphratha<\> La(S)* = Compl.
+ : <gk>BHQLEEM<\> V 86(mg)
+ : <gk>EFRAQA<\> rel. (W)
+ : adn. (cum ind. mend. super <gk>*SARE/PTWN<\>) <<in exemplari 
+   Eusebiano <gk>EFRAQA<\> erat>> Syh(mg) 
+,
+<gk>KAI/<\> W S(ca)] > B-S*(etc)-V <it>C<\>'(-538)-239 Syh Arab Hi. 
+   = MT 
+<gk>KLHRONOMH/SOUSIN<\>]
+ % <gk>KLHRONOMHMOUSIN<\> W*
+ : <gk>KATAKLHRONOMHSOUSI{N}<\> 36-711-49` 26 Cyr. 
+<gk>TA\S</>
+<gk>PO/LEIS</>
+<gk>TOU=</>
+<gk>*NAGEB<\>]
+ : <gk>NAGEQ<\> 534 544
+ : <gk>NAGEA<\> 130'
+ : <gk>AGEB<\> 239 Ach Cyr.(F)
+ : <gk>GEB<\> 87*: cf. 19
+.
+~y21 
+<gk>KAI\</>
+<gk>A)NABH/SONTAI</>
+<gk>A)/NDRES<\> W] > B-S-V <it>O<\> <it>L<\>'-407(mg)-613 <it>C<\>'-68-
+   239 La(S) Aeth Arm Hi. Aug.civ. 18,31 = MT^^ 538
+<gk>SESW|SME/NOI<\> W]
+ : <gk>ANASWZOMENOI<\>  B-S-V (<gk>OI ANASWZOMENOI<\>) <it>O<\> 
+   <it>L<\>'-407(mg)-613 <it>C<\>'-68-239 La(S) Aeth Arm Hi. Aug.civ. 
+   18,31 = MT^^ 
+ : <gk>ANASESWSMENOI<\> 538
+ : <gk>ANASWZOMENOI<\> 36
+<gk>E)C<\>]
+ : <Lt>in<\> Co = MT 
+<gk>O)/ROUS<\>]
+ : <Lt>monte<\> Co = MT 
+<gk>*SIWN</>
+<gk>TOU=</>
+<gk>E)KDIKH=SAI</>
+<gk>TO\</>
+<gk>O)/ROS<\>]
+ + <gk>TO<\> W' V Q'-198-233'-534-764 <it>L<\>'-613 <it>C<\>'-68 Cyr.
+<gk>*HSAU</>
+,
+<gk>KAI\</>
+<gk>E)/STAI</>
+<gk>TW=|</>
+<gk>KURI/W|</>
+<gk>H(</>
+<gk>BASILEI/A</>
+.
+
+{Not done - BD}
+~t"subscription"  
+<gk>ABDIOU E' *S{ABDEIOU}<\>-68 A`-Q'
+  (+ <gk>DOULEUWN KURIW PAR EBRAIOIS
+  D'<\> Q(c))-49-233'
+ : <gk>AUDIOU E'<\> 534
+ : <gk>OBDEIOU<\> (<gk>OBDIOU<\> (c)) <gk>E'<\> B
+ : <gk>ABDEIOU<\> W
+ : <gk>ABDIOU<\> 130'
+ : <gk>ABDEIAS<\> Ach
+ : <gk>ABDIAS STIXWN NH'1<\> <it>L<\>(-51)          {???}
+ : <gk>ABDIAS<\> (<gk>ABDIOU<\> 86
+  <gk>ABDIOUS D'<\> V) <gk>DOULEUWN KURIW<\>
+  V <it>lI<\>-86 (+ <gk>STIXOI C<\>(mg))
+ : <gk>ABDIOU E' DOULEUWN KURIW PAR
+  EBRAIOIS D' EIS OLON TON ABDIAN
+  TOMOS A' STIXWN Z'<\> 764
+ : <gk>TELOS ABDIOU PROFHTOU<\> 538
+ : <gk>TELOS PROFHTEIAS ABDIOU<\> 51
+ : <gk>TETELESTAI H PROFHTEIA TOU OBADIA<\> Syh
+ : <Lt>abdias propheta explicit<\> La(S)
+
+//end//
+

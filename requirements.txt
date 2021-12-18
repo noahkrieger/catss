@@ -1,0 +1,9 @@
+jupyterlab
+pandas
+numpy
+scipy
+matplotlib
+plotly
+matplotlib
+pyarrow
+ipynb
