@@ -9,6 +9,6 @@ As a young graduate student at the University of Pennsylvania, I spent the summe
 
 This is a work in progress.  
 
-|----------|-----------|----------|
 | Date| Contribution| Author|
+| 2021-12-18| Initial Notebooks to parse and load Greek Morphology files.  This will be turned into a Python module|Noah Krieger|
 |----------|-----------|----------|
