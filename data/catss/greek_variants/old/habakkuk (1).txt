@@ -1,0 +1,2222 @@
+<teiHeader>
+<fileDesc>
+  <titleStmt>
+    <title>Text and Textual Variants for the Old Greek Book of 
+           Habakkuk (Minor Prophets): electronic edition 
+    </title>
+  </titleStmt>
+  <editionStmt>
+    Public Domain CATSS edition prepared at the University of 
+    Pennsylvania, Center for Computer Analysis of Texts
+  </editionStmt>
+  <extent>
+    Filesize uncompressed: about 53 K
+  </extent>
+  <publicationStmt>
+    <distributor>Center for Computer Analysis of Texts</distributor>
+    <address>College Hall Box 36, University of Pennsylvania, 
+      Philadelphia PA 19104-6303 USA; kraft@ccat.sas.upenn.edu
+    </address>
+    <idno>Bible:OldGreek:MinorProphets:Habakkuk (043)</idno>
+    <availability><p>Freely available for non-commercial use 
+      provided that this header is included in its entirety 
+      with any copy distributed and that errors/corrections
+      or other problems are reported to the distributor.</p>
+    </availability>
+    <date>1990</date>
+  </publicationStmt>
+  <notesStmt>
+  </notesStmt>
+  <sourceDesc><p>Based on <bibl>Septuaginta: Vetus Testamentum Graecum 
+    auctoritate Societatis Litterarum Gottingensis editum, vol. 13, 
+    Duodecim prophetae, ed. Joseph Ziegler (Goettingen: 
+    Vandenhoeck & Ruprecht, 1943) 261-275</bibl>, supplemented with 
+    more recent discoveries. Initial encoding (scanned), 
+    verification, and reformatting by the Computer Assisted Tools
+    for Septuagint Studies (CATSS) project staff, University of
+    Pennsylvania.</p></sourceDesc>
+</fileDesc>
+<encodingDesc>
+  <editorialDecl><p>File format is described by Robert Kraft, 
+    <art>"Treatment of the Greek Textual Variants"</art> 
+    in <t>Computer Assisted Tools for Septuagint Studies 
+    (CATSS)</t>, vol. 1: <subt>Ruth</subt>, 
+    <sert>Septuagint and Cognate Studies</sert> vol. 20 
+    (Scholars Press, 1986).</p> 
+    <p>Categories of variants are marked thus -- 
+    ">" = lacking in the following witnesses, "+" = longer 
+    text, ":" = alternative reading, "~" = transposition.</p> 
+    <p>Greek words are enclosed by <1...>1 at present, and 
+    <2...>2 indicates italics; for the Greek 
+    transliterations, TLG "Beta Coding" is used.</p> 
+  </editorialDecl>
+  <refsDecl>
+    <p>Text divisions are marked by "~" at left margin, followed 
+      by "a" to designate the book, "x" for chapter, and "y" for
+      verse; explicit numbers have been added for the user's 
+      convenience -- thus "~x2y5" = chapter 2, verse 5.</p>
+  </refsDecl>
+</encodingDesc>
+<revisionDesc>
+  <change>
+    <date>20 Oct 1992</date>
+    <respStmt><name>Robert Kraft</name><resp>edit format ch 1 </resp>
+    </respStmt>
+    <date>8 Jun 1994</date>
+    <respStmt><name>Robert Kraft</name><resp>edit format</resp>
+    </respStmt>
+  </change>
+</revisionDesc>
+</teiHeader>
+
+<pre>
+~a"OGVar"b"043"c"Hab"x"t"
+@@@@@@@@{1<20*A*M*B*A*K*O*U*M>20}1
+~t"Inscriptio" 
+ +< <1O>1 62
+ +< <1PROFHTHS>1 <2lI>2 
+ +< <1PROFHTEIA >1 36 Bo Syh
+<1AMBAKOUM>1 W B-S-V A`-Q'-49'-198-534-710 <2L>2'(-51)-46-407 
+    <2C>2-130-239-311 233' Ach Bo]
+ : <1ABBAKOUM>1 106-613 51 68 
+ + <1DEDIKAIOMENOS>1 51(c) (+4) 
+ + <1H>1 51(c) (+4) 
+ + <1PATHR>1 51(c) (+4) 
+ + <1EGHRWN>1 51(c) (+4)
+ : <1AMBAKOUM>1]
+ + <1O>1 711
+ + <1PROFHTHS>1 86-711 538
+ + <1H'>1 W B-S-V A`-Q'-49'-198-534-710 <2L>2'(-36)-86(c) 68-311-538 Syh
+ + <1TOU>1 106 (+4) 
+ + <1PROFHTOU>1 106 (+4) Bo Syh 
+ + <1KEFALAION>1 106 (+4) 
+ + <1A'>1 106 (+4)
+ + <1AMELHS>1 613 (+5)
+ + <1KAI>1 613 (+5) 
+ + <1O>1 613 (+5) 
+ + <1PATHR>1 613 (+5) 
+ + <1ANESTH>1 613 (+5)
+~x1y1 
+ + <1PROFHTEIA>1 Bo: cf. inscr. (+4)
+ + <1ABBAKOUM>1 Bo: cf. inscr. (+4) 
+ + <1TOU>1 Bo: cf. inscr. (+4)
+ + <1PROFHTOU>1 Bo: cf. inscr. (+4) 
+<1@@@@1*TO\>1 
+<1LH=MMA>1
+, 
+<1O(\>1 
+<1EI)=DEN>1 
+<1*AMBAKOUM>1]
+ : <1ABBAKOUM>1 51-410-613 68 106 Cyr.(p) 
+<1O(>1
+<1PROFH/THS>1 
+. 
+~x1y2 
+<1@*(/EWS>1 
+<1TI/NOS>1
+, 
+<1KU/RIE>1] > 407 Aeth(p) Clem. Cyr(p) Thph. Gild.(p) 
+, 
+<1KEKRA/COMAI>1]
+ : <1KRACOMAI>1 B*
+ + <2ad te>2 Ach Sa 
+<1KAI\>1
+<1OU) . . >1
+<1MH\>1]
+ : <1OUK>1 538 Clem. Cyr.(p)(=comm) <2et>2 III 161.1253)
+<1EI)SAKOU/SH|S>1]
+ : <1EISAKOUSEIS>1 V 233 Greg.Naz. I 469(p) Tht.(p) 
+ : <1EISAKOUSH>1 26 51-613-764 <2C>2-239 Or. XI 416 Lo. Cyr.
+ : <1EISAKOUSEI>1 68
+ : <1EISAKOUSONTAI>1 Clem.
+ + <2me>2 Co
+ + <2nos>2 Aeth(p)
+; 
+<1BOH/SOMAI>1] > <2C>2-68 Thph.: homoiot. (>7)
+<1PRO\S>1] > <2C>2-68 Thph.: homoiot. (>7)
+<1SE\>1] > <2C>2-68 Thph.: homoiot. (>7)
+<1A)DIKOU/MENOS>1] > <2C>2-68 Thph.: homoiot. (>7)
+<1KAI\>1] > <2C>2-68 Thph.: homoiot. (>7) 
+<1OU)>1] > <2C>2-68 Thph.: homoiot. (>7)
+ + <1MH>1 106 <2L>2'`-407 26' 233' 544 Th. Tht. 
+<1SW/SEIS>1] > <2C>2-68 Thph.: homoiot. (>7)
+ : <1SWSHS>1 <2L>2'`-407 26' 710 538 544 Th.
+ + <1ME>1 Co Or.
+ + <2nos>2 Aeth(p)
+; 
+~x1y3 
+<1I(/NA>1 
+<1TI/>1 
++< <1MOI>1 rel. (Or. XI 416 Lo. Greg.Naz. I 469 Chr. I 456 Spec. Gild.) Ra
+<1E)/DEICA/S>1 B-S Q <2C>2-68 Co Syh Aeth Arab Arm Chr. IV 263 Cyr. III 
+    161 Thph.(lem) = MT]
+<1MOI>1] > rel. (Or. XI 416 Lo. Greg.Naz. I 469 Chr. I 456 Spec. Gild.) Ra
+<1KO/POUS>1]
+ : <1PONOUS>1 (~) <2C>2-68-239 233' 544 Thph. (~) 
+ : <2labores>2 Spec. Hi. Gild.
+<1KAI\>1] > 410 
+<1PO/NOUS>1] > 410
+ : <1KOPOUS>1 (~) <2C>2-68-239 233' 544 Thph. (~) 
+ : <2dolores>2 Spec. Hi. Gild.
+, 
+<1E)PIBLE/PEIN>1
+ +< <1EPI>1 A-233'-407-544 <2L>2'` Co Syh Or. Greg.Naz.(p) Th. Tht. 
+<1TALAIPWRI/AN>1 W
+<1KAI\>1
+<1A)SE/BEIAN>1
+; 
+<1E)C>1 
+<1E)NANTI/AS>1
+<1MOU>1] > 62 Thph. 
+<1GE/GONE>1 
+<1KRI/SIS>1 
+, 
+<1KAI\>1
+<1O(>1
+<1KRITH\S>1 
+<1LAMBA/NEI>1]
+ + <1KRISIN>1 68 Thph.(p) 
+ + <2faciem>2 Bo
+ + <2munera>2 Aeth(p) Arm 
+. 
+~x1y4 
+<1DIA\>1
+<1TOU=TO>1
+<1DIESKE/DASTAI>1]
+ : <1ESKEDASTAI>1 613 
+<1NO/MOS>1
+, 
+<1KAI\>1
+<1OU)>1 
+<1DIECA/GETAI>1 
+<1EI)S>1
+<1TE/LOS>1
+<1KRI/MA>1] 
+ : <1KRISIS>1 Thph. 
+ + <2iustum>2 Aeth
+, 
+<1O(/TI>1 
++< <1O(>1 rel. (W)
+<1A)SEBH/S>1 B-S-V Q*-198-407 <2c>2 Tht. = MT]
+<1KATADUNASTEU/EI>1 
+<1TO\N>1
+<1DI/KAION>1
+: 
+<1E(/NEKEN>1
+<1TOU/TOU>1 
+<1E)CELEU/SETAI>1]
+ : <1DIECELEUSETAI>1 V 130' 233' 544
+<1TO/>1] > 534 = MT 
+<1KRI/MA>1
+<1DIESTRAMME/NON>1
+. 
+~x1y5 
+<1I)/DETE>1 
+, 
+<1OI(>1 
+<1KATAFRONHTAI/>1 
+, 
+<1KAI\>1] > 763 = Act. 13:41
+<1E)PIBLE/YATE>1] > 763 = Act. 13:41
+<1KAI\>1
+<1QAUMA/SATE>1] 
+ : <1QAUMASETE>1 Q* 
+ : <2videte>2 Sa
+ + <1ERGA QEOU>1 51(c)
+ +< <1KAI>1 <2L>2'`-407-613 Th. Tht.^^
+ +< <1IDETE>1 <2L>2'`-407-613 Th. Tht.^^
+<1QAUMA/SIA>1] > Act. 
+ + <1KAI>1 233' 544 
+ + <1IDETE>1 233' 544 
+<1KAI\>1] > <2C>2 = MT
+ + !! Syh adn. <<!! hic obelus non positus erat in hexaplis>> Syh(mg) 
+<1A)FANI/SQHTE>1] > <2C>2 = MT
+ + !! Syh adn. <<!! hic obelus non positus erat in hexaplis>> Syh(mg) 
+, 
+<1DIO/TI>1] 
+ : <1OTI>1 Act. 
+ + <1EIPON>1 534
+ + <1EGW>1 534
+<1E)/RGON>1] > Q(txt) 
+<1E)GW\>1] > Q(txt) Bo = MT Act. (~)
+<1E)RGA/ZOMAI>1]
+ + <1EGW>1 Act. (~) 
+<1E)N>1 
+<1TAI=S>1 
+<1H(ME/RAIS>1 
+<1U(MW=N>1] 
+ : <1HMWN>1 S* Bas.N.*
+ + <1ERGON>1 Act.(p)
+, 
+<1O(\>1 
+<1OU)>1 
+<1MH\>1 
+<1PISTEU/SHTE>1 
+<1E)A/N>1 
+<1TIS>1 
+<1E)KDIHGH=TAI>1] 
+ : <1EKDIHGHSHTAI>1 S* 534
+ : <1EKDIHGHSETAI>1 Q(c)  
+ : <1DIHGHTAI>1 544 
+ + <1UMIN>1 S(ca)(vid.) A'`-49`-198-407 Q(mg) 36-62-<2lII>2 130'-239 Ach
+    Sa Aeth Arab Arm Tht.(p) Thph.(comm) = Act. 
+. 
+~x1y6 
+<1DIO/TI>1] 
+ : <1OTI>1 A
+<1I)DOU\>1] > 103' (~) 86(txt) Th. Bas.N. Thph.(p)
+<1E)GW\>1] 534 613
+ + <1I)DOU\>1 103' (~)
+<1E)CEGEI/RW>1] 
+ : <1ECEGERW>1 <2lI>2`-410 Cyr. Bas.N.
+ : <1EGEIRW>1 Th. Tht.
+ + <1E)F'>1 W' S(ca)(vid.) A'` 239 Sa Aeth Arab Bas.N. Ra: cf. Ier. 5:15
+ + <1U(MA=S>1 W' S(ca)(vid.) A'` 239 Sa Aeth Arab Bas.N. Ra: cf. Ier. 5:15
+[ ] > Ra
+<1TOU\S>1] > 239
+<1*XALDAI/OUS>1 
+] ] > Ra
+<1TOU\S>1W] > B-S-V <2L>2'`(-36)(86(txt)) <2C>2'(-538)-68 Syh Arm Th. Tht.
+    Thph. Hi. = MT
+<1MAXHTA/S>1 W] > B-S-V <2L>2'`(-36)(86(txt)) <2C>2'(-538)-68 Syh Arm Th. 
+    Tht. Thph. Hi. = MT 
+ + <1WS>1 544: cf. Wutz, Onom. sacra p. 413 
+ + <1DAIMONIA>1 544: cf. Wutz, Onom. sacra p. 413 
+, 
+<1TO\>1 
+<1E)/QNOS>1 
+<1TO\>1 
+<1PIKRO\N>1 W]
+ : <1TAXINO/N>1 (~) A'`-Q'-49'-198-233'-407'-534 Bo Cyr. Bas.N. (~) 
+<1KAI\>1
+<1TO\>1] > <2lI>2`-613 Cyr.(p)
+<1TAXINO\N>1 W] 
+ : <1PIKRO/N>1 (~) A'`-Q'-49'-198-233'-407'-534 Bo Cyr. Bas.N. (~)
+ : <1TAPINON>1 S* 
+<1TO\>1 
+<1POREUO/MENON>1] 
+ : <1ECPOREU<OMENON>>1 W
+<1E)PI\>1 
+<1TA\>1 W]
+ : <1TO>1 A'`-49 Aeth Arab Bas.N. Hi. 
+<1PLA/TH>1 W] 
+ : <1PLATOS>1 A'`-49 Aeth Arab Bas.N. Hi. 
+<1TH=S>1
+<1GH=S>1
+<1TOU=>1
+<1KATAKLHRONOMH=SAI>1 
+<1SKHNW/MATA>1
+<1OU)K>1
+<1AU)TOU=>1 
+: 
+~x1y7 
+<1FOBERO\S>1
+<1KAI\>1
+<1E)PIFANH/S>1
+<1E)STIN>1
+, 
+<1E)C>1 
+<1AU)TOU=>1 
+<1TO\>1 
+<1KRI/MA>1
+<1AU)TOU=>1 
+<1E)/STAI>1]
+ : <1ESTIN>1 <2C>2-68 Thph. 
+, 
+<1KAI\>1
+<1TO\>1 
+<1LH=MMA>1
+<1AU)TOU=>1 
+<1E)C>1] > W'! = MT 
+<1AU)TOU=>1] > W'! = MT 
+<1E)CELEU/SETAI>1 
+: 
+~x1y8 
+<1KAI\>1
+<1E)CALOU=NTAI>1
+<1U(PE\R>1
+<1PARDA/LEIS>1] 
+ : <1PARDALIN>1 130'
+<1OI(>1 
+<1I(/PPOI>1]
+ : <1IPPEIS>1 87* 410 
+<1AU)TOU=>1]
+ : <1AUTWN>1 <2lI>2`-613-764 87(c)-68-239 Aeth Arm Tht.(p) Thph. Bas.N. 
+<1KAI\>1] > <2C>2 homoiot. (>7) 
+<1O)CU/TEROI>1] > <2C>2 homoiot. (>7) 
+<1U(PE\R>1] > <2C>2 homoiot. (>7) 
+<1TOU\S>1] > <2C>2 homoiot. (>7)
+<1LU/KOUS>1] > <2C>2 homoiot. (>7)
+<1TH=S>1] > 538] > <2C>2 homoiot. (>7)
+<1*)ARABI/AS>1] > <2C>2 homoiot. (>7) 
+: 
+<1KAI\>1
+<1E)CIPPA/SONTAI>1] 
+ : <1ECIPPASANTO>1 130' 
+<1OI(>1 
+<1I(PPEI=S>1
+<1AU)TOU=>1] > Bo 
+ : <1AUTWN>1 <2lI>2`-613 130' Sa(p) Aeth
+<1KAI\>1
+<1O(RMH/SOUSIN>1] 
+ : <1ECORMHSOUSI>1 Cyr.(F)
+<1MAKRO/QEN>1]
+ : <1PANTOQEN>1 233' 544
+<1KAI\>1
+<1PETASQH/SONTAI>1
+<1W(S>1 
+<1A)ETO\S>1 
+<1PRO/QUMOS>1]
+ : <1PROIMOS>1 S*(corr.(1 vid)) 
+<1EI)S>1 Tht.]
+ : <1EPI>1 <2L>2'` (86(txt)) Th. Bas.N. 
+<1TO/>1] > 22 
+<1FAGEI=N>1 
+. 
+~x1y9 
+<1SUNTE/LEIA>1
+<1EI)S>1 W] 
+ : <1EP>1 (vel <1EPI>1) S(c) A'-Q'-233'-407-764 <2L>2'` Co Syh (<3L(>3) 
+    Th. Tht. Bas.N. 
+<1A)SEBEI=S>1 
+<1H(/CEI>1
+<1A)NQESTHKO/TAS>1] > Ach^^ 
+ : <2resistent >2 Bo
+ + <2ei>2 Bo
+<1PROSW/POIS>1] 
+ : <1PROSWPON>1 544 
+ : <1PROSWPW>1 Th.
+ : <1PRO PROSWPOU>1 <2lI>2` (86(txt)) 239 
+ : <2in . . >2 Bo 
+ + <2facie>2 Bo 
+ : <2visio . . >2 Ach^^ 
+ + <2faciei>2 Ach^^ 
+<1AU)TW=N>1] > 534 (~) Bo 
+<1E)C>1] > Ach^^
+ : <2cum>2 Bo 
+<1E)NANTI/AS>1] > Ach^^ 
+ : <2inimicitia>2 Bo
+ + <1AU)TW=N>1 534 (~)
+ + <2ventus>2 Ach^^ 
+ + <2urens>2 Ach^^
+<1KAI\>1
+<1SUNA/CEI>1
+<1W(S>1 
+<1A)/MMON>1 
+<1AI)XMALWSI/AN>1]
+ : <1AIXMALWSIAS>1 86(c) 198 233' 534' 544 Cyr.(p)
+. 
+~x1y10
+<1KAI\>1
+<1AU)TO\S>1 
+ +< <1WS>1 W
+<1E)N>1] > 764 Cyr.(F)
+<1BASILEU=SIN>1 
+<1E)NTRUFH/SEI>1] 
+ : <1TRUFHSEI>1 26 49 Thph. 
+, 
+<1KAI\>1
+<1TU/RANNOI>1] > Q(txt) 
+<1PAI/GNIA>1] 
+ : <1PAIGNION>1 Syh Cyr.(F) = MT
+<1AU)TOU=>1 
+, 
+<1KAI\>1
+<1AU)TO\S>1] > Co Aeth
+ : <1AUTO>1 V*
+ : <1OUTOS>1 311
+ : <1OUTWS>1 130
+<1EI)S>1] 
+ : <1WS>1 147 
+<1PA=N>1
+<1O)XU/RWMA>1]
+ + <1AUTOU>1 763-764 534
+ + <2eorum>2 Aeth 
+<1E)MPAI/CETAI>1] 
+ : <1EMPAIZETAI>1 48-62 26' 534 
+ :  <1EMPEZETAI>1 S*
+<1KAI\>1
+<1BALEI=>1] 
+ : <1BALLEI>1 410 
+ : <1BALLI>1 S* 
+<1XW=MA>1 
+<1KAI\>1
+<1KRATH/SEI>1]
+ : <1KRATHSETAI>1 764 
+<1AU)TOU=>1 
+. 
+~x1y11
+<1TO/TE>1 
+<1METABALEI=>1] 
+ : <1METABALLEI>1 130 410 Syh (<3PLXM>3): cf. MT
+ : <1METABALLI>1 S* 
+ : <1METALACEI>1 W(c) 
+<1TO\>1 
+<1PNEU=MA>1]
+ + <1AUTOU>1 <2L>2'`-407 Ach Sa Aeth(p) Arm Th. Tht. = Pesch. 
+<1KAI\>1
+<1DIELEU/SETAI>1] 
+ : <1ECELEUSETAI>1 764
+<1KAI\>1
+<1E)CILA/SETAI>1
+<1E)CILA/SETAI>1] 
+ : <1ECELEUSETAI>1 68 410 534 
+ : <1ECELEITAI>1 26 
+ : <2diripiet>2 Aeth
+: 
+<1AU(/TH>1
+<1H(>1
+<1I)SXU\S>1 
+<1TW=|>1
+<1QEW=|>1 
+<1MOU>1 
+. 
+~x1y12
+<1OU)XI\>1
+<1SU\>1 
+<1A)P'>1] > 764 (~) 
+<1A)RXH=S>1] > 764 (~)
+ + <1MOU>1 Q
+, 
+<1KU/RIE>1] > 764 
+ : <1KURIOS>1 Q'-198-233'-407-534 <2L>2 <2C>2-68 Arab Cyr.(= VIII 969) Thph.
+, 
+<1O(>1
+<1QEO/S>1]
+ + <1A)P'>1 764 (~) 
+ + <1A)RXH=S>1 764 (~)
+ + <1MOU>1 A` Ach Bo Hi. = MT et Vulg.^^
+ + <2domine>2 Ach 
+ + <1HMWN>1 Arm Cyr.(cit) 
+ +< <1MOU>1 (~) <2L>2'` Aeth Th. Tht. (~) 
+<1O(>1
+<1A(/GIO/S>1
+<1MOU>1] > (~) <2L>2'` Aeth Th. Tht. (~)
+; 
+<1KAI\>1
+<1OU)>1 
+<1MH\>1 
+<1A)POQA/NWMEN>1
+. 
+<1KU/RIE>1
+, 
+<1EI)S>1
+<1KRI/MA>1
+<1TE/TAXAS>1
+<1AU)TO/N>1]
+ : <1AUTO>1 B-S-V-239 <2lI>2-86-407-613 Syh Th. Tht.(p) 
+ : <1AUTOIS>1 130'
+: 
+<1KAI\>1
+<1E)/PLASE/>1]
+ : <1EPLASAS>1 410 Aeth Arab Arm
+ : <1EPLHSE>1 239 
+<1ME>1] 
+ : <1AUTON>1 W(c) Ach 
+<1TOU= . . >1 
+<1E)LE/GXEIN>1] 
+ : <2revelavit>2 Ach
+<1PAIDEI/AN>1]
+ : <2in disciplina>2 Bo Aeth Hi.
+<1AU)TOU=>1 
+. 
+~x1y13
+<1KAQARO\S>1
+ +< <1O>1 S-V-239-534(c) Q(c?) <2L>2-49`-407 Chr. V 143.435.454 Cyr.(p) 
+    Th. Tht. Thph.
+<1O)FQALMO/S>1 W] 
+ + <1MOU>1 A' Bo
+ + <1SOU>1 S(ca)(vid.) <2L>2'`-49`-407 Chr. V 143.435.454 Arm Cyr.(p) Th. 
+    Tht. Thph.
+<1TOU=>1
+<1MH\>1 
+<1O(RA=N>1
+<1PONHRA/>1 
+, 
+<1KAI/>1] > 764 
+<1E)PIBLE/PEIN>1] 
+ : <1BLEPEIN>1 198 534
+<1E)PI\>1 
+<1PO/NOUS>1]
+ : <1PONHROUS>1 68
+ +< <1KAI>1 49*(c) Co Bo Aeth(p)
+<1OU) . . >1
+<1DUNH/SH|>1 W 49*(c) Chr. = MT]
+ : <1ODUNHS>1 B-S*-V-239 Q(mg) 49*-764 233'` 544
+ : <2dolorem>2 Co (plur. Bo) Aeth(p)
+: 
+<1I(/NA>1 W] > <2L>2'`(-36) (86(txt) <1INA>1 et <1EIS TI>1 (mg)) Th. Tht
+ : <1EIS>1 A`-49'-198-233'-534'-544 Cyr. Bas.N. 
+ : <1EI>1 106 
+<1TI/>1 
+ : <1ETI>1 106
+<1E)PIBLE/PEIS>1] 
+ : <1EPIBLEPHS>1 W* Q(c) alii 
+<1E)PI\>1 
+ +< <1TOUS>1 49 106 Thph. 
+<1KATAFRONOUNTAS>1] 
+ : <1ATEQOUNTAS>1 Ach 
+; 
+<1PARASIWPH/SH|>1 
+<1E)N>1 
+<1TW=|>1
+<1KATAPI/NEIN>1]
+ : <1KATAPIEIN>1 S(ca) V Q(txt)-534-764 22* 
+<1A)SEBH=>1]
+ : <1ASEBHS>1 534 544 
+<1TO\N>1
+<1DI/KAION>1] 
+ + <1UPER>1 36-<2lI>2`-49` <2C>2-538 Hi. = MT 
+ + <1AUTON>1 36-46-711-49` <2C>2-538 Hi. = MT 
+ + <1AUTO>1 <2lI>2-86 
+; 
+~x1y14
+<1KAI\>1
+<1POIH/SEIS>1]
+ : <1POIHSHS>1 S
+ : <1POIHSEI>1 233 Sa 
+<1TOU\S>1 
+<1A)NQRW/POUS>1 
+<1W(S>1 
+<1TOU\S>1 
+<1I)XQU/AS>1] 
+ : <1HXQUS>1 S*: Thack. $$ 10.13
+<1TH=S>1
+<1QALA/SSHS>1 
+<1KAI\>1
+<1W(S>1 
+<1TA/>1] > <2L>2'` (86*) 106 Cyr.(p) Th. Tht. 
+<1E(RPETA\>1
+<1TA/>1 W] > S*(etc) (hab.(ca)) A-49`-198-233'-407'-544 <2L>2'` (86*) 
+    <2C>2'(-91)-68-239 Chr. IV 596 Cyr. IV 117 Th. Tht. Thph. 
+<1OU)K>1] 
+ : <1MH>1 106 Tht. I 1276 Thph. 
+<1E)/XONTA>1
+<1H(GOU/MENON>1 
+. 
+~x1y15
+ +< <1KAI>1 410 
+<1SUNTE/LEIAN>1]
+ : <1SUNTELEIA>1 <2L>2 87*
+<1E)N>1 
+<1A)GKI/STRW|>1 
+<1A)NE/SPASE>1] > 490-239 49(txt): homoiot. (>6)
+ : <1ANESPASQH>1 V
+ + <1AUTON>1 <2L>2'`-407-613 Th. Tht. 
+<1KAI\>1] > 490-239 49(txt): homoiot. (>6)
+<1EI(/LKUSEN>1] > 490-239 49(txt): homoiot. (>6)
+ : <1ANEILKUSEN>1 W <2lI>2`(-86)
+ : <1SUNEILKUSEN>1 86 
+<1AU)TO\N>1] > 490-239 49(txt): homoiot. (>6) 
+<1E)N>1] > 490-239 49(txt): homoiot. (>6) 
+<1A)MFIBLH/STRW|>1] > 490-239 49(txt): homoiot. (>6)
+ + <1AUTOU>1 <2L>2'`-407-613 233' 544 La(S) Co Aeth Arm Th. Tht. Hi. = MT 
+<1KAI\>1
+<1SUNH/GAGEN>1
+<1AU)TO\N>1 
+<1E)N>1 
+<1TAI=S>1 
+<1SAGH/NAIS>1]
+ : <1SUNAGWGAIS>1 <2lI>2` Th. 
+<1AU)TOU=>1]
+ + <1ENEKEN>1 <2lII>2: ex 16 (+6) 
+ + <1TOUTOU>1 <2lII>2: ex 16 (+6) 
+ + <1QUSEI>1 <2lII>2: ex 16 (+6)
+ + <1TH>1 <2lII>2: ex 16 (+6) 
+ + <1SAGHNH>1 <2lII>2: ex 16 (+6) 
+ + <1AUTOU>1 <2lII>2: ex 16 (+6)
+: 
+~x1y16] > Ra (~)
+<1E(/NEKEN>1] > <2lI>2 homoiot. (>8)
+<1TOU/TOU>1] > <2lI>2 homoiot. (>8) 
+<1EU)FRANQH/SETAI>1] > <2lI>2 homoiot. (>8) 
+<1KAI\>1] > <2lI>2 homoiot. (>8) 538 (~)
+<1XARH/SETAI>1] > <2lI>2 homoiot. (>8) 538 (~)
+ : <1XAREITAI>1 W: cf. Zach. 10:7 
+<1H(>1] > <2lI>2 homoiot. (>8) S(c)-V <2C>2 Ach Syh Th. Hi. = MT (>3) 
+<1KARDI/A>1] > <2lI>2 homoiot. (>8) S(c)-V <2C>2 Ach Syh Th. Hi. = MT (>3)
+<1AU)TOU=>1] > <2lI>2 homoiot. (>8) S(c)-V <2C>2 Ach Syh Th. Hi. = MT (>3)
+ + <1KAI\>1 538 (~) 
+ + <1XARH/SETAI>1 538 (~) 
+: 
+ + ~x1y16 Ra (~)
+<1E(/NEKEN>1
+<1TOU/TOU>1 
+<1QU/SEI>1] 
+ : <1QUMIASEI>1 Q: ex sq. 
+<1TH=|>1] > <2lII>2 
+ :  <1TW=|>1 (~) W` V A'`-Q'-198-233'-534-764 Co Arab Cyr.(p) Bas.N. (~)
+<1SAGH/NH|>1] > <2lII>2 
+ : <1A)MFIBLH/STRW|>1 (~) W` V A'`-Q'-198-233'-534-764 Co Arab Cyr.(p)
+    Bas.N. (~)
+<1AU)TOU=>1] > <2lII>2
+<1KAI\>1] > <2lII>2 
+ +< <1OU>1 130' 
+<1QUMIA/SEI>1] > <2lII>2
+<1TW=|>1] 
+ : <1TH=|>1 (~) W` V A'`-Q'-198-233'-534-764 Co Arab Cyr.(p) Bas.N. (~) 
+<1A)MFIBLH/STRW|>1] 
+ : <1SAGH/NH|>1 (~) W` V A'`-Q'-198-233'-534-764 Co Arab Cyr.(p) Bas.N. (~) 
+<1AU)TOU=>1 
+, 
+<1O(/TI>1]
+ : <1OTE>1 <2C>2-68 
+<1E)N>1 
+<1AU)TOI=S>1
+<1E)LI/PANEN>1] 
+ : <1ELIPANAN>1 106 
+ : <1ELIPANQH>1 W(c): cf. MT
+ : <2multiplicata . . >2  Co
+ + <2est>2 Co 
+ +< <1THN>1 <2L>2 
+<1MERI/DA>1]
+ : <1MERIS>1 W(c) Co: cf. MT
+<1AU)TOU=>1 
+, 
+<1KAI\>1] > Q(txt) 62 homoiot. (>4) 
+<1TA\>1] > Q(txt) 62 homoiot. (>4)
+<1BRW/MATA>1] > Q(txt) 62 homoiot. (>4) 
+<1AU)TOU=>1] > Q(txt) 62 homoiot. (>4)
+<1E)KLEKTA/>1 
+: 
+~x1y17
+ +< <1KAI>1 239 
+<1DIA\>1
+<1TOU=TO>1
+<1A)MFIBALEI=>1 
+<1A)MFIBALEI=>1]
+ : <1AMFIBALLEI>1 S* 86 544 
+ : <1EKKENWSEI>1 86(mg) Bo: cf. MT
+ + <1KURIOS>1 W 
+<1TO\>1] > V 86(mg) <2C>2'-68-239-613 Bo Thph.: cf. MT
+<1A)MFI/BLHSTRON>1] 
+ : <1MAXAIRAN>1 86(mg) Bo: cf. MT 
+<1AU)TOU=>1 
+<1KAI/>1] > V La(S) Ach Bas.N.(txt) 
+<1DIA\>1
+<1PANTO\S>1 
+<1A)POKTE/NNEIN>1]
+ : <1APOKTEINEIN>1 S*(etc) Q(c) Th. 
+ : <1APOKTENEIN>1 V <2L>2(-36) 130' alii
+ : <1APOKTENEI>1 W S(ca)(?) <2lI>2'-49(c)-613 239 Bo Aeth Cyr.(p) Tht.
+<1E)/QNH>1] > 130'
+<1OU)>1 
+<1FEI/SETAI>1 
+. 
+~x2y1 
+ +< <1KAI>1 410 Aeth
+<1@*)EPI\>1 
+<1TH=S>1
+<1FULAKH=S>1
+<1MOU>1 
+<1STH/SOMAI>1 
+<1KAI\>1] > Q(txt): homoiot.
+<1E)PIBH/SOMAI>1] > Q(txt): homoiot.
+ : <2confirmabo>2 Ach 
+ : <2me>2 Ach 
+<1E)PI\>1 
+<1PE/TRAN>1]
+ : <1PETRAS>1 Thph. 
+<1KAI\>1
+<1A)POSKOPEU/SW>1]
+ : <1APOSKOPEUSOMAI>1 87* 
+ : <1SKOPEUSW>1 Th. 
+<1TOU=>1] > <2C>2 
+<1I)DEI=N>1 
+<1TI/>1 
+<1LALH/SEI>1
+<1E)N>1 
+<1E)MOI/>1] 
+ + <1KURIOS>1 Or. III 260: ex Ps. 84(85):9 (+3) 198 Aeth
+ + <1O>1 Or. III 260: ex Ps. 84(85):9 (+3)
+ + <1QEOS>1 Or. III 260: ex Ps. 84(85):9 (+3) 
+<1KAI\>1
+<1TI/>1 
+<1A)POKRIQW=>1
+<1E)PI\>1]
+ : <1PROS>1 86(mg)-764 239
+<1TO\N>1
+<1E)/LEGXO/N>1
+<1MOU>1 
+. 
+~x2y2 
+<1KAI\>1
+<1A)PEKRI/QH>1] 
+ + <1KU/RIOS>1 (~) V A'`-Q'-49'-198-233'-407'-534 <2c>2-239 La(S) 
+    Eus.dem. Cyr. Tht. Bas.N. Aug.civ. 18,31 (~)
+<1PRO/S>1] > (~) Ach Arab (~) Bo Aeth(p)
+<1ME>1] > (~) Ach Arab (~) Bo Aeth(p) 
+<1KU/RIOS>1W] > (~) V A'`-Q'-49'-198-233'-407'-534 <2c>2-239 La(S)
+    Eus.dem. Cyr. Tht. Bas.N. Aug.civ. 18,31 (~)
+<1KAI\>1
+<1EI)=PE>1] 
+ + <2mihi>2 La(S) Aeth: cf. supra 
+ + <1PRO/S>1 (~) Ach Arab (~) 
+ + <1ME>1 (~) Ach Arab (~)
+<1*GRA/YON>1
+<1O(/RASIN>1] 
+ : <1ORASIS>1 <2C>2(-91)-68 
+<1KAI\>1] > W' S(ca) <2L>2'`-613 239 544 La(S) Co Aeth Arab Arm Eus.dem.
+    Cyr.(p) Th. Tht. Aug. 
+<1SAFW=S>1] 
+ : <1KALWS>1 Ach
+<1E)PI\>1]
+ : <1EIS>1 B-S <2L>2'` (86*)-613 <2C>2'(-538)-68-239 La(S) Ach Syh Aeth 
+    Arm Th. Tht. Thph. Hi. Aug. 
+ : <1EN>1 Eus.dem.
+<1PUCI/ON>1 W]
+ : <1PUCIOU>1 407 Cyr.(p): cf. Is. 30:8 
+ : <1PUCIW>1 Eus.dem. 
+, 
+<1O(/PWS>1
+<1DIW/KH|>1]
+ : <1DIWKEI>1 V 
+ : <1GINWSKEI>1 (vel <1GINWSKH>1) 51(c?)-764 26 
+<1O(>1
+<1A)NAGINW/SKWN>1 
+<1AU)TA/>1
+. 
+~x2y3 
+<1DIO/TI>1] 
+ : <1OTI>1 A
+ : <2quare>2 Bo 
+<1E)/TI>1] > V Thph.
+ : <2facta est>2 Ach
+<1O(/RASIS>1] 
+ : <1ORASEIS>1 A-Q*-410-764 130'
+ :  <1WRASIS>1 W* 
+<1EI)S>1
+<1KAIRO/N>1]
+ + <1MAKRON>1 Q(cb) <2L>2'`-49(mg)(<<<1EN <1ALLW>1>>)-407-613 91(cb)
+    Cyr.(p) Th. Tht.
+<1KAI\>1
+<1A)NATELEI=>1] 
+ : <1ANET<EILE>>1 W 
+ : <1ANATELEIS>1 62 
+<1EI)S>1] >  A' <2L>2 Eus.dem. p. 267 sq. 
+<1PE/RAS>1] 
+ : <1ESPERAS>1 A'-106 <2L>2 Eus.dem. p. 267 sq. 
+ : <1ESPERAN>1 239 410
+<1KAI\>1
+<1OU)K>1
+<1EI)S . . >1 
+<1KENO/N>1] 
+ : <2abscondetur>2 Ach: cf. MT^^
+: 
+<1E)A\N>1 
+<1U(STERH/SH|>1]
+ : <1USTERHSEI>1 S-V A Bas.N. 
+ : <1UPOSTHRISH>1 410 
+, 
+<1U(PO/MEINON>1 
+<1AU)TO/N>1 
+, 
+<1O(/TI>1 
+ +< <1O>1 46 130' Cyr. Th. Thph. = Hebr. 10:37
+<1E)RXO/MENOS>1 
+<1H(/CEI>1
+<1KAI\>1
+<1OU)>1 
+<1MH/>1] > V <2lI>2'-410 87*-534 Cyr.(p) Tht. = Hebr. 
+<1XRONI/SH|>1]
+ : <1XRONISEI>1 (vel <1XRONHSEI>1) <2lI>2-86-410 26 Bas.N. Thph.(comm)
+ : <1XRONIEI>1 46'-613 534 Cyr.(p) Tht. Thph.(lem): cf. Hebr. 
+. 
+~x2y4 
+ +< <1KAI>1 410 Aeth Arm Cyr.(p) (= X 965)
+<1E)A\N>1 
+<1U(POSTEI/LHTAI>1] 
+ : <1UPOSTELEITAI>1 147 
+, 
+<1OU)K>1
+<1EU)DOKEI=>1 
+<1H(>1
+<1YUXH/>1 
+<1MOU>1 
+<1E)N>1 
+<1AU)TW=|>1 
+: 
+<1O(>1
+<1DE\>1 
+<1DI/KAIOS>1] 
+ + <1MOU>1 (~) A`-49-407 36-<2lII>2 <2C>2-68 Ach Arm(p) Tht. Thph.
+    = Hebr. 10:38 (~) 
+<1E)K>1^^]
+ : <3DYB>3 (= <1DIA>1) Syh
+<1PI/STEW/S>1 
+<1MOU>1 W* Eus.dem. Cypr. Spec.] > W(c) 763* 130' 106 Bo Aeth Arm(p)
+    Cyr. = Rom. 1:17 Gal. 3:11 (~) A`-49-407 36-<2lII>2 <2C>2-68 Ach
+    Arm(p) Tht. Thph. = Hebr. 10:38 (~) 
+<1ZH/SETAI>1
+. 
+~x2y5 
+<1O(>1
+<1DE\>1 
+<1KATOINWME/NOS>1 scripsi cum Rahlfs: cf. Schleusner II 242]
+ : <1KATOIOMENOS>1 (vel <1KATOIWMENOS>1) codd. gr.
+ : <1KATOIKIWMENOS>1 534
+<1KAI\>1] > Spec. (~) B* Ath. II 981 = MT 
+ +< <1O>1 Q-538-764 <2L>2-407 
+<1KATAFRONHTH/S>1]
+ : <1KATAFRONWN>1 233' 544
+ + <1KAI\>1 Spec. (~) 
+<1A)NH\R>1] > B(txt)
+ +< <1KAI>1 (> 410) <1O>1 W`
+<1A)LA/ZWN>1] > B(txt)
+ + <1KAI>1 Thph. = MT 
+<1OU)DE\N>1 
+ +< <1OU>1 <2L>2'`-49`-410 198(c) 710 Ath. Cyr. Th. Tht. Thph.
+<1MH/>1 
+<1PERA/NH|>1] 
+ : <1PERANEI>1 711 68 Ath. Cyr(p) Tht.(p) 
+, 
+<1O(\S>1
+<1E)PLA/TUNE>1
+<1KAQW\S>1
+<1O(>1 W] > B Q'-198-233`-534 <2C>2-68-239 Cyr(p) Bas.N. Thph.
+<1A(/|DHS>1 
+<1TH\N>1
+<1YUXH\N>1
+<1AU)TOU=>1 
+, 
+<1KAI\>1
+<1OU(=TOS>1]
+ : <1AUTOS>1 W(c vid) <2L>2'`-407' 233' 544 Bo Cyr(p) Th. Tht.
+ : <1OUTWS>1 S* 91-130-311* 
+<1W(S>1]
+ : <1O>1 87'
+<1QA/NATOS>1
+<1OU)K>1
+<1E)MPIPLA/MENOS>1
+<1KAI\>1
+<1E)PISUNA/CEI>1] 
+ : <1SUNACEI>1 Thph.
+<1PRO/S>1]
+ : <1EP>1 W*-410 B-S-V <2C>2'-68-239-613 Ra 
+ : <1EIS>1 26 
+<1AU)TO\N>1 
+<1PA/NTA>1
+<1TA\>1 
+<1E)/QNH>1
+<1KAI\>1
+<1EI)SDE/CETAI>1] 
+ : <1EKDECETAI>1 Th.
+ : <1PROSDECETAI>1 Tht. 
+<1PRO\S>1]
+ : <1EIS>1 130' 
+<1AU)TO\N>1 
+<1PA/NTAS>1 
+<1TOU\S>1 
+<1LAOU/S>1
+. 
+~x2y6 
+ +< <1KAI>1 W(c)
+<1OU)XI\>1
+<1TAU=TA>1] > S <2lI>2-49 Hi. 
+<1PA/NTA>1] 
+ + <1TAU=TA>1 S <2lI>2-49 Hi. 
+<1PARABOLH\N>1] > (~) <2lI>2-46'-86 <2C>2-49' (49(mg) <<<1EN <1ALLW>1>>)-68 
+    Thph. Hi. = MT (~)
+ + <1LH/MYONTAI>1 V (~) 
+ +< <2in>2 La(S)
+ +< <1TA>1 <2lI>2 
+<1KAT'>1] > 49(txt) 
+<1AU)TOU=>1] > 49(txt)
+ + <1PARABOLH\N>1 (~) <2lI>2-46'-86 <2C>2-49' (49(mg) <<<1EN <1ALLW>1>>)-68 
+    Thph. Hi. = MT (~)
+ + <1KAT>1 <2lI>2-86
+ + <1AUTWN>1 <2lI>2-86
+<1LH/MYONTAI>1] > V (~) 
+ : <1LH{M}YETAI>1 S*-239
+<1KAI\>1
+<1PRO/BLHMA>1 
+<1EI)S>1
+<1DIH/GHSIN>1]
+ : <1DIHGHMASIN>1 Q*
+ : <1DIHGHMA>1 410
+<1AU)TOU=>1 
+; 
+<1KAI\>1
+<1E)ROU=SIN>1 
+<1*OU)AI\>1 
+<1O(>1
+<1PLHQU/NWN>1 
+<1E(AUTW=|>1] > Aeth(p) Tht. = MT 
+ : <1AUTW>1 A-Q*
+<1TA\>1 
+<1OU)K>1
+<1O)/NTA>1
+<1AU)TOU=>1]
+ : <1AUTW>1 26 239 544 = MT 
+: 
+<1E(/WS>1 
+<1TI/NOS>1
+; 
+<1_KAI\>1 
+<1BARU/NWN>1] 
+ : <1BARUNAS>1 Tht.(p)
+<1TO\N>1
+<1KLOIO\N>1 
+<1AU)TOU=>1] > V
+<1STIBARW=S>1 
+. 
+~x2y7 
+<1O(/TI>1 
+<1E)CAI/FNHS>1
+<1A)NASTH/SONTAI>1] 
+ : <1ECANASTHSONTAI>1 V <2L>2'` Cyr.(F) Th. (non Tht.)
+ : <1ANABHSONTAI>1 106
+ +< <1OI(>1 Cyr.(= IV 720.725.820 V 641) Thph.
+<1DA/KNONTES>1
+<1AU)TO/N>1]
+ : <1AUTHN>1 711* 
+ : <1SE>1 W(c) = MT 
+, 
+<1KAI\>1
+<1E)KNH/YOUSIN>1] 
+ : <1<EK>NHYONTAI>1 W 
+<1OI(>1 
+<1E)PI/BOULOI/>1
+<1SOU>1]
+ : <1AUTOU>1 86* Aeth(p) Arm
+, 
+<1KAI\>1
+<1E)/SH|>1] 
+ + <1AU)TOI=S>1 (~) <2L>2'` Th. Tht. (~)
+<1EI)S>1
+<1DIARPAGHN>1]
+ : <1ARPAGHN>1 544
+ : <1DIASPORAN>1 534
+ + <1KAI>1 534
+ + <1ARPAGHN>1 534
+<1AU)TOI=S>1] > (~) <2L>2'` Th. Tht. (~)
+. 
+~x2y8 
+<1DIO/TI>1
+<1SU/>1 W] > B-S*(et c)-V <2c>2 
+<1E)SKU/LEUSAS>1
+<1E)/QNH>1
+<1POLLA/>1
+, 
+<1SKULEU/SOUSI/>1 
+<1SE>1] > B 490-130' 764
+<1PA/NTES>1 
+<1OI(>1 
+<1U(POLELEIMME/NOI>1] 
+ : <1KATALELEMMENOI>1 26
+<1LAOI/>1]
+ : <1LAOU>1 <2C>2-68
+<1DIA/>1 W*-407' 198 534' Cyr(p)] 
+ : <1DI>1 rel.: cf. 17 Ra 
+<1AI(/MATA>1] 
+ : <1AIMATOS>1 Thph.
+<1A)NQRW/PWN>1
+<1KAI\>1
+<1A)SEBEI/AS>1] 
+ : <1ASEBEIA>1 W
+ : <1ASEBEIAN>1 A-233'` 86(mg) Co Syh Aeth Arab = MT: cf. 17
+<1GH=S>1
+<1KAI\>1
+ +< <1KAI>1 <2lI>2` rel.: cf. 17
+ +< <1APO>1 <2lI>2` 
+, 
+<1PO/LEWS>1 534 Bo! = MT
+<1KAI\>1
+<1PA/NTWN>1 
+<1TW=N>1
+<1KATOIKOU/NTWN>1 
+<1AU)TH/N>1]
+ : <1AUTWN>1 106
+ : <1EN AUTH>1 233' Bas.N.
+. 
+~x2y9 
+<1W)=>1]
+ : <1OUAI>1 W Ach(vid.) Arm^^ 
+<1O(>1] 
+ : <1OI(>1 410
+<1PLEONEKTW=N>1]
+ : <1PLEONEKTOUNTES>1 410 
+<1PLEONECI/AN>1 
+<1KAKH\N>1
+<1TW=|>1
+<1OI)/KW|>1 
+<1AU)TOU=>1 
+<1TOU=>1
+<1TA/CAI>1] 
+ : <1PATACAI>1 130' 
+<1EI)S>1
+<1U(/YOS>1] 
+ : <1OIKON>1 S* 
+<1NOSSIA\N>1
+<1AU)TOU=>1]
+ : <1EAUTOU>1 <2lI>2-86*(vid) Tht.
+<1TOU=>1
+<1E)KSPASQH=NAI>1 W]
+ : <1SPASQHNAI>1 239
+ : <1SKEPASQHNAI>1 <2C>2-68 Cyr(p) Thph.
+ : <1RUSQHNAI>1 <2lII>2 
+ + <1NOSSIAN>1 410: ex praec. 
+ + <1AUTOU>1 410: ex praec. 
+<1E)K>1 
+<1XEIRO\S>1 
+<1KAKW=N>1
+. 
+~x2y10
+<1E)BOULEU/SW>1 
+ +< <1B<OULHN>>1 W
+ +< <1PONHRAN>1 W 
+<1AI)SXU/NHN>1] 
+ : <2consilium . . >2 Ach 
+ + <2malum>2 Ach
+ + <1PLEONEKTWN>1 410 
+<1TW=|>1
+<1OI)/KW|>1 
+<1SOU>1 
+, 
+ +< <1THS>1 W*
+ +< <1OYAS>1 W* 
+<1SUNEPE/RANAS>1] 
+ : <1SUNESPERA>1 W* 
+ : <1SUNESPEIRAS>1 W(c) Ach (<2dispersisti>2) 
+ : <2intuitus . . >2 Bo 
+ + <es . . >2 Bo
+ + <2super>2 Bo 
+<1LAOU\S>1] > <2C>2-68
+ + <1PONHROUS>1 Cyr(p)
+<1POLLOU/S>1] 
+ + <1LAOU\S>1 <2C>2-68
+, 
+<1KAI\>1
+<1E)CH/MARTEN>1 
+<1H(>1
+<1YUXH/>1 
+<1SOU>1 
+: 
+~x2y11
+<1DIO/TI>1
+<1LI/QOS>1] 
+ : <1PLINQOS>1 V! 
+<1E)K>1 
+ +< <1TOU>1 106 239 
+<1TOI/XOU>1 
+<1BOH/SETAI>1 
+, 
+<1KAI\>1
+<1KA/NQAROS>1]
+ : <2paxillus>2 Arab^^
+<1E)K>1 
+<1CU/LOU>1
+<1FQE/GCETAI>1
+<1AU)TA/>1] 
+ : <1TAUTA>1 26 538 544 
+. 
+~x2y12
+<1OU)AI\>1
+<1O(>1
+<1OI)KODOMW=N>1 
+<1PO/LIN>1] 
+ : <1POLEIS>1 Aeth Cyr(p) 
+<1E)N>1 
+<1AI(/MASI>1] 
+ : <1AIMATI>1 V-68-613 106
+<1KAI\>1
+<1E(TOIMA/ZWN>1 
+<1PO/LIN>1] > W 
+ : <2urbes>2 Bo Aeth Arab 
+ : <1AUTAS>1 Cyr(p) 
+<1E)N>1 
+<1A)DIKI/AIS>1] 
+ + <2dicentes>2 Gild. 
+. 
+~x2y13
+<1OU)>1 
+<1TAU=TA/>1 
+<1E)STIN>1] 
+ : <1EISIN>1 544
+<1PARA\>1 
+<1KURI/OU>1 
+<1PANTOKRA/TOROS>1
+; 
+<1KAI\>1
+<1E)CE/LIPON>1
+<1LAOI/>1]
+ + <1POLLOI>1 Thph. 
+<1I(KANOI\>1
+<1E)N>1 
+<1PURI/>1 
+, 
+<1KAI\>1
+<1E)/QNH>1
+<1POLLA\>1
+<1W)LIGOYU/XHSAN>1] 
+ : <1OLIGOYUXHSAN>1 W(c) S alii 
+ : <1OLIGOYUXHSEN>1 <2L>2'-86* Cyr(p) Th. 
+. 
+~x2y14
+<1O(/TI>1]
+ : <1KAI>1 A
+<1E)MPLHSQH/SETAI>1 W(c) B-239 Thph.!]
+ : <1ENPLHSETE>1 S* 
+ : <1ENEPLHSQH>1 W*-407' A'`-Q'-49'-198-233'-534 86(mg) Bo Aeth Arab Cyr. 
+    Bas.N. Thph. (<<<1TINA TWN ANTIGRAFWN>1>>): cf. Is. 11:9
+ : <1PLHSQHSETAI>1 rel. (Chr. III 112 XII 114) Ra 
+<1H(>1
+ +< <1SUMPASA>1 W'` A'`-Q'-49'-198-534 239 Arab Cyr(p) Bas.N. 
+<1GH=>1]
+ : <1SUMPASA>1 86(mg) 233' Bo Aeth Cyr(p) = Is. 
+<1TOU=>1] > 534 
+<1GNW=NAI>1 
+<1TH\N>1] 
+ : <1TON>1 26 Chr. Thph. = Is.
+<1DO/CAN>1] > 26 Chr. Thph. = Is. 
+<1KURI/OU>1]
+ : <1KURION>1 26 Chr. Thph. = Is. 
+, 
+<1W(S>1 
+<1U(/DWR>1 B-S-V Ach Syh Hi.! = MT] 
+ : <1UDATA>1 <2C>2
+ + <1POLU>1 rel.(W) = Is. 
+<1KATAKALU/YEI>1 W] 
+ : <1KATAKALUYAI>1 V <2L>2'`-407'-613 <2C>2-68 Syh Chr. Cyr. Th. Tht. 
+    Hi. (<2ad operiendum>2) = Is. 
+ : <1KALUYAI>1 764 Tht. 
+ :  <1EPIKALUYAI>1 87*
+ : <1KATAKALUYH>1 106 534'
+ : <1KATAKALUPTON>1 Thph. 
+<1AU)TOU/S>1 W] 
+ : <1AUTHS>1 130' 
+ : <1QALASSAS>1 <2L>2'`-407-613 <2C>2 Arm Chr. Cyr(p) Th. Tht. Thph.
+    Hi.: cf. MT et Is.
+ : <1QALASSAN>1 V Ach Syh 
+ : <1EPI . . >1 22(c) 68-87(c)-91: cf. MT 
+ + <1QALASSAN>1 22(c) 87(c)-91: cf. MT
+ + <1QALASSHS>1 68 = MT 
+. 
+~x2y15
+<1W)=>1]
+ : <1OUAI>1 W` Co Ath. II 881 Chr. I 548 Cyr.(comm): cf. 9
+<1O(>1
+<1POTI/ZWN>1
+<1TO\N>1
+<1PLHSI/ON>1
+<1AU)TOU=>1 
+<1A)NATROPH=|>1 W B-S A-Q'-198*-233'-534'-764]
+ : <1ANATROPHN>1 rel. 
+<1QOLERA=|>1W B-S A-Q'-198*-233'-534'-764]
+ : <1QOLERAN>1 rel. 
+ : coni. <1XOLERA|>1 Schleusner II 65 III 77
+ + <2ex>2 Ach^^ (+5)
+ + <2eis>2 Ach^^ (+5) 
+ + <2quae>2 Ach^^ (+5)
+ + <2nont>2 Ach^^ (+5)
+ + <2cogitat>2 Ach^^ (+5) 
+<1KAI\>1
+<1MEQU/SKWN>1 
+, 
+<1O(/PWS>1
+ +< <1MH>1 410
+<1E)PIBLE/PH|>1]
+ : <1EPIBLEPEI>1 V alii 
+ : <1EPIBLEYH>1 51-764
+<1E)PI\>1]
+ : uncis includit W(c)
+<1TA\>1]
+ : uncis includit W(c)
+ : <1THN>1 Ach: cf. MT et Nah. 3:5^^
+<1SPH/LAIA>1] 
+ : uncis includit W(c)
+ : <1ASXHMOSUNHN>1 Ach: cf. MT et Nah. 3:5^^
+<1AU)TW=N>1]
+ : uncis includit W(c)
+ : <1AUTOU>1 Q Ach
+. 
+~x2y16
+<1PLHSMONH\N>1] 
+ : <2impletus . . >2 Ach
+ + <2est>2 Ach
+<1A)TIMI/AS>1] > 538
+ : <1ATIMIA>1 W S*
+ + <1AS>1 (superscr. <1O>1(c)) W
+<1E)K>1 
+<1DO/CHS>1] 
+ + <1A)TIMI/AS>1 538
+<1PI/E>1
+<1KAI\>1
+<1SU\>1 
+<1KAI\>1 S(c vid)-V <2L>2'`(-36)(86(txt)) <2C>2-68 Arab Arm Th.(comm) 
+    Tht.(p) Hi. = MT] > 91* 
+ : <1KARDIA>1 rel.(W) 
+<1DIASALEU/QHTI>1 S(c vid)-V <2L>2'`(-36)(86(txt)) <2C>2-68 Arab Arm
+    Th.(comm) Tht.(p) Hi. = MT] 
+ : <1SALEUQHTI>1 rel.(W)
+<1KAI\>1] > <2C>2 764 Hi. = MT
+<1SEI/SQHTI>1] > <2C>2 764 Hi. = MT 
+: 
+ +< <1KAI>1 147 
+ +< <2quia>2 Bo Aeth
+<1E)KUKLWSEN>1] 
+ : <1EKUKLWSAN>1 S* 
+<1E)PI\>1 
+<1SE\>1 
+<1POTH/RION>1] > 763 (~)
+<1DECIA=S>1]
+ + <1POTH/RION>1] > 763 (~) 
+<1KURI/OU>1 
+, 
+<1KAI\>1] > <2C>2 (>7)
+<1SUNH/XQH>1] > <2C>2 (>7)
+ : <1SUNEXUQH>1 26
+<1A)TIMI/A>1] > <2C>2 (>7) S* (>5)
+<1E)PI\>1] > <2C>2 (>7) S* (>5) 
+<1TH\N>1] > <2C>2 (>7) S* (>5)
+<1DO/CAN>1] > <2C>2 (>7) S* (>5)
+<1SOU>1] > <2C>2 (>7) S* (>5) 
+. 
+~x2y17
+<1DIO/TI>1
+<1A)SE/BEIA>1 
+<1TOU=>1
+<1*LIBA/NOU>1 
+<1KALU/YEI>1
+<1SE>1
+, 
+<1KAI\>1
+<1TALAIPWRI/A>1 
+<1QHRI/WN]
+ : <2pecorum>2 (= <1KTHNWN>1) Ach^^ 
+<1PTOH/SEI>1
+<1SE>1
+<1DIA/>1 W'` B-S* A`-Q-198-534] 
+ : <1DI>1 rel.: cf. 8 
+<1AI(/MATA>1
+<1A)NQRW/PWN>1
+<1KAI\>1
+<1A)SEBEI/AS>1 W] 
+ : <1ASEBEIAN>1 A Co Aeth Arab = MT: cf. 8
+ +< <1THS>1 407 
+<1GH=S>1] > 534 (~) 
+ : <1THS>1 Cyr(p) 
+ +< <1KAI>1 rel.: cf. 8 Ra
+<1PO/LEWS>1 Q*-198-233'-534-544 Bo Cyr(p) Bas.N. = MT] > Th.(lem) 
+ + <1GH=S>1 534 (~) 
+<1KAI\>1
+<1PA/NTWN>1 
+<1TW=N>1
+<1KATOIKOU/NTWN>1 
+<1AU)TH/N>1]
+ : <1AUTWN>1 A
+ : <1EN  . . >1 V <2C>2-68 Syh Thph. Hi.: cf. 8 
+ + <1AUTH>1 V <2C>2-68 Syh Thph. Hi.: cf. 8 
+. 
+~x2y18
+<1*TI/>1
+<1W)FELEI=>1
+<1GLUPTO/N>1
+, 
+<1O(/TI>1 
+<1E)/GLUYEN>1 410 Theoph.! = MT]
+ : <1EGLUYAN>1 rel.(W) Ra 
+<1AU)TO/>1] > <2lI>2-86*
+ : <1AUTON>1 407
+; 
+<1E)/PLASEN>1 B-S*-613 A-410 Cyr. Tht.(p)! = MT]
+ : <1EPLASAN>1 rel.(W) Ra 
+<1AU)TO/>1] 
+ : <1AUTON>1 534
+<1XW/NEUMA>1] 
+ : <1XWNEUTON>1 Ach Cyr.(p) 
+, 
+<1FANTASI/AN>1] 
+ : <1FANTASIAS>1 91-534 Syh 
+ : <1FANTASIA>1 106 
+<1YEUDH=>1
+, 
+<1O(/TI>1 
+<1PE/POIQEN>1 
+<1O(>1
+<1PLA/SAS>1 
+<1E)PI\>1 
+<1TO\>1 
+<1PLA/SMA>1 
+<1AU)TOU=>1 
+<1TOU=>1 Tht.] > <2L>2'`(-36)(86*) Th.
+<1POIH=SAI>1] 
+ + <1EAUTW>1 130' Arm 
+ + <1AUTW>1 311 
+<1EI)/DWLA>1
+<1KWFA/>1 
+. 
+~x2y19
+<1OU)AI\>1
+<1O(>1] 
+ : <1OI>1 S*-239
+<1LE/GWN>1] 
+ : <1LEGONTES>1 S*-239
+<1TW=|>1] 
+ : <1TO>1 538 
+<1CU/LW|>1] 
+ : <1CULON>1 538
+<1*)/EKNHYON>1
+ +< <1KAI>1 <2L>2 La(S)(vid.) Aeth Arab Arm Hi. 
+<1E)CEGE/RQHTI>1] 
+ : <1EGERQHTI>1 87' 410 Thph. 
+, 
+<1KAI\>1] > S(c) <2C>2'(-538)-68 Syh = MT 
+<1TW=|>1] > Q*
+<1LI/QW|>1] 
+ : <1HLIW>1 198 
+<1*(UYW/QHTI>1
+: 
+<1KAI\>1
+<1AU)TO/>1] 
+ : <1AUTOS>1 W 130'-239-534 544 
+<1E)STIN>1
+<1FANTASI/A>1]
+ : <1FANTASMA>1 W Q(txt)-544 La(S)(<2phantasma>2) 
+, 
+<1TOU=TO>1
+<1DE/>1 
+<1E)STIN>1
+<1E)/LASMA>1
+ +< <1EK>1 <2L>2'`-407 Th. Tht. 
+<1XRUSI/OU>1] 
+ : <1XRUSOU>1 Cyr.(p) 
+<1KAI\>1] > 538 = Pesch.
+<1A)RGURI/OU>1] > 538 = Pesch.
+ : <1KAI ARGUROU>1 86* Cyr(p) 
+, 
+<1KAI\>1
+<1PA=N>1] > Q(txt)-198-544 Bo(vid.) Aeth Thph.
+<1PNEU=MA>1 
+<1OU)K>1
+<1E)/STIN>1 
+<1E)N>1] > 544
+<1AU)TW=|>1]
+ : <1AUTOIS>1 <2lI>2`(86*)-407 La(S) Ach Arm Tht. 
+. 
+~x2y20
+<1O(>1
+<1DE\>1 
+<1KU/RIOS>1 
+<1E)N>1 
+<1NAW=|>1 
+<1A(GI/W|>1 
+<1AU)TOU=>1 
+: 
+<1EU)LABEI/SQW>1
+<1A)PO\>1 
+<1PROSW/POU>1 
+<1AU)TOU=>1] > B
+<1PA=SA>1 
+<1H(>1
+<1GH=>1 
+. 
+~x3y1 
+ +< <1ETERAS>1 <2lI>2 
+ +< <1TERAS>1 86
+ +< <1EKDOXHS>1 <2lI>2-86 
+<1@@@*PROSEUXH\>1] > 46 87(txt)-<2c>2 (311(txt), 538(txt)) 26(txt)-106
+    710 Tht. Thph.
+<1*AMBAKOUM>1] > 46 87(txt)-<2c>2 (311(txt), 538(txt)) 26(txt)-106 710
+    Bas.N. Tht. Thph.  (~) 311(mg) 410 (~)
+ : <1ABBAKOUM>1 51-613 68 Bo Or. II 332 Cyr(p)
+<1TOU=>1] > <2L>2'`(-22)-613-764 87(txt)-<2c>2-239 (311(txt), 538(txt)) 
+    26(txt)-106 710 Aeth(p) Bas.N. Cyr(p) Th. Tht. Thph.
+<1PROFH/TOU>1] > <2L>2'`(-22)-613 87(txt)-<2c>2 (311(txt), 538(txt))
+    26(txt)-106 710 Aeth(p) Bas.N. Cyr(p) Th. Tht. Thph.
+ + <1AMBAKOUM>1 311(mg) (~) 
+ + <1ABBAKOUM>1 410 (~) 
+<1META\>1 W B-S Q' Or.!] > 46 87(txt)-<2c>2 (311(txt), 538(txt))
+    26(txt)-106 710 Tht. Thph.
+ : <1MET>1 rel. 
+<1W)|DH=S>1] > 46 87(txt)-<2c>2 (311(txt), 538(txt)) 26(txt)-106 710 Tht. Thph. 
+ + <1TWN>1 <2lI>2-86
+ + <1O'>1 <2lI>2-86 
+ + <1ERMHNEIA>1 <2lI>2-86 
+ + <1WDH>1 86(mg) 26(mg): cap. 3 = Oda 4 (cf. Rahlfs, Psalmi p. 349--352) 
+ + <1D'>1 86(mg) 26(mg): cap. 3 = Oda 4 (cf. Rahlfs, Psalmi p. 349--352)
+ + <1UPER>1 W Ach^^ (+3)
+ + <1TWN>1 W Ach^^ (+3) 
+ + <1AGNOIWN>1 W Ach^^ (+3) 
+. 
+~x3y2 
+<1@@*KU/RIE>1 
+, 
+<1EI)SAKH/KOA>1 
+<1TH\N>1
+<1A)KOH/N>1]
+ : <1FWNHN>1 W(c) Co Or. II 332 
+<1SOU>1 
+<1KAI\>1
+<1E)FOBH/QHN>1
+, 
+ +< <1KURIE>1 S <2L>2'`-49'-407 <2C>2'-68-239 La(S) Syh Arm Or. 
+    Eus.dem. p. 270 (non p. 269) Cyr. Th. Tht. Hi. Aug.Cant.(p) = MT(!) 
+<1@@KATENO/HSA>1 W Tert. III 495] > MT
+ : !! Hi. 
+<1TA\>1 
+<1E)/RGA>1
+<1SOU>1 
+<1KAI\>1] > MT
+ : !! Hi. 
+<1E)CE/STHN>1] > MT 
+ : !! Hi. 
+. 
+<1@@E)N>1 
+<1ME/SW|>1
+<1DU/O>1
+<1ZW/|WN>1] > 62 Thph.(p) 
+ : <1ZWW=N>1 pingere iubet Eus.dem. p. 270
+<1GNWSQH/SH|>1
+, 
+<1@@E)N>1] > 68-130': homoiot. (>6) 
+<1TW=|>1] > 68-130': homoiot. (>6)
+<1E)GGI/ZEIN>1] > 68-130': homoiot. (>6)
+<1TA\>1] > 68-130': homoiot. (>6) 
+<1E)/TH>1] > 68-130': homoiot. (>6) 
+ : <1EQNH>1 407 
+<1E)PIGNWSQH/SH|>1] > 68-130': homoiot. (>6)
+, 
+<1@@E)N>1] : !! Syh (:12) 
+<1TW=|>1] : !! Syh (:12)
+<1PAREI=NAI>1] : !! Syh (:12) 
+<1TO\N>1] : !! Syh (:12)
+<1KAIRO\N>1] : !! Syh (:12) 
+<1A)NADEIXQH/SH|>1] : !! Syh (:12)
+, 
+<1@@E)N>1] : !! Syh (:12) 
+<1TW=|>1] : !! Syh (:12)
+<1TARAXQH=NAI>1] : !! Syh (:12) 
+<1TH\N>1] : !! Syh (:12)
+<1YUXH/N>1] : !! Syh (:12)
+<1MOU>1] : !! Syh (:12) 
+<1E)N>1] > W(c) 
+<1O)RGH=|>1] > W(c) 
+<1E)LE/OUS>1] 
+ + <2tuae>2 Aeth Ir.(lat) Cant.(p)
+<1MNHSQH/SH|>1
+. 
+~x3y3 
+<1@@O(>1
+<1QEO\S>1 
+<1E)K>1 W Ath. III 1356]
+ : <1APO>1 S(c) <2L>2'`-613 <2C>2'-68-239 106 544 Or. XV 97 Lo. Eus.dem.
+    p. 270.271:2,23 (non p. 269) Cyr.(F) Th. Tht. Thph. Bas.N.(txt)^^ 
+<1*QAIMAN>1 
+<1H(/CEI>1
+, 
+<1@@KAI\>1
+<1O(>1
+<1A(/GIOS>1 
+<1E)C>1 
+<1O)/ROUS>1 Eus.dem. Ambr. I 449] 
+ + <1FARAN>1 W' B-S A'`-Q'-49(mg)-198-233'-764 22(c)-36(c)-<2lII c>2
+    Co Aeth Cyr(p) Bas.N. Ir.(lat) (<2effrem>2) = MT^^(!) 
+<1KATASKI/OU>1
+<1DASE/OS>1 W] > <2L>2(-36) Th. Tht.
+ : <1DASEWS>1 S A-Q* alii: Thack. $$ 12.9 
+. 
+ +< <1METABOLH>1 W Ach(!) 
+<1@@@DIA/YALMA>1] > B(c) 22(c)-36-147-46-711(txt)-410-613 
+    87(txt)-490-68-<2c>2 (hab.311(mg), 538(mg))-239 26' Sa(p) Aeth Arab 
+    Eus.dem. Cyr. Th. Tht. Ir.(lat) Aug.Cant(p) 
+ : <1DIAYALMATOS>1 W Ach(!) 
+. 
+<1@@E)KA/LUYEN>1
+<1OU)RANOU\S>1] 
+ : <1OURANON>1 W Bo Ir.(lat)
+<1H(>1
+ +< <2pulchritudo>2 Ach Sa(!) 
+<1A)RETH\>1]
+ : <2gloriae>2 Ach Sa(!)
+<1AU)TOU=>1 
+, 
+<1@@KAI\>1
+ +< <1THS>1 <2L>2'`(-86)-407'-613-613(c) <2C>2'-68-239 106 Eus.dem. 
+    Cyr. Th. Tht. Thph. Bas.N.(!) 
+<1AI)NE/SEWS>1] 
+ : <1SUNESEWS>1 613(c)
+ : <2gloriae>2 Bo(L)
+<1AU)TOU=>1 
+<1PLH/RHS>1 
+<1H(>1
+<1GH=>1]
+ : <1OIKOUMENH>1 Ach Sa(!)
+. 
+~x3y4 
+<1@@KAI\>1
+<1FE/GGOS>1]
+ : <1FQEGGOS>1 91 
+ : <2lucerna>2 Ach(!) 
+ : <2lucis>2 Ach(!) 
+<1AU)TOU=>1 
+<1W(S>1 
+<1FW=S>1
+<1E)/STAI>1]
+ + <2ei>2 Ach(!)
+, 
+<1@@KE/RATA>1 
+<1E)N>1 
+<1XERSI\N>1 
+<1AU)TOU=>1]
+ + <1UPARXEI>1 <2L>2'-86(mg) Th. Tht.: cf. MT(!)
+ + <1AUTW>1 <2L>2'-86(mg) Th. Tht.: cf. MT(!) 
+ + <2sunt>2 Aug.Cant. 
+ + <2erunt>2 Cypr.
+, 
+ + <2et>2 Cypr.Cant.(p)(!) (+8) 
+ + <1EKEI>1 239 (+7) Cypr.Cant.(p)(!) (+8)
+ + <1ESTHRIKTAI>1 239 (+7) Cypr.Cant.(p)(!) (+8)
+ + <1H>1 239 (+7) Cypr.Cant.(p)(!) (+8) 
+ + <1DUNAMIS>1 239 (+7) Cypr.Cant.(p)(!) (+8) 
+ + <1THS>1 239 (+7) Cypr.Cant.(p)(!) (+8) 
+ + <1DOCHS>1 239 (+7) Cypr.Cant.(p)(!) (+8) 
+ + <1AUTOU>1 239 (+7) Cypr.Cant.(p)(!) (+8) 
+<1@@KAI\>1] > Ach^^ (<4)
+<1E)/QETO>1] > Ach^^ (<4) 
+<1A)GA/PHSIN>1] > Ach^^ (<4)
+<1KRATAIA\N>1] > Ach^^ (<4) 
+<1I)SXU/OS>1] > Cypr.(vid.) Cant.(p): cf. MT
+ : <2fortitudo>2 Ach^^
+<1AU)TOU=>1] > Cypr.(vid.) Cant.(p): cf. MT 
+ + <2abscondita>2 Ach^^ (+3)
+ + <2est>2 Ach^^ (+3) 
+ + <2ibi>2 Ach^^ (+3) 
+. 
+~x3y5 
+<1@@PRO\>1
+<1PROSW/POU>1 
+<1AU)TOU=>1 
+<1POREU/SETAI>1]
+ : <1PROPOREUSETAI>1 Eus.dem
+<1LO/GOS>1
+, 
+<1@@KAI\>1
+<1E)CELEU/SETAI>1 W Cypr.]
+ : <1ECELEUSONTAI>1 Q(c) 49' 198 233' 534 Bo Cyr. Ir.(lat) Cant.(p) 
+ : <1ECELEUSENTAI>1 49
+, 
+<1E)N>1] > W(c) 
+ : 1<EIS>1 B-S* <2L>2'`-49-613 <2C>2'-68-239 106-198 Bo Syh Aeth Arm
+    Eus.dem. Cyr. Th. Tht. Thph. Ir.(lat) Cypr. Hi.(etiam sing.)
+    Aug.(sing.) Cant. Thph.: <<<1TINES DE OUTWS ANEGNWSAN <KAI> 
+    ECELEUSONTAI EIS PEDIA OI PODES AUTOU>1>> 
+<1PED{E}I/LOIS>1 A`-Q'-233'` 764 Bas.N.]
+ : <1PEDILW>1 W(mg) 
+ : <2campos>2 Ach Sa ^^(!)
+ : <1PEDIA>1 B-S* 711(txt)-49(txt) 198 Bo Syh Aeth Arm Eus.dem. Cyr.
+    Ir.(lat) Cypr. Hi.(etiam sing.) Aug.(sing.) Cant. Thph.:
+    <<<1TINES DE OUTWS ANEGNWSAN <KAI> ECELEUSONTAI EIS PEDIA OI PODES
+    AUTOU>1>> 
+ : <1PEDIAN>1 S(c)
+ : <1PEDAIS>1 W*
+ : <1PETH<NOIS>>1 W(c)
+ : <1PAIDEIAN>1 <2L>2'`(-36) (711(mg))-49(mg)-613 <2C>2'-68-239 106 Th. 
+    Tht. Thph.
+ : <1PEDIAN>1 36* 
+ : <1PAIDEIA>1 407
+ : <2disciplina>2 Arab
+ : coni. <1EMPELIA>1 Wutz p. 472
+ : leg. <1ENPEDILOS>1?
+<1OI(>1 W Ir.(lat)] > Ach Sa ^^(!) Eus.dem. (>3) Syh Arm
+ : <1KATA>1 B-S <2L>2'`-407-613 <2C>2'-68-239 106 Aeth Arab Th. Tht.
+    Thph. Cypr. Hi. Aug. Cant.(p): cf. MT(!)
+<1PO/DES>1 W Ir.(lat)] > Ach Sa ^^(!) Eus.dem. (>3) Syh Arm 
+ : <1PODAS>1 B-S <2L>2'`-407-613 <2C>2'-68-239 106 Aeth Arab Th. Tht. 
+    Thph. Cypr. Hi. Aug. Cant.(p): cf. MT(!)
+ : <1OPISQEN>1 Syh Arm
+<1AU)TOU=>1] > Ach Sa ^^(!) Eus.dem. (>3) 
+ + <2aves>2 Ach Sa ^^(!) (+3) 
+ + <2sequentes>2 Ach Sa ^^(!) (+3)
+ + <2eum>2 Ach Sa ^^(!) (+3)
+. 
+~x3y6 
+<1@@E)/STH>1] 
+ : <1ESTHSAN>1 W*-410 Cant.(p): trah. ad <1PO/DES>1 (v.5) 
+ + <2in>2 Sa: cf. 5 
+ + <2icampis>2 Sa: cf. 5
+, 
+<1KAI\>1
+<1E)SALEU/QH>1
+<1H(>1] > S*
+<1GH=>1 
+: 
+<1@@E)PE/BLEYEN>1 
+, 
+<1KAI\>1
+<1DIETA/KH>1 W] 
+ : <1ETAKH>1 S* <2L>2'`-407-613 <2C>2'(-311)-68-239 544 710* Cyr. Th. Tht. Thph.
+ : <1ETAKHSAN>1 311 
+<1E)/QNH>1
+. 
+<1@@KAI/>1 A(c)-Q'-49'-198-233'`-534' Bo Syh Aeth Cyr(p) Cant.(p) = MT] 
+    > rel. (W Spec.) Ra 
+<1DIEQRU/BH>1]
+ : <1DIEQRUBHSAN>1 W(c) 
+ : <1EQRUBH>1 49* 
+ : <1DIETRIBH>1 Cyr.(F) 
+<1TA\>1] > W(c) 
+<1O)/RH>1 
+<1BI/A|>1 
+, 
+ +< <1KAI>1 Syh Aeth Arm Th. Cant.(p) 
+<1@@E)TA/KHSAN>1
+<1BOUNOI\>1 
+<1AI)W/NIOI>1 
+. 
+ + ~x3y7 Ra 
+ + @@ Ra
+<1POREI/AS>1] > Sa Spec.(vid.)
+ : <1POREIAIS>1 <2L>2(-51) Syh Tht. 
+ : <2itinera>2 (<2sunt>2) Ach = MT
+<1AI)WNI/AS>1 W` B-S Q'-26 Hi.!] > Sa Spec.(vid.) 
+ : <1AIWNIOIS>1 <2L>2(-51) Syh Tht. 
+ : <AIWNNIOUS>1 rel.: Thack. p. 172 n. 1
+ : <2aeterna>2 (<2sunt>2) Ach = MT
+<1AU)TOU=>1] > 68 Cyr.(F) Sa Spec.(vid.)
+ : <1AUTWN>1 W(c) 22(c1)-<2lI>2 130' Bas.N
+ : <1AUTOU>1 22*(et c(2)) 
+ : <1AUTON>1 538
+ : <1SOU>1 Bo 
+~x3y7 
+<1@@A)NTI\>1] 
+ + <1DE>1 S(ca) <2L>2' Th. Tht.(p)
+<1KO/PWN>1] 
+ + <1WN>1 <2L>2 Tht.(p): cf. MT 
+<1EI)=DON>1]
+ : <2vidi>2 Hi. Aug. Cant.(p) = MT
+ : <2viderunt>2 Sa Syh(<3WZX>3) Arab Cant.(p) 
+ : <2videbunt>2 Bo
+: 
+<1SKHNW/MATA>1
+<1*AI)QIO/PWN>1 
+: > Ra
+<1@@PTOHQH/SONTAI>1]
+ : <1PTOHQHSETAI>1 <2lI>2 
+<1KAI\>1] > <2L>2(-36) Ach Th. Tht.(p) Cant.(p) = MT
+<1AI(>1 W' B A'-Q-233'-534] > rel.
+<1SKHNAI\>1 
+<1GH=S>1] 
+ : <1THS>1 W* Sa
+<1*MADIAM>1]
+ : <1MADIAN>1 S* Syh Hi. Aug.(p) Cant.(p) = MT
+. 
+~x3y8 
+<1@@MH\>1 
+<1E)N>1 
+<1POTAMOI=S>1 
+<1W)RGI/SQHS>1
+<1ORGISQHS>1 W'` A'`-Q' <2L>2'` <2C>2' alli(!)
+ : coni. <1WRGISQH>1 Lachmann p. 73 
+, 
+<1KU/RIE>1
+, 
+<1@@H)\>1] > 147 Sa Cant.(p) homoiot. (>6)
+ : <1MH>1 91(c)-534 410 Cyr(p)
+ : <1KAI>1 764
+<1E)N>1] > 147 Sa Cant.(p) homoiot. (>6)
+<1POTAMOI=S>1] > 147 Sa Cant.(p) homoiot. (>6)
+<1O(>1] > 147 Sa Cant.(p) homoiot. (>6) 
+<1QUMO/S>1] > 147 Sa Cant.(p) homoiot. (>6) 
+<1SOU>1] > 147 Sa Cant.(p) homoiot. (>6)
+, 
+<1@@H)\>1] > S* homoiot. (>6) 
+ : <1MHDE>1 534 
+<1E)N>1] > S* homoiot. (>6) 
+<1QALA/SSH|>1] > S* homoiot. (>6) 
+<1TO\>1] > S* homoiot. (>6) 
+<1O(/RMHMA>1] > S* homoiot. (>6)
+ : <1ORMH>1 Ach = Compl.
+<1SOU>1] > S* homoiot. (>6) 
+; 
+<1@@O(/TI>1 
+<1E)PIBH/SH|>1
+<1E)PI\>1 
+<1TOU\S>1 
+<1I(/PPOUS>1
+<1SOU>1 
+, 
+<1@@KAI\>1
+<1H(>1] > S* 233* (corr. (1 vid)) 
+<1I(PPASI/A>1 
+<1SOU>1 
+<1SWTHRI/A>1
+. 
+~x3y9 
+<1@@E)NTEI/NWN>1
+<1E)NTENEI=S>1 Or. III 255] 
+ : <1ENETEINAS>1 B 410
+ : <1ENETINAS>1 S*
+<1TO/>1 Or.] > B-S* 410: cf. Zach. 10:4 
+<1TO/CON>1
+<1SOU>1 
+; > Ra
+<1@@E(PTA/>1 scripsi cum Grevio (sec. Schleusner I 843) et Wutz p. 417 n.1] 
+ : <1EPI>1 B-S <2lI>2'-49-407' <2C>2'-68-239-534 26' Cyr(p) Tht. Bas.N. 
+    Thph. et codd. gr. et verss. (W Or.)
+ + <1TA>1 codd. gr. et verss. (W Or.) 
+<1SKH=PTRA>1] 
+ : <2regna>2 Ach: cf. Zach. 10:11 
+, 
+<1LE/GEI>1] > 198 764 Bo (hab(Lit)) Aeth(p) Cyr(p) Thph.
+ : <1EIPEN>1 Q'-49 86(mg) 
+<1KU/RIOS>1] > 198 764 Bo (hab(Lit)) Aeth(p) Cyr(p) Thph. 
+ : <1KU/RIOS>1 sub !! Syh: > MT 
+. 
+<1@@@DIA/YALMA>1] > B(c) <2L>2-147-46-711(txt) -410-613-764 
+    <2C>2'-68-239-534 26' Aeth Arab Arm Cyr. Th. Tht. Thph. Aug. Cant.(p) 
+. 
+ +< <1EK>1 410 Bo 
+ +< <1GH=>1 Syh (~) 
+<1@@POTAMW=N>1] 
+ : <1POTAMOIS>1 22*-48-231-719-763 <2lI>2-613* Th. Tht.(p) Tert. III 555
+    Hi. Syh Aug. Cant.(p) 
+ : <1POTAMW>1 S(ca) 26
+ : <1POTAMOUS>1 W(c) = Vulg.^^
+<1R(AGH/SETAI>1]
+ : <1RHCEIS>1 W(c) = Vulg.^^
+ +< <1H>1 <2L>2-49 Th. Tht.(p) Tert. III 555 Hi. Aug. Cant.(p)
+<1GH=>1] > Syh (~)
+ : <1GHS>1 W(c) = Vulg.^^ 
+ + <2et>2 Sa
+ + <2fugerunt>2 Sa
+ + <2aquae>2 Sa 
+ + <2eorum>2 Sa 
+. 
+~x3y10
+<1@@O)/YONTAI/>1] 
+ : <1OYETAI>1 239 
+ : <1IDO<N>>1 W(c) = Vulg.
+<1SE>1
+<1KAI\>1
+<1W)DINH/SOUSI>1] 
+ : <1WDINOUSI>1 68
+<1LAOI/>1 
+, 
+<1@@SKORPI/ZWN>1] 
+ : <2fugerunt>2 Sa: cf. 9 
+<1U(/DATA>1 
+<1POREI/AS>1 Tert. III 484.555 = MT]
+ + <1AUTOU>1 W A'`-Q'-49'`-233'-534 36-<2lII>2 Sa Bo Cyr.(F)(= comm)
+    Tht(p) Bas.N. Cant.(p) Ra 
+ + <1AUTWN>1 198 410
+: 
+<1@@E)/DWKEN>1
+<1H(>1] > 26 239
+<1A)/BUSSOS>1 
+<1FWNH\N>1
+<1AU)TH=S>1]
+ : <1AUTOU>1 410 544
+, 
+ +< <1KATA>1 Ach Sa 
+ +< <2ad>2 Bo 
+<1@@U(/YOS>1] 
+ : <2ab altitudine>2 Cant.(p) 
+<1FANTASI/AS>1] 
+ : <1XEIRWN>1 W(c): cf. MT et Vulg. 
+<1AU)TH=S>1] > Hi.(p) 
+ : <1AUTOU>1 Cyr(F) 
+. 
+~x3y11
+<1@@E)PH/RQH>1] > <2L>2(-36) Tht.(p): homoiot. (>11)
+<1O(>1] > <2L>2(-36) Tht.(p): homoiot. (>11)
+<1H(/LIOS>1] > <2L>2(-36) Tht.(p): homoiot. (>11) 
+, 
+<1KAI\>1] > <2L>2(-36) Tht.(p): homoiot. (>11)
+<1H(>1] > <2L>2(-36) Tht.(p): homoiot. (>11)
+<1SELH/NH>1] > <2L>2(-36) Tht.(p): homoiot. (>11) 
+<1E)/STH>1] > <2L>2(-36) Tht.(p): homoiot. (>11)
+ : <1ESTAI>1 544 Th.
+<1E)N>1] > <2L>2(-36) Tht.(p): homoiot. (>11) 
+<1TH=|>1] > <2L>2(-36) Tht.(p): homoiot. (>11) S* 
+<1TA/CEI>1] > <2L>2(-36) Tht.(p): homoiot. (>11)
+<1AU)TH=S>1] > <2L>2(-36) Tht.(p): homoiot. (>11) 
+: 
+<1@@EI)S>1
+<1FW=S>1] 
+ : <2revelationem>2 Ach Sa
+<1BOLI/DES>1] 
+ : <1BELWN>1 W(c) Ach: cf. Vulg.^^(!) 
+<1SOU>1 
+<1POREU/SONTAI>1
+, 
+<1@@EI)S>1
+<1FE/GGOS>1 
+<1A)STRAPH=S>1] 
+ : <1ASTRAPWN>1 410 Sa Bo (+ <1SOU>1) 
+ : <2fulgur>2 Tert. III 555 
+ : coni. <1ASTRAPH>1 vel <1ASTRAPTEI>1 (<1TA OPLA SOU>1) Lachmann p. 79 
+<1O(/PLWN>1]
+ : <1OPLON>1 S* 130 Syh(<3)NYZ>3) Tert.(<2scutum>2) 
+ : <2arma>2 (= <1OPLA>1) La(S) Arab Cant.(p)
+ : <2hastae>2 (= <1DORATOS>1) Ach^^(!)
+ : <1DOCHS>1 538
+<1SOU>1 
+. 
+~x3y12
+<1@@E)N>1 
+<1A)PEILH=|>1]
+ : <1AGGEILH>1 W* 
+ + <1SOU>1 A`-49'-198-233'-534 Q(mg) 86(c) 130' La(S) Co Aeth Cyr(p) Th.
+    Bas.N.(mg) Tert. III 555 Cant.(p) 
+<1O)LIGW/SEIS>1 Th.]
+ : <1OLIGWSEI>1 W*
+ : <1SUMPATHSEIS>1 <2L>2'`(-36) (86(txt)) Tht.
+ : <2triturabis>2 Ach(!)
+<1GH=N>1
+<1@@KAI\>1
+<1E)N>1 
+<1QUMW=|>1 W] 
+ + <1SOU>1 A-49-233'-534 Q(mg) La(S) Co Aeth Bas.N.(mg) Tert. Cant.(p)
+<1KATA/CEIS>1 Tert. (<2depones>2)]
+ : <1PATACEIS>1 Syh (<3)XMT>3) Tht. 
+ : <2dissolves>2 (= <1KATATHCEIS>1) Bo: cf. Mich. 4:13
+<1E)/QNH>1
+. 
+~x3y13
+<1@@E)CH=LQES>1]
+ : <1ECHLQEN>1 W* 544 
+<1EI)S>1
+<1SWTHRI/AN>1 
+ +< <1TOU>1 22*-48-51* Th. Tht.(p)
+<1LAOU=>1 
+<1SOU>1 
+<1@@TOU=>1
+<1SW=SAI>1
+<1TOU\S>1 Tert. III 556]
+ : <1TON>1 B-S* Ach Aeth(p)^^ 
+<1XRISTOU/S>1 Tert. III 556]
+ : <1XREISTOUS>1 W
+ : <1XRISTON>1 B(c)-S* Ach Aeth(p)^^
+ : <1XREISTON>1 B*
+ : <2electos>2 Cant.(p)(!)
+<1SOU>1 
+: 
+ +< <1ELHLUQAS>1 613 147 91(c)(?)-538 
+<1@@E)/BALES>1 W*] > 538 (>10)
+ : <1EBALAS>1) S(c) A'-544
+ : <1BALEIS>1 B 
+ : <1BALIS>1 S* 
+ : <1ELHLUQAS EBALAS>1) 147 91(c)(?)
+ : <1SUNEQLAS<AS>>1 W(c) Ach: cf. MT et Vulg. 
+<1EI)S>1] > 538 (>10) 
+<1KEFALA\S>1] > 538 (>10) 
+ : <2caput>2 Ach: cf. MT
+<1A)NO/MWN>1] > 538 (>10) 
+ : <1ASEBWN>1 Ach: cf. MT 
+<1QA/NATON>1] > 538 (>10) W(c)
+ : <2ex . . >2 Ach: cf. MT
+ + <2domo>2 Ach: cf. MT 
+ + <2eius>2 Ach: cf. MT 
+, 
+ +< <2posuisti>2 Bo: cf. MT (+<3) 
+ +< <2fundamentum>2 Bo: cf. MT (+<3)
+ +< <2inane>2 Bo: cf. MT (+<3)
+<1@@E)CH/GEIRAS>1] > 538 (>10)
+ : <2induxisti>2 Ach
+<1DESMOU/S>1] > 538 (>10) 
+ + <1SOU>1 W Q'-26-49'-198-233' Co Aeth(p) Bas.N.(mg) 
+<1E(/WS>1] > 538 (>10)
+<1TRAXH/LOU>1] > 538 (>10)
+ : <1TRAXHLOUS>1 62-86
+. 
+ +< <1EIS>1 S(ca) 49 233' 407 Syh Arm 
+ +< <1TELOS>1 S(ca) 49 233' 407 Syh Arm 
+<1@@@DIA/YALMA>1 W] > 538 (>10) Q'-106-534 130-311(txt) La(S)(vid.) 
+    Aeth(p) Cyr(p) Aug. Cant.(p)
+ : <1EIS . . >1 <2L>2'`-410-613 <2C>2-68-239-538 Aeth(p) Cyr(p) Th. Tht.
+    Thph. Bas.N.(txt) Hi. Cant.(p)
+ + <1TELOS>1 <2L>2'`-410-613 <2C>2-68-239-538 Aeth(p) Cyr(p) Th. Tht. 
+    Thph. Bas.N.(txt) Hi. Cant.(p)
+. 
+~x3y14
+<1@@DIE/KOYAS>1]
+ : <1DIEKOPAS>1 S*
+ : <1DIEKOYEN>1 Q*
+<1E)N>1 
+<1E)KSTA/SEI>1
+<1KEFALA\S>1
+ +< <1ANOMWN>1 Bo: ex 13
+ +< <2et>2 Bo: ex 13
+ +< <1TWN>1 Cyr.(F) 
+<1DUNASTW=N>1 
+, 
+<1@@SEISQH/SONTAI>1]
+ : <1SUSTHSONTAI>1 147 68 
+ + <2gentes>2 Cant.(p)
+<1E)N>1 
+<1AU)TH=|>1 22*(et c2)] 
+ : <1AUTOIS>1 22(c1)-<2lI>2-407' 538 Syh Tht.(p)
+ + <2gentes>2 La(S) Cant.(p)
+: 
+<1@@DIANOI/COUSIN>1 
+<1XALINOU\S>1 
+<1AU)TW=N>1]
+ : <2equorum>2 Ach
+<1@@W(S>1 
+ +< <1O(>1 rel.(- S(ca) <2L>2(-36)) Bas.N.
+<1E)/SQWN>1 W B-S* A-Q'-233'-764 Bas.N.]
+ : <1ESQIWN>1 rel.: cf. Os. 9:4 
+<1PTWXO\S>1]
+ : <1PTWXON>1 Cyr.(p) 
+<1LA/QRA|>1 
+. 
+ + <1DIAYALMA>1 86-711(mg)
+~x3y15
+<1@@KAI\>1] > 711 Ach Arm Ambr. V 81 Cant.(p) = MT
+<1E)PEBI/BASAS>1 Ambr.] 
+ : <1EPIBIBAS>1 B 
+ : <1EPIBIBASIS>1 S*
+ : <1EPEBIBASEN>1 544 
+ : <1EPEBIBASAN>1 46
+<1EI)S>1] > Th. (~) <2L>2' Tht. (non (cit)) (~) 
+<1QA/LASSAN>1] > (~) <2L>2' Th. Tht. (non (cit)) (~)
+<1TOU\S>1 
+<1I(/PPOUS>1
+<1SOU>1]
+ + <1EI)S>1 (~) <2L>2' Tht. (non (cit)) (~) 
+ + <1EPI>1 Th.
+ + <1QA/LASSAN>1 (~) <2L>2' Th. Tht. (non (cit)) (~)
+<1@@TARA/SSONTAS>1
+ +< <2multitudinem>2 Ach: cf. MT
+<1U(/DWR>1 W-410 B-S* A`-Q'-49'-198-233 86(mg) Bo Cyr.(comm)] 
+ : <1UDATA>1 rel.(Ambr.)
+ : <2aquarum>2 Ach: cf. MT
+<1POLU/>1 W B-S* A`-Q'-49'-198-233 86(mg) Bo Cyr.(comm)] > 410
+ : <1POLLA>1 rel.(Ambr.)
+ : <2multarum>2 Ach: cf. MT 
+. 
+~x3y16
+<1@@E)FULACA/MHN>1] 
+ : <1HKOUON>1 W(c) Ach = MT 
+, 
+<1KAI\>1
+<1E)PTOH/QH>1 
+<1H(>1
+<1KOILI/A>1 = MT^^] 
+ : <1KARDIA>1 S(c) 22(c)-36(c)-147-<2lII>2 (86(mg))-49'`-407' 
+    <2C>2'(-538) -68-239-534 26' 544 710 Syh Aeth(p) Arab Arm Cyr. Th.
+    Thph. Bas.N.
+<1MOU>1 
+<1@@A)PO\>1] > W: homoiot. (>5) Ach (<3)
+<1FWNH=S>1] > W: homoiot. (>5) Ach (<3) 
+<1PROSEUXH=S>1] > W: homoiot. (>5) Ach (<3) 
+<1XEILE/WN>1] > W: homoiot. (>5)
+ : <2labia>2 Ach
+<1MOU>1] > W: homoiot. (>5) 
+ : <2mea>2 Ach
+ + <2conticuerunt>2 Ach 
+ + <2a>2 Ach
+ + <2voce>2 Ach 
+ + <2tua>2 Ach
+, 
+<1@@KAI\>1
+<1EI)SH=LQEN>1
+<1TRO/MOS>1]
+ : <2putredo>2 Ach = MT 
+<1EI)S>1
+<1TA\>1 
+<1O)STA=>1
+<1MOU>1 
+, 
+<1@@KAI\>1] > S*
+<1U(POKA/TWQE/N>1]
+ : <1EN>1 22(c)-147-46-410-613(c) 490-534' 106 Cyr(p) Bas.N.(txt) 
+    Thph.(p) Cant.(p) 
+<1MOU>1]
+ : <1EMOI>1 22(c)-147-46-410-613(c) 490-534' 106 Cyr(p) Bas.N.(txt) 
+    Thph.(p) Cant.(p) 
+<1E)TARA/XQH>1
+<1H(>1
+<1E(/CIS>1^^] 
+ : <1ISXUS>1 S(c) 22(c)-147-46' (711(mg))-407(mg)-613 490-130'-239-534
+    106 198 La(S) (<2virtus>2) Aeth Arab Cyr(p) Bas.N.(txt) Thph.(p)
+    Hi. ( <<sive ... <1H ECIS MOU>1 ..., diversa quippe exemplaria
+    reperiuntur>>) Cant.(p) 
+ : <1KARDIA>1 410: ex praec.
+ : <2venter>2 Arm: ex praec.
+ : <1UPOSTASIS>1 Cyr.(F)
+<1MOU>1 
+. 
+<1@@A)NAPAU/SOMAI>1 
+<1E)N>1 
+<1H(ME/RA|>1
+<1QLI/YEWS>1] 
+ + <1MOU>1 <2lI>2`-49`-410 <2C>2-68-239-534 26' 198 710 Ach Sa(cit) Aeth
+    Arab Cyr. Tht. Thph. Bas.N. Hi.(p) Cant.(p) 
+<1@@TOU=>1
+<1A)NABH=NAI>1] 
+ + <1ME>1 S(c) 22(c)-36-51(c)-<2lI>2`-49'`-410 <2C>2-68-239-534' 26' 710
+    Cyr. Bas.N. Thph. 
+<1EI)S>1] 
+ : <1PROS TON>1 Cyr.(F) 
+<1LAO/N>1]
+ : <1NAON>1 87 410 Thph. (<<<1TINA TWN ANTIGRAFWN>1>>)
+<1PAROIKI/AS>1
+<1MOU>1]
+ : <1SOU>1 147
+. 
+~x3y17
+<1@@DIO/TI>1
+<1SUKH=>1 
+<1OU)>1]
+ + <2iam>2 Ach: cf. MT
+<1KARPOFORH/SEI>1]
+ : <2florebit>2 Ach: cf. MT 
+, 
+<1@@KAI\>1
+<1OU)K>1
+<1E)/STAI>1]
+ : <1ESTIN>1 198
+<1GENH/MATA>1 
+<1E)N>1 
+<1TAI=S>1]
+ : <1TOIS>1 W* Cyr.(p)
+<1A)MPE/LOIS>1
+: 
+<1@@YEU/SETAI>1]
+ : <2absconditum . . >2 Ach: cf. 2:3
+ + <2erit>2 Ach: cf. 2:3
+<1E)/RGON>1 
+<1E)LAI/AS>1
+, 
+<1@@KAI\>1
+<1TA\>1 
+<1PEDI/A>1
+<1OU)>1 
+<1POIH/SEI>1] 
+ : <1POIHSOUSIN>1 <2lI>2
+<1BRW=SIN>1 
+: 
+<1@@E)CE/LIPON>1 W] 
+ : <1ECELIPEN>1 B-S*(et c) Q(c) <2L>2(-36)-62 490-130'-239 233' Th. Tht.
+ : <2eiecta . . >2 Ach
+ + <2est>2 Ach
+<1A)PO\>1] >  Ach(!)
+<1BRW/SEWS>1] >  Ach(!) 
+ : <1MANDRAS>1 W(c) 
+<1PRO/BATA>1] 
+ : <1POIMNIA>1 W(c) 
+ : <2grex>2 Ach(!)
+ + <2ovium>2 Ach(!) (+4)
+ + <2a>2 Ach(!) (+4)
+ + <2stabulo>2 (= <1MANDRA>1) Ach(!) (+4) 
+ + <2suo>2 Ach(!) (+4)
+, 
+<1@@KAI\>1] > S(c)
+<1OU)X>1
+<1U(PA/RXOUSI{N}>1 W' B-S A-Q'-49'-198-233 <2L>2(-36)-86(mg) La(S)(vid.)
+    Syh Th. Hi. Aug. Cant.(p)]
+ : <1UPARCOUSI{N}>1 rel.(Cypr.) 
+<1BO/ES>1] > (~) Q'-198-764 86(mg)-407 538 La(S) Bas.N.(txt) Cyr(p) Cypr. 
+    Aug. Cant.(p) (~) 
+<1E)PI\>1] > 410: cf. MT
+ : <1EN>1 W(c) Bo 
+<1FA/TNAIS>1] > 410: cf. MT 
+ : <1FATNHS>1 W* Q'-198-764 233 Cyr.(comm)
+ : <1FATNH|>1 W(c) Cyr(p) Bo
+ + <1BO/ES>1 (~) Q'-198-764 86(mg)-407 538 La(S) Bas.N.(txt) Cyr(p) Cypr. 
+    Aug. Cant.(p) (~) 
+ + <1EC>1 Q*-407-538-764 La(S) Cyr. Bas.N. Thph. (<<<1TINA TWN ANTIGRAFWN>1>>)
+ + <1IASEWS>1 Q*-407-538-764 La(S)(<2sanatione>2) Cyr. Bas.N. Thph. 
+    (<<<1TINA TWN ANTIGRAFWN>1>>) 
+ + <2in>2 (s. <2ex>2) Ach 
+ + <2remissione>2 (s. <2venia>2) Ach
+ + <1ECELASEWS>1 410: cf. MT
+ + <1ECILASEWS>1 W(vid.) A`-233'-544 Q(c) 86(mg) Bo 
+ + <1ECISASEWS>1 544
+ + <1AUTWN>1 W(vid.) A`-233'-544 Q-407'-538-764 86(mg) Cyr. Bas.N.
+    Thph. (<<<1TINA TWN ANTIGRAFWN>1>>) Ach Bo
+ + <2suo>2 La(S)
+. 
+~x3y18
+<1@@E)GW\>1 
+<1DE\>1 
+<1E)N>1 W]
+ : <1EPI>1 A'-Q'-49 <2lI>2`(-46) Bas.N.: cf. Is. 61:10
+<1TW=|>1
+<1KURI/W|>1 
+<1A)GALLIA/SOMAI>1
+, 
+<1@@XARH/SOMAI>1] > 46
+ : <1EUFRANQHSOMAI>1 Ach = Compl. 
+<1E)PI/>1]
+ : <2in>2 La(S)(vid.) Syh Cypr. Aug. Cant. = MT 
+<1TW=|>1
+<1QEW=|>1 
+<1TW=|>1
+<1SWTH=RI/>1
+<1MOU>1 
+. 
+~x3y19
+<1@@KU/RIOS>1 
+<1O(>1
+<1QEO\S>1 W' B-S*(et c) A-Q'-49(c)-198-613*-764 La(S) Co Arm Bas.N. Cant.(p)] 
+ + <1MOU>1 rel. 
+<1DU/NAMI/S>1 
+<1MOU>1 
+<1@@KAI\>1
+<1TA/CEI>1] 
+ : <1TACAI>1 <2lI>2 
+ : <1KATACEI>1 W' 
+<1TOU\S>1 
+<1PO/DAS>1
+<1MOU>1 
+<1EI)S>1] 
+ : <1WS>1 W(c) <2L>2(-36)-62 Ach: cf. Ps. 17(18):34 
+ + <1H>1 62 
+ : <1WSEI>1 147-86(txt)-711(txt) Aeth(p) Th. Tht. (= II 64) 
+<1SUNTE/LEIAN>1]
+ : <1ELAFWN>1 W(c) <2L>2(-36) Ach: cf. Ps. 17(18):34
+ : <1ELAFOU>1 <2lI>2-86(txt)-711(txt) Aeth(p) Th. Tht. (= II 64)
+: 
+ +< <1KAI>1 S(ca) 22(c)-36-<2lI>2`-49` 490-68-130'-534 106 710 Ach Sa 
+    Syh Aeth Arab Arm Cyr.(p) Th. Tht. Bas.N. Cant.(p) = MT 
+<1@@E)PI\>1 
+<1TA\>1 
+<1U(YHLA/>1]
+ : <1UYH>1 W(c) = MT
+ + <1M<OU>>1 W(c) = MT
+<1E)PIBIBA=|>1] 
+ : <1EPEBIBA>1 <2C>2(-87)-239 
+ : <1EPIBIBWN>1 26 Cyr(p) 
+<1ME>1
+<1@@TOU=>1
+<1NIKH=SAI>1 W] 
+ + <1ME>1 S(c) A'`-49`-410-534'-710 46' <2C>2-68-239 Cyr. Tht. Thph. Bas.N. 
+<1E)N>1 
+<1TH=|>1
+<1W)|DH=|>1]
+ : <1ODW>1 W' S* 130' Aeth(p) 
+ : <2claritate>2 (s. <2gloria>2) La(S) Ach Cant.(p): cf. A. Baumstark,
+    Oriens Christ. 28 (1931) 170 sq.
+<1AU)TOU=>1 
+. 
+~t"Subscriptio" 
+ +< <1TELOS>1 51 <2c>2(-311)
+ +< <1TETELESTAI>1 Syh (+<4) (~) La(S)[<2explicit>2] (~)
+ +< <1H>1 Syh (+<4) 
+ +< <1PROFHTEIAS>1 51 
+ +< <1PROFHTEIA>1 Syh (+<4) (~) La(S)[<2propheta>2] (~)
+ +< <1TOU>1 Syh (+<4) 
+<1AMBAKOUM>1 W B-S A`-Q-198-233-534-710-764 <2L>2'(-51)-86 <2c>2 La(S) Ach
+ : <1ABBAKOUM>1 51 68 544
+ : <1ABBAKOUK>1 (<3QWQBX>3) Syh
+ + <1H'>1 W B-S A`-Q-198-233-534-544 -764 Syh 
+ + <1STIXWN>1 <2L>2 
+ + <1STIXOI>1 86(c) 
+ + <1RNZ'>1 <2L>2 
+ + <1RN'>1 86(c)
+ + <1ERMHNEUETAI>1 Syh
+ + <1AMELHS>1 <2lI>2-86 (+5) Syh
+ + <1KAI>1 <2lI>2-86 (+5) 
+ + <1O>1 <2lI>2-86 (+5) 
+ + <1PATHR>1 <2lI>2-86 (+5) 
+ + <1ANESTH>1 <2lI>2-86 (+5)
+ + <1PROFHTOU>1 538 
+ + <2propheta>2 La(S) 
+ + <2explicit>2 La(S) 
+  
+//end//
+
+</pre>

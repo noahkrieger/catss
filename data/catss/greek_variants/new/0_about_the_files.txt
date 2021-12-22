@@ -1,0 +1,13 @@
+If you have trouble reading these files on line (for example, 
+if they are all jumbled up), please use the following procedure. 
+
+Instead of clicking on the name of the file, right-click (or on 
+a Macintosh command-click) on the name of the file.  A 
+contextual menu will appear which will allow you to save the 
+file on your hard drive.  Then you can open it on your own system. 
+
+The problem you're encountering is that web browsers ignore 
+spacing and line breaks in text files.  When you download the 
+file, you can easily open it as a text file. 
+
+
