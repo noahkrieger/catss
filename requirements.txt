@@ -7,3 +7,6 @@ plotly
 matplotlib
 pyarrow
 ipynb
+defusedxml
+lxml
+bs4
