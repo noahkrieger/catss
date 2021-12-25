@@ -1,3 +1,5 @@
 env
 .ipynb*
 .idea
+data/perseus/greek-roman/hopper-texts-GreekRoman.tar.gz
+data/perseus/greek-roman/sgml.xml.texts.tar.gz
